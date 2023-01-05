@@ -1,0 +1,52 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = 'Blogpaper'
+
+
+[menu]
+[[menu.main]]
+  identifier = 'about'
+  name = 'This is the about section'
+  title = 'about section'
+  url = '/about/'
+  weight = 110
+
+
+media_folder = "static/img"
+public_folder = "/img"
+
+[backend]
+name = "git-gateway"
+branch = "main"
+
+[[collections]]
+name = "blog"
+label = "Blog"
+folder = "content/blog"
+create = true
+slug = "{{year}}-{{month}}-{{day}}-{{slug}}"
+
+  [collections.editor]
+  preview = false
+
+  [[collections.fields]]
+  label = "Title"
+  name = "title"
+  widget = "string"
+
+  [[collections.fields]]
+  label = "Publish Date"
+  name = "date"
+  widget = "datetime"
+
+  [[collections.fields]]
+  label = "Description"
+  name = "description"
+  widget = "string"
+
+  [[collections.fields]]
+  label = "Body"
+  name = "body"
+  widget = "markdown"
+
