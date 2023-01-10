@@ -1,7 +1,7 @@
 ---
 title:  A journey of a thousand leagues begins beneath one’s feet
 date:   2018-11-09 15:01:35 +0300
-image:  'https://via.placeholder.com/1350x900'
+image:  '/images/14th200.png'
 tags:   [lifestyle, rest]
 ---
 Sin tantum modo ad indicia veteris memoriae cognoscenda, curiosorum. Haec et tu ita posuisti, et verba vestra sunt. Idemne potest esse dies saepius, qui semel fuit? Ampulla enim sit necne sit, quis non iure optimo irrideatur, si laboret? Ego vero volo in virtute vim esse quam maximam; Serpere anguiculos, nare anaticulas, evolare merulas, cornibus uti videmus boves, nepas aculeis. Conferam tecum, quam cuique verso rem subicias; Si longus, levis.
@@ -12,7 +12,7 @@ In qua quid est boni praeter summam voluptatem, et eam sempiternam? Cur post Tar
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="https://via.placeholder.com/800x800" alt="Gallery">
+    <img src="/images/14th200.png" alt="Gallery">
     <img src="https://via.placeholder.com/800x800" alt="Gallery">
     <img src="https://via.placeholder.com/800x800" alt="Gallery">
   </div>

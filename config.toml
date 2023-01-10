@@ -1,8 +1,8 @@
 #-------------------------------
 # General Site Settings
-baseURL = "http://example.org/"
+baseURL = "http://www.14thBelow.com/"
 languageCode = "en-us"
-title = "Hally"
+title = "14thBelow.com"
 googleAnalytics = "" # Add your identifier. For example UA-99631805-1.
 paginate = 9
 
@@ -18,7 +18,7 @@ create = true
 slug = "{{year}}-{{month}}-{{day}}-{{slug}}"
 
   [collections.editor]
-  preview = false
+  preview = true
 
   [[collections.fields]]
   label = "Title"
@@ -72,31 +72,17 @@ slug = "{{year}}-{{month}}-{{day}}-{{slug}}"
     weight = 4
 
 [params]
-  logo = "" # You can add own logo. For example "/images/logo.png".
-  description = "Hally is a modern and minimal HUGO theme for sharing your ideas."
+  logo = "/images/14th.png" # You can add own logo. For example "/images/logo.png".
+  description = "New Art Blog."
 
   #-------------------------------
   # Author Settings
   [params.author]
-    author__name = "Howard Burns"
-    author__image = "https://via.placeholder.com/200x200"
-    author__avatar = "https://via.placeholder.com/200x200"
-    author__description = "My name is Howard Burns. I'm a freelance photographer based in Denver. I like being free and enjoying every moment."
+    author__name = "14th Below"
+    author__image = "/images/14th225.png"
+    author__avatar = "/images/14th225.png"
+    author__description = "NYC Art Blog."
 
-  [[params.social]]
-    icon = "ion-logo-twitter"
-    name = "Twitter"
-    link = "https://twitter.com"
-
-  [[params.social]]
-    icon = "ion-logo-facebook"
-    name = "Facebook"
-    link = "https://facebook.com"
-
-  [[params.social]]
-    icon = "ion-logo-dribbble"
-    name = "Dribbble"
-    link = "https://dribbble.com"
 
   # Example of adding a new link to the author section and footer:
   # [[params.social]]
