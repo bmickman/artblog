@@ -1,9 +1,9 @@
 #-------------------------------
 # General Site Settings
-baseURL = "http://www.14thBelow.com/"
+baseURL = "https://www.14thbelow.com"
 languageCode = "en-us"
 title = "14thBelow.com"
-googleAnalytics = "" # Add your identifier. For example UA-99631805-1.
+googleAnalytics = "G-VDB1FEM1FH" # Add your identifier. For example UA-99631805-1.
 paginate = 9
 
 [backend]
@@ -40,6 +40,10 @@ slug = "{{year}}-{{month}}-{{day}}-{{slug}}"
   name = "body"
   widget = "markdown"
 
+ [[collections.fields]]
+  label = "Images"
+  name = "images"
+  widget = "markdown"
 
 
 
@@ -81,7 +85,7 @@ slug = "{{year}}-{{month}}-{{day}}-{{slug}}"
     author__name = "14th Below"
     author__image = "/images/14th225.png"
     author__avatar = "/images/14th225.png"
-    author__description = "NYC Art Blog."
+    author__description = ""
 
 
   # Example of adding a new link to the author section and footer:
