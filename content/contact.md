@@ -1,7 +1,8 @@
 ---
 layout: contact
 title: Contact
-image: 'https://via.placeholder.com/1350x900'
+image: ''
 ---
 
-Hally comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want.
+If you have suggestions for 14thBelow.com or want your event listed, please email 14thbelow@gmail.com 
+It's suggested to send event/news-related information at two weeks ahead of when you want it to be published.

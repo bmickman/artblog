@@ -2,6 +2,7 @@
 title: Thursday Jan 12th Art Listings
 date: 2023-01-10T20:00:44.794Z
 description: Thursday Shows
+image: '/images/holedogs.jpg'
 ---
 **L﻿ES - Openings are 6pm-8pm**
 
