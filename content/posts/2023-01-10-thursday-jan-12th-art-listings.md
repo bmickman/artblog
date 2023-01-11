@@ -2,7 +2,7 @@
 title: Thursday Jan 12th Art Listings
 date: 2023-01-10T20:00:44.794Z
 description: Thursday Shows
-image: '/images/holedogs.jpg'
+image: /images/holedogs.jpg
 ---
 **L﻿ES - Openings are 6pm-8pm**
 
@@ -37,3 +37,9 @@ Jane Lombardo Gallery 58 White Street
 Luhring Augustine 17 White Street
 
 Kapp Kapp 86 Walker St
+
+![](/images/whiter.jpg "'A Whiter Shade of Pale' at Lichtundfire")
+
+
+
+![]()
