@@ -77,10 +77,10 @@ slug = "{{year}}-{{month}}-{{day}}-{{slug}}"
   #-------------------------------
   # Author Settings
   [params.author]
-    author__name = "14th Below"
+    author__name = ""
     author__image = "/images/14th225.png"
     author__avatar = "/images/14th225.png"
-    author__description = "Your new favorite art blogger"
+    author__description = "NYC's Art Blog"
 
 
   # Example of adding a new link to the author section and footer:
