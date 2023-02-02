@@ -1,5 +1,5 @@
 ---
-title: 2/1-2/2/2023 Wednesday & Thursday Art Shows
+title: Feb 1-2 Wednesday & Thursday Art Shows
 date: 2023-02-02T17:51:26.580Z
 description: Weds/Thurs Listings
 ---
