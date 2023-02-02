@@ -29,4 +29,4 @@ description: 2/3-4 Art Shows
 
 [Andrew Edlin Gallery](https://www.edlingallery.com/exhibitions/ray-materson-embroideries-1990-2023), 212 Bowery, Embroideries, 1990–2023 by Ray Materson
 
-<iframe src="https://www.google.com/maps/d/u/3/embed?mid=1Sse8XX9ZCcUJL0WzUpzlK75FaoBUjeQ&ehbc=2E312F" width="640" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/u/3/embed?mid=1Sse8XX9ZCcUJL0WzUpzlK75FaoBUjeQ&ehbc=2E312F" width="100%" height="480"></iframe>00%0%
