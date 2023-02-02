@@ -9,8 +9,6 @@ description: Weds/Thurs Listings
 
 [Anita Rogers Gallery](https://www.anitarogersgallery.com/exhibitions), 494 Greenwich Street, 'Exercising the Border,' by Mahreen Zuberi
 
-
-
 **T﻿hursday | LES**
 
 [High Noon Gallery](https://www.highnoongallery.com/overcrossing),124 Forsyth Street, Overcrossing by Eozen Agopian
@@ -23,7 +21,7 @@ description: Weds/Thurs Listings
 
 [Lichtundfire](https://www.facebook.com/events/3296923993900855), 175 Rivington St, Refracture, featuring various artists 
 
-<iframe src="https://www.google.com/maps/d/u/3/embed?mid=1dDpUYxFG-z3gHBDGDZuKdS3rghdO3MQ&ehbc=2E312F" width="640" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/u/3/embed?mid=1dDpUYxFG-z3gHBDGDZuKdS3rghdO3MQ&ehbc=2E312F" width="100%" height="480"></iframe>
 
 ![](/images/020223l.jpg "Refracture at Lichtundfire")
 
