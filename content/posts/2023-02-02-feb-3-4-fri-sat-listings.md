@@ -24,9 +24,9 @@ image: /images/02022356.jpg
 
 [Storage](https://www.instagram.com/storageartgallery/), 52 Walker St, Press Release featuring various artists 
 
-[G﻿host Machine](https://www.instagram.com/ghostmachine.nyc), 373 Broadway #B192, Body Memory featuring various artists
+[G﻿host Machine](https://www.instagram.com/ghostmachine.nyc), 373 Broadway #B192, Body Memory featuring various artists  ***Grand Opening***
 
-C﻿anal Projects, 351 Canal St, 'Things Unstable' by Seung-taek Lee 
+[C﻿anal Projects](https://www.instagram.com/canalprojectsny/), 351 Canal St, 'Things Unstable' by Seung-taek Lee 
 
 **S﻿aturday | LES**
 
