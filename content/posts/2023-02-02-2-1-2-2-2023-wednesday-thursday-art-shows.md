@@ -22,6 +22,10 @@ image: /images/020223l.jpg
 
 [Lichtundfire](https://www.facebook.com/events/3296923993900855), 175 Rivington St, Refracture, featuring various artists 
 
+**T﻿hursday | Tribeca**
+
+[Downs & Ross](https://downsross.com/exhibitions), 424 Broadway 3rd Fl, Phantoms by Jiang Cheng and A Mirror for the Romantic by Tsai Yun-Ju
+
 <iframe src="https://www.google.com/maps/d/u/3/embed?mid=1dDpUYxFG-z3gHBDGDZuKdS3rghdO3MQ&ehbc=2E312F" width="100%" height="480"></iframe>
 
 ![](/images/020223l.jpg "Refracture at Lichtundfire")
