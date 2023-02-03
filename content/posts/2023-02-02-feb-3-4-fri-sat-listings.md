@@ -1,8 +1,8 @@
 ---
 title: Feb 3-4 Fri/Sat Listings
 date: 2023-02-02T19:04:20.085Z
-description: 2/3-4 Art Shows
-image: /images/020223l.jpg
+description: 2/3-4 Art Shows 
+image: /images/02022356.jpg
 ---
 **Friday | LES** 
 
