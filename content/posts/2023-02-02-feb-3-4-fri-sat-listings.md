@@ -4,7 +4,7 @@ date: 2023-02-02T19:04:20.085Z
 description: 2/3-4 Art Shows
 image: /images/02022356.jpg
 ---
-**Friday | LES** 
+**Friday | LES** **6pm-8pm**
 
 [Massy Klein](https://www.masseyklein.com/exhibitions/62-kate-mcquillen-a-thief-with-no-loot/), 124 Forsyth Street, A Thief With No Loot by Kate McQuillen
 
@@ -14,7 +14,7 @@ image: /images/02022356.jpg
 
 [Andrew Edlin Gallery](https://www.edlingallery.com/exhibitions/joe-coleman-100-seconds-to-midnight), 212 Bowery, 100 Seconds to Midnight by Joe Coleman
 
-**F﻿riday | Tribeca**
+**F﻿riday | Tribeca 6pm-8pm**
 
 [One Art Space](https://oneartspace.com/min-kyeongah-solo-exhibition-feb-1-7-2023/), 23 Warren St, Min Kyeong solo show
 
@@ -30,6 +30,10 @@ image: /images/02022356.jpg
 
 **S﻿aturday | LES**
 
-[Andrew Edlin Gallery](https://www.edlingallery.com/exhibitions/ray-materson-embroideries-1990-2023), 212 Bowery, Embroideries, 1990–2023 by Ray Materson
+[Andrew Edlin Gallery](https://www.edlingallery.com/exhibitions/ray-materson-embroideries-1990-2023), 212 Bowery, Embroideries, 1990–2023 by Ray Materson (4pm-6pm)
+
+[Betty Cunningham Gallery](http://www.bettycuninghamgallery.com/exhibitions),15 Rivington Street, What happened to Abstraction? by Jake Berthot (4pm-6pm)
+
+
 
 <iframe src="https://www.google.com/maps/d/u/3/embed?mid=1Sse8XX9ZCcUJL0WzUpzlK75FaoBUjeQ&ehbc=2E312F" width="100%" height="480"></iframe>00%0%
