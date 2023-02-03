@@ -36,6 +36,8 @@ image: /images/feb323.jpg
 
 <iframe src="https://www.google.com/maps/d/u/3/embed?mid=1Sse8XX9ZCcUJL0WzUpzlK75FaoBUjeQ&ehbc=2E312F" width="100%" height="480"></iframe>00%0%
 
-F﻿eatured image above by Tom Knechtel 'Drawn After Life at PPOW
+F﻿eatured image above by Tom Knechtel at PPOW show 'Drawn After Life'
+
+F﻿eatured image below by Will Sheldon at Company show 'Rafaella'
 
 ![](/images/companyfeb3.jpg "From 'Rafaella' by Will Sheldon at Company ")
