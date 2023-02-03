@@ -2,6 +2,7 @@
 title: Feb 1-2 Wednesday & Thursday Art Shows
 date: 2023-02-01T17:51:26.580Z
 description: Weds/Thurs Listings
+image: /images/02022356.jpg
 ---
 **W﻿ednesday | West Village**
 
