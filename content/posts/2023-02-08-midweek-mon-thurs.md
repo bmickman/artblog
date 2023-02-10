@@ -1,5 +1,5 @@
 ---
-title: Midweek Mon-Thurs
+title: Midweek Mon-Thurs 2/14-16
 date: 2023-02-13T17:13:00.000Z
 description: 2/14-2/16/23
 ---
