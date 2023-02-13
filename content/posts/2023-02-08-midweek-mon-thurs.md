@@ -24,4 +24,6 @@ image: /images/213krause.jpg
 
 [JTT](https://jttnyc.com/exhibitions/upcoming), 390 Broadway, Works by James Yaya Hough and Damon Zucconi 
 
+*F﻿eatured image above from 'Emerging To Established' at Krause Gallery*
+
 <iframe src="https://www.google.com/maps/d/u/3/embed?mid=1IUBOJpJysQY_LrmT42hmTd_67PCyL5A&ehbc=2E312F" width="100%" height="480"></iframe>
