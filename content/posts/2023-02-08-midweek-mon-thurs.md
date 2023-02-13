@@ -8,13 +8,15 @@ image: /images/213krause.jpg
 
 [Shin Gallery](http://www.shin-gallery.com/Exhibition/?view_fg=U&site_gb=1), 322 Grand St. 'On the Edge of Visibility: Lessons in Transgression' featuring various artists
 
-**T﻿hurs | LES**
+**T﻿hurs | LES 6pm-8pm**
 
 [Krause Gallery](https://www.krausegallery.com/), 149 Orchard St, 'Emerging To Established' featuring various artists
 
 [Dacia Gallery](http://www.daciagallery.com/), 621 E. 11th Street, 'Multiplicity' by Analia Escalada
 
 [signs and symbols](https://www.signsandsymbols.art/exhibitions/this-one-here-now), 249 East Houston Street, 'This One Here Now' by Tony Orrico 
+
+[Lichtundfire](https://www.facebook.com/events/730110038514746), 175 Rivington St, 'Refracture' by various artists 
 
 **T﻿hurs | Tribeca**
 
