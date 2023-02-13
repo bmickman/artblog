@@ -13,6 +13,8 @@ description: 2/14-2/16/23
 
 [Dacia Gallery](http://www.daciagallery.com/), 621 E. 11th Street, 'Multiplicity' by Analia Escalada
 
+[signs and symbols](https://www.signsandsymbols.art/exhibitions/this-one-here-now), 249 East Houston Street, 'This One Here Now' by Tony Orrico 
+
 **T﻿hurs | Tribeca**
 
 [Cristina Grajales](https://cristinagrajales.com/exhibitions/john-paul-phillipe/), 50 Vestry Street, 'Ombres' by John-Paul Philippe
