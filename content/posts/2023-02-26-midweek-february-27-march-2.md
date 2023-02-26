@@ -2,6 +2,7 @@
 title: Midweek February 27-March 2
 date: 2023-02-26T19:12:38.460Z
 description: Weekday Art Listings
+image: /images/hannahmar2.jpg
 ---
 **M﻿onday | Chinatown**
 
