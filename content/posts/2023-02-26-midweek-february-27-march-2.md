@@ -2,7 +2,6 @@
 title: Midweek February 27-March 2
 date: 2023-02-26T19:12:38.460Z
 description: Weekday Art Listings
-image: /images/hannahmar2.jpg
 ---
 **M﻿onday | Chinatown**
 
@@ -21,6 +20,10 @@ image: /images/hannahmar2.jpg
 T﻿hursday | Tribeca
 
 [B﻿roadway](https://www.broadwaygallery.nyc/), 375 Broadway, 'My Powerful Wish' by Davina Semo
+
+*F﻿eatured image above from by Deborah Czeresko at Hannah Traore Gallery*
+
+*F﻿eatured image below by Tiger Rocha at 1969*
 
 <iframe src="https://www.google.com/maps/d/u/3/embed?mid=1XzLEE8mMQuoH_o3BovPna0QdHqUl8uE&ehbc=2E312F" width="100%" height="480"></iframe>
 
