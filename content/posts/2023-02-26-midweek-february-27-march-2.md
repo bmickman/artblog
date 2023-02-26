@@ -21,10 +21,10 @@ description: Weekday Art Listings
 
 [B﻿roadway](https://www.broadwaygallery.nyc/), 375 Broadway, 'My Powerful Wish' by Davina Semo
 
+<iframe src="https://www.google.com/maps/d/u/3/embed?mid=1XzLEE8mMQuoH_o3BovPna0QdHqUl8uE&ehbc=2E312F" width="100%" height="480"></iframe>
+
 *F﻿eatured image above from by Deborah Czeresko at Hannah Traore Gallery*
 
 *F﻿eatured image below by Tiger Rocha at 1969*
-
-<iframe src="https://www.google.com/maps/d/u/3/embed?mid=1XzLEE8mMQuoH_o3BovPna0QdHqUl8uE&ehbc=2E312F" width="100%" height="480"></iframe>
 
 ![](/images/rocha.png "by Tiger Rocha")
