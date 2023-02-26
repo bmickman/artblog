@@ -5,7 +5,7 @@ description: Weekday Art Listings
 ---
 **M﻿onday | Chinatown**
 
-[L﻿ubov](instagram.com/friendeditions), 5 East Broadway, 'Girls in Bed' by Morgan Maher
+[L﻿ubov](instagram.com/friendeditions), 5 East Broadway, 'Girls in Bed' by Morgan Maher, presented by Friend Editions
 
 **T﻿hursday | LES** 
 
