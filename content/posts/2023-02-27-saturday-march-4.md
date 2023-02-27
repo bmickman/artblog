@@ -19,3 +19,5 @@ image: /images/halfmar4.jpg
 [Lubov](https://lubov.nyc/), 5 East Broadway, 'Only Silver' by Ella Rose Flood
 
 <iframe src="https://www.google.com/maps/d/u/3/embed?mid=1DbtltvaAam5TeHFzSm657ufTN5eX3js&ehbc=2E312F" width="100%" height="480"></iframe>
+
+*F﻿eatured image above by Samantha Joy Groff at Half Gallery*
