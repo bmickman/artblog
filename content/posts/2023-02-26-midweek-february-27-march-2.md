@@ -18,6 +18,8 @@ image: /images/hannahmar2.jpg
 
 [Hannah Traore Gallery](https://hannahtraoregallery.com/exhibition/deborah-czeresko-fruiting-bodies-creatures-of-culture/), 150 Orchard Street, 'Fruiting Bodies: Creatures of Culture' by Deborah Czeresko
 
+[L﻿ichtundfire](instagram.com/lichtundfire), 175 Rivington St, 'Outer Orbit / Out of Orbit' featuring various artists
+
 **T﻿hursday | Tribeca**
 
 [B﻿roadway](https://www.broadwaygallery.nyc/), 375 Broadway, 'My Powerful Wish' by Davina Semo
