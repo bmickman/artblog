@@ -2,6 +2,7 @@
 title: Friday March 3
 date: 2023-02-27T21:52:23.401Z
 description: Friday Listings
+image: /images/derosiamar3.jpg
 ---
 **F﻿riday | LES**
 
