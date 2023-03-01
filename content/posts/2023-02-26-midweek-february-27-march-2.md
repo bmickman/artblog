@@ -26,6 +26,8 @@ image: /images/hannahmar2.jpg
 
 [B﻿roadway](https://www.broadwaygallery.nyc/), 375 Broadway, 'My Powerful Wish' by Davina Semo
 
+[One Art Space](https://oneartspace.com/7th-annual-international-womens-day-march-2-8-2023/), 23 Warren St, '7th Annual International Women’s Day Art Fair' featuring various artists 
+
 <iframe src="https://www.google.com/maps/d/u/3/embed?mid=1XzLEE8mMQuoH_o3BovPna0QdHqUl8uE&ehbc=2E312F" width="100%" height="480"></iframe>
 
 *F﻿eatured image above from by Deborah Czeresko at Hannah Traore Gallery*
