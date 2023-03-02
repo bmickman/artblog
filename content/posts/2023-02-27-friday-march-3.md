@@ -18,6 +18,8 @@ image: /images/derosiamar3.jpg
 
 [HB381](https://www.hb381gallery.com/exhibitions/take-root-1), 381 Broadway, 'Take Root' by Jakob Jørgensen
 
+[Kapow Gallery](insagram.com/kapowgallery), 373 Broadway #219, 'Spectre' by Blake Hiltunen 
+
 <iframe src="https://www.google.com/maps/d/u/3/embed?mid=1RzAQFnDrTf9e903ZNoEpod334aVr9Vo&ehbc=2E312F" width="100%" height="480"></iframe> 
 
 *F﻿eatured image above by Kern Samuel at Derosia*
