@@ -2,6 +2,7 @@
 title: Friday March 10
 date: 2023-03-07T21:55:02.155Z
 description: Friday Art Listings
+image: /images/arsenalmar10.jpg
 ---
 **T﻿ribeca | Friday**
 
