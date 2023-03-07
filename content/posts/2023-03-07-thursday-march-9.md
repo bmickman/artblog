@@ -2,7 +2,6 @@
 title: Thursday March 9
 date: 2023-03-07T19:31:57.833Z
 description: Thursday Listings
-image: /images/ghebalymar9.png
 ---
 **L﻿ES | Thursday**
 
@@ -30,4 +29,8 @@ image: /images/ghebalymar9.png
 
 <iframe src="https://www.google.com/maps/d/u/3/embed?mid=19ra3o6HLrBWwagBDzQb08g3loh_qCgE&ehbc=2E312F" width="100%" height="480"></iframe>
 
-![](/images/ghebalymar9.png)
+*F﻿eatured image above by: Danielle Orchard at FGhebaly Francois*
+
+*F﻿eatured image below by: Tim Wilson at Nathalie Karg Gallery*
+
+![](https://artlogic-res.cloudinary.com/w_1400,c_limit,f_auto,fl_lossy,q_auto/ws-artlogicwebsite0317/usr/images/exhibitions/group_images_override/68/main-image.jpg)
