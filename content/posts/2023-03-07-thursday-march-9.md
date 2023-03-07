@@ -28,3 +28,5 @@ description: Midweek Listings
 [Ortuzar Projects](https://www.ortuzarprojects.com/exhibitions/claudette-johnson-drawn-out-1), 9 White St, 'Drawn Out' by Claudette Johnson
 
 <iframe src="https://www.google.com/maps/d/u/3/embed?mid=19ra3o6HLrBWwagBDzQb08g3loh_qCgE&ehbc=2E312F" width="100%" height="480"></iframe>
+
+![](/images/ghebalymar9.png)
