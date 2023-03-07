@@ -2,8 +2,6 @@
 title: Friday March 10
 date: 2023-03-07T21:55:02.155Z
 description: Friday Art Listings
-image: /images/arsenalmar10.jpg
-
 ---
 **T﻿ribeca | Friday**
 
@@ -22,3 +20,5 @@ image: /images/arsenalmar10.jpg
 [Spencer Brownstone Gallery](https://spencerbrownstonegallery.com/exhibitions/changeling), 170-A Suffolk Street, 'changeling' by Carly Burnell
 
 <iframe src="https://www.google.com/maps/d/u/3/embed?mid=1SZ0-oUcfmvNG179voDC4PVOsWwCZPNY&ehbc=2E312F" width="100%" height="480"></iframe>
+
+*F﻿eatured image above by Chih-Chien Wang at Arsenal*
