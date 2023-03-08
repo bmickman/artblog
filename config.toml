@@ -80,7 +80,7 @@ slug = "{{year}}-{{month}}-{{day}}-{{slug}}"
     author__name = ""
     author__image = "/images/14th225.png"
     author__avatar = "/images/14th225.png"
-    author__description = "NYC's Art Blog"
+    author__description = "NYC's Art & Culture Blog"
 
 
   # Example of adding a new link to the author section and footer:
