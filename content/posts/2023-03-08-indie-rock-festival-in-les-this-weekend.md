@@ -2,6 +2,7 @@
 title: Indie Rock Festival in LES This Weekend
 date: 2023-03-08T19:30:28.545Z
 description: Fri Sat Sun Music Listings
+image: /images/colossus23.jpg
 ---
 T﻿he next addition of **The New Colossus Festival** has arrived. About 100 hundred international, domestic, and local artists all will play across a handful of venues around the Lower East Side in Manhattan. Shows range from free to around $20. Here's a selection of most of the free/cheap options. For comprehensive info, go to** [the official website.](https://www.newcolossusfestival.com/)**
 
