@@ -82,6 +82,10 @@ slug = "{{year}}-{{month}}-{{day}}-{{slug}}"
     author__avatar = "/images/14th225.png"
     author__description = "NYC's Art & Culture Blog"
 
+ [[params.social]]
+    icon = "ion-logo-instagram"
+    name = "Instagram"
+    link = "https://www.instagram.com/14thbelow"
 
   # Example of adding a new link to the author section and footer:
   # [[params.social]]
