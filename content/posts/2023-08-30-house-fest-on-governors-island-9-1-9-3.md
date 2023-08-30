@@ -2,6 +2,8 @@
 title: House Fest on Governor's Island 9/1-9/3
 date: 2023-08-30T04:00:24.230Z
 description: Art on Gov Island
+image: /images/housesep1.png
+
 ---
 **P﻿rogram**
 
