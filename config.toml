@@ -72,7 +72,7 @@ slug = "{{year}}-{{month}}-{{day}}-{{slug}}"
 
 [params]
   logo = "/images/14th.png" 
-  description = "The NYC Art Blog."
+  description = "The NYC Art Blog. New Listings Every Week!"
 
   #-------------------------------
   # Author Settings
