@@ -3,7 +3,7 @@
 baseURL = "https://www.14thbelow.com"
 languageCode = "en-us"
 title = "14thBelow.com"
-googleAnalytics = "G-VDB1FEM1FH" # Add your identifier. For example UA-99631805-1.
+googleAnalytics = "G-VDB1FEM1FH" # Add your identifier. 
 paginate = 9
 
 [backend]
