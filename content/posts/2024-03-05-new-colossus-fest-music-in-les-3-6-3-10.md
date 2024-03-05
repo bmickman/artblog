@@ -2,8 +2,6 @@
 title: "New Colossus Fest: Music in LES 3/6 - 3/10"
 date: 2024-03-05T17:15:34.354Z
 description: Free shows!
-image: /images/newcol24.jpg
-
 ---
 T﻿he New Colossus Festival has returned yet again to the East Village & Lower East Side!
 
@@ -24,6 +22,8 @@ T﻿he **[official schedule can be found here](https://www.newcolossusfestival.c
 [B﻿aker Falls](https://ny.knittingfactory.com/tm-event/new-colossus-festival-free-day-party-2/) 12pm - 6pm: poolblood, flirting., Friend Of A Friend, Shunk, MINAS, Dirty Sound Magnet, Sham Family
 
 [R﻿ockwood Music Hall](https://www.newcolossusfestival.com/schedule) 3pm - 6pm: Dresser, Hollows, KT Laine, Sun Entire
+
+[R﻿ockwood Music Hall](https://shotgun.live/fr/events/happy-hour-mixer-by-groover-new-colossus-festival) 6pm - 8pm: Happy Hour Mixer 
 
 **S﻿aturday**
 
