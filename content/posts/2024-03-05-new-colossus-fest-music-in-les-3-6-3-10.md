@@ -3,11 +3,10 @@ title: "New Colossus Fest: Music in LES 3/6 - 3/10"
 date: 2024-03-05T17:15:34.354Z
 description: Free shows!
 image: /images/newcol24.jpg
-
 ---
 T﻿he New Colossus Festival has returned yet again to the East Village & Lower East Side!
 
-T﻿he event features several musical artists across venues such as Piano's, Arlene's Grocery, Baker Falls, Berlin, Heavan Can Wait, Rockwood Music Hall. Bowery Electric, and the Mercury Lounge. 
+T﻿he event features several musical artists across venues such as Piano's, Arlene's Grocery, Baker Falls, Berlin, Heaven Can Wait, Rockwood Music Hall. Bowery Electric, and the Mercury Lounge. 
 
 T﻿he **[official schedule can be found here](https://www.newcolossusfestival.com/schedule)**. 
 
