@@ -20,7 +20,7 @@ A﻿TP 269 Bleeker St 'Fifteen in NYC' 7pm-9pm
 
 1969 39 White Street 'Eternal Reverie,' 6pm-8pm
 
-<p><iframe src='https://batchgeo.com/map/8372c440ec81da5d180cbfdef26aced8' frameborder='0' width='100%' height='550' sandbox='allow-top-navigation allow-scripts allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-modals allow-forms' allow='geolocation https://batchgeo.com' style='border:1px solid #aaa;' scrolling='no'></iframe></p><p><small>View <a href='https://batchgeo.com/map/8372c440ec81da5d180cbfdef26aced8'>thurs listings</a> in a full screen map</small></p>
+
 
 ![](/images/whiter.jpg "'A Whiter Shade of Pale' at Lichtundfire")
 
