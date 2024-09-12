@@ -53,7 +53,7 @@ slug = "{{year}}-{{month}}-{{day}}-{{slug}}"
 [menu]
   [[menu.main]]
     identifier = "home"
-    name = "Home"
+    name = "14thbelow"
     url = "/"
     weight = 1
 
