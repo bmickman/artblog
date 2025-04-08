@@ -2,9 +2,6 @@
 title: "Preview Part 1: Doc'n Roll New York Film Festival 2025"
 date: 2025-04-08T22:37:42.919Z
 description: NYC film fest, April 30 - May 9
-image: /images/docnroll.jpg
-tags: nyc art openings, manhattan art events, lower east events, tribeca art events, soho art events
-
 ---
 H﻿ere's a preview and what you need to know about the 2025 edition of the [Doc'n Roll](https://www.docnrollfestival.com/new-york/) film festival, coming soon to Manhattan and Brooklyn from April 30th through May 9th!
 
@@ -13,7 +10,6 @@ T﻿he event was established in 2013 in the UK, has recently debuted in Amsterda
 Here's the detailed information you'll need to navigate the first week of the film festival, along with informative links about the artists who are the subjects of the documentaries.
 
 _﻿\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
 
 **Opening Night:**
 
@@ -27,13 +23,10 @@ _﻿\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Date: Thursday, 5/1, 9:15pm
 
-
 Title: Roll Bus Roll: A Jeffrey Lewis Documentary
 Length: 73 mins
 
-
 Subject: **Jeffrey Lewis**, a singer/songwriter from NYC from the '90's to the present
-
 
 [Trailer Link](https://www.youtube.com/watch?v=rOezW7TDPM0) 
 
@@ -47,15 +40,11 @@ _﻿\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Date: Friday, 5/2, 9:30pm
 
-
 Title: Goddess of Slide
-
 
 Length: 96 mins
 
-
 Subject: **Ellen McIlwaine**, a rock and blues singer/guitarist from the 70's through the '00's
-
 
 [T﻿railer Link](https://www.youtube.com/watch?v=7Qig0EhxKMY) 
 
@@ -67,15 +56,11 @@ _﻿\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Date: Saturday, 5/3, 7:15pm
 
-
 Title: The 9 Lives of Barbara Dane
-
 
 Length: 104 mins
 
-
 Subject: **Barbara Dane**, a jazz/blues singer/guitarist primarily active in the '50's - '70's
-
 
 [Trailer Link](https://www.youtube.com/watch?v=IJj4j5sfpnc) 
 
@@ -87,15 +72,11 @@ _﻿\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Date: Sunday, 5/4, 3pm
 
-
 Title: Dory Previn: On My Way to Where
-
 
 Length: 80 mins
 
-
 Subject: **Dory Previn**, a singer/songwriter primarily active in the '50's - '70's
-
 
 [Trailer Link](https://www.youtube.com/watch?v=rxippDX5apE) 
 
@@ -107,4 +88,4 @@ _﻿\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 P﻿art 2 of the Doc'n Roll NYC Film Festival preview will be coming next week!
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/w2cVxPltKXU?si=5UDaup0ZWOTdWJxd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/w2cVxPltKXU?si=5UDaup0ZWOTdWJxd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" ></iframe>
