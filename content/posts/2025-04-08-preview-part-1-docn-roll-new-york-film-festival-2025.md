@@ -3,13 +3,12 @@ title: "Preview Part 1: Doc'n Roll New York Film Festival 2025"
 date: 2025-04-08T22:37:42.919Z
 description: NYC film fest, April 30 - May 9
 image: /images/docnroll.jpg
-tags: nyc art events, manhattan art events, lower east side art events, tribeca art events, soho art events
-
-
+tags: nyc art events, manhattan art events, lower east side art events, tribeca
+  art events, soho art events
 ---
 H﻿ere's a preview and what you need to know about the 2025 edition of the [Doc'n Roll](https://www.docnrollfestival.com/new-york/) film festival, coming soon to Manhattan and Brooklyn from April 30th through May 9th!
 
-T﻿he event was established in 2013 in the UK, has recently debuted in Amsterdam, and will now be offering it's third appearance in NYC. This year will include eight films one per day, bookended by opening and closing night  receptions at each location of the Ace Hotel. The first four films will be shown at the Roxy in Tribeca, then two films at Nitehawk Prospect Heights, and concluding with two films at Nitehawk Williamsburg. 
+T﻿he event was established in 2013 in the UK, has recently debuted in Amsterdam, and will now be offering it's third appearance in NYC. This year will include eight films one per day, bookended by opening and closing night  receptions at each location of the Ace Hotel. The first four films will be shown at the Roxy in Tribeca, then two films at Nitehawk Williamsburg, and concluding with two films at Nitehawk Prospect Park 
 
 Here's the detailed information you'll need to navigate the first week of the film festival, along with informative links about the artists who are the subjects of the documentaries.
 
