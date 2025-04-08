@@ -88,4 +88,4 @@ _﻿\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 P﻿art 2 of the Doc'n Roll NYC Film Festival preview will be coming next week!
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/w2cVxPltKXU?si=5UDaup0ZWOTdWJxd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" ></iframe>
+<iframe width="650px" height="315" src="https://www.youtube.com/embed/w2cVxPltKXU?si=5UDaup0ZWOTdWJxd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" ></iframe>
