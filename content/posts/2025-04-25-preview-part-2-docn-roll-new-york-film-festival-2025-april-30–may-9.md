@@ -3,6 +3,10 @@ title: "Preview Part 2: Doc'n Roll New York Film Festival 2025, April 30–May 9
 date: 2025-04-25T20:06:06.954Z
 description: Discover the 2025 Doc’n Roll NYC Film Festival lineup! 8 music
   documentaries across Manhattan and Brooklyn
+image: /images/docnroll.jpg
+tags: nyc art events, manhattan art events, lower east side art events, tribeca
+  art events, soho art events
+
 ---
 **Here’s What to Know About the 2025 Doc’n Roll Film Festival in NYC**
 
