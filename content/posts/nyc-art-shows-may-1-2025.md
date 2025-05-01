@@ -2,6 +2,9 @@
 title: 5/1 Thursday NYC Art Show Listings
 date: 2025-05-01T18:43:54.558Z
 description: Downtown NYC Listings
+image: /images/sperone0501.jpg
+tags: nyc art openings, manhattan art, lower east side art, tribeca art
+
 ---
 **L﻿ES | Fri**
 
