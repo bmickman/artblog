@@ -4,7 +4,6 @@ date: 2025-05-01T18:43:54.558Z
 description: Downtown NYC Listings
 image: /images/sperone0501.jpg
 tags: nyc art openings, manhattan art, lower east side art, tribeca art
-
 ---
 **L﻿ES | Fri**
 
@@ -12,17 +11,15 @@ tags: nyc art openings, manhattan art, lower east side art, tribeca art
 
 [Maxwell Graham](https://maxwellgraham.biz/), 55 Hester St, work by Cosey Fanni Tutti
 
-
 [Totah](https://www.davidtotah.com/),183 Stanton St, The Fold by Aleksandar Duravcevic
-
 
 [Lichtundfire](https://www.lichtundfire.com/), 175 Rivington St, "Orpheus & Eurydice with Henry Biber, Augustus Goertz, Edward Jackson, Francesca Schwartz, Gerald Wolf"
 
-
 [Colbo](https://www.instagram.com/colbo.nyc), 51 Orchard St," AWOL 1st issue launch, 6pm-9pm",
 
-
 [All St](https://allstnyc.com/), 77 E 3rd St, The Space in Between by Grace Lynn Haynes
+
+[E﻿quity Gallery](https://www.nyartistsequity.org/), 245 Broome St, Bread & Roses Studio, and ‘Consulting with the Light Eaters’ by Melanie Vote
 
 **W﻿est Village | Thurs**
 
