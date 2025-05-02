@@ -61,7 +61,7 @@ description: NYC Downtown Art Shows
 
 [Robin Rice Gallery](https://robinricegallery.com/exhibitions/2025/patriciaheal), 325 West 11th Street, 'Three Decades of Photography, A Retrospective' by Patricia Heal, 5pm-7pm
 
-**T﻿ribeca | Sat[](https://81leonardgallery.com/dirty-work-risd-mfa-painting-25/)**
+**T﻿ribeca | Sat**[](https://81leonardgallery.com/dirty-work-risd-mfa-painting-25/)
 
 [81 Leonard Gallery](https://81leonardgallery.com/dirty-work-risd-mfa-painting-25/), 81 Leonard St, 'Dirty Work' by Cassidy Argo, Jenny Chen, Mary Connell, Shamira Dharap, Noa Ironic, David Legrand, Xuân-Lam Nguyen, Abigail Parsons, Carrie Wilmarth, Tim Zhang
 
@@ -78,3 +78,7 @@ description: NYC Downtown Art Shows
 S﻿aturday Map:
 
 <iframe src="https://www.google.com/maps/d/u/1/embed?mid=14R2zNvPNfQvzbtx-pUmHLsGaEvBINnw&ehbc=2E312F" width="100%" height="480"></iframe>
+
+Discover the best Downtown NYC art openings this week, featuring cutting-edge exhibitions in Tribeca, the Lower East Side, and beyond. Whether you're a seasoned collector or just exploring the vibrant New York art scene, this curated list highlights must-see gallery shows, emerging artists, and buzzworthy installations happening now in Lower Manhattan.
+
+Stay up to date with the latest Tribeca, LES, and Downtown NYC art shows by checking back each week for new openings and events. This week's featured image is by Sam Ghantous (b. 1989, Muscat, Oman), a Zürich-based artist and architectural educator. Ghantous holds a Master of Architecture from MIT and currently teaches at ETH Zürich in the Chair of Rosa Barba. His work has been exhibited internationally at venues including Postmasters Gallery, the Ludwig Museum with ZKM, ASSAB One in Milan, MODEL Festival in Barcelona, and OōEli Art Park in Hangzhou. He is also co-founder of FOREIGN OBJECTS, a multidisciplinary studio recognized by the NEW INC and Bard Digital Artist Residencies, and has presented work with the New Museum and Rhizome. Don’t miss what’s new and next in Lower Manhattan’s ever-evolving art scene.
