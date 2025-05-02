@@ -2,6 +2,9 @@
 title: Weekend 5/2-5/4 NYC Art Show Listings
 date: 2025-05-02T20:28:20.127Z
 description: NYC Downtown Art Shows
+image: /images/yveyang0502.jpg
+tags: nyc art openings, manhattan art, lower east side art, tribeca art
+
 ---
 **L﻿ES | Fri**
 
