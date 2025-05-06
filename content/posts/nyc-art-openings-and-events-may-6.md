@@ -2,6 +2,9 @@
 title: Midweek 5/6-5/8 NYC Art Openings and Events
 date: 2025-05-06T05:50:28.848Z
 description: LES Tribeca Chinatown NYC Listings
+image: /images/latitude0507.jpg
+tags: nyc art openings, manhattan art, lower east side art, tribeca art
+
 ---
 Discover This Week’s Must-See NYC Art Openings with events in Tribeca, SoHo, Chinatown & the Lower East Side (May 6–8, 2025). 
 
