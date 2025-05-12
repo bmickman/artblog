@@ -72,7 +72,7 @@ slug = "{{year}}-{{month}}-{{day}}-{{slug}}"
 
 [params]
   logo = "/images/14th.png" 
-  description = "The NYC Art Blog. New Listings Every Week!"
+  description = "Art shows and other interesting fashion, cultural, or entertainment-related events in downtown Manhattan, focusing on the Lower East Side, Tribeca, Soho, Noho, and Chinatown. New Listings Every Week!"
 
   #-------------------------------
   # Author Settings
