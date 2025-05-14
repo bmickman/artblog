@@ -4,7 +4,6 @@ date: 2025-05-13T19:55:26.023Z
 description: Lower East Side, Tribeca, Chinatown, and Soho Manhattan art openings
 image: /images/palo0515.jpg
 tags: nyc art openings, manhattan art, lower east side art, tribeca art
-
 ---
 Here’s a curated selection of standout exhibitions in NoHo, SoHo, Tribeca, and the Lower East Side to explore this week if you're looking for a midweek art fix in downtown Manhattan!
 
@@ -27,6 +26,10 @@ Here’s a curated selection of standout exhibitions in NoHo, SoHo, Tribeca, and
 **S﻿oho | Thurs**
 
 [Staley Wise](https://www.staleywise.com/exhibitions/elliott-erwitt), 100 Crosby St, 'Last Laughs' by Elliott Erwitt
+
+**L﻿ES | Thurs**
+
+[Lyles & King](https://lylesandking.com/), 21 Catherine Street, work by Alessandro Fogo and Maria A. Guzmán Capron
 
 **T﻿ribeca | Thurs**
 
