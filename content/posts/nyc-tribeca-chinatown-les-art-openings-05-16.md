@@ -1,8 +1,11 @@
 ---
 title: 5/16-5/17 Weekend NYC Art Openings and Events
 date: 2025-05-14T18:37:11.966Z
-description: Art and cultural event guide for the Lower East Side, Chinatown,
-  Soho, West Village, East Village, and Tribeca, and gallery map
+description: Art and cultural event guide for the Lower East Side, Chinatown,Soho, West Village, East Village, and Tribeca, and gallery map
+image: /images/island0517.jpg
+tags: nyc art openings, manhattan art, lower east side art, tribeca art
+
+
 ---
 Downtown New York City art Openings you won’t want to miss! 
 Manhattan comes alive this weekend with a fresh wave of gallery openings that promise bold visions, new voices, and thought-provoking work. Whether you're a seasoned collector or just looking to be inspired, our handpicked listings guide you to the most compelling shows happening now. Step out, explore, and let the art lead the way.
