@@ -1,5 +1,5 @@
 ---
-title: 5/16-5/17 Weekend NYC Art Openings and Events
+title: 5/16-5/17 Weekend NYC Art Openings and Event Guide
 date: 2025-05-14T18:37:11.966Z
 description: Art and cultural event guide for the Lower East Side, Chinatown,Soho, West Village, East Village, and Tribeca, and gallery map
 image: /images/island0517.jpg
