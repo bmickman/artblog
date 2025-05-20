@@ -3,6 +3,8 @@ title: 5/20-5/24 Your Week's Downtown NYC Art Gallery and Event Guide
 date: 2025-05-20T19:04:09.938Z
 description: "Downtown Manhattan's week and weekend art shows, plus other events
   in the Lower East Side, Tribeca, Chinatown, West Village, and Soho "
+image: /images/dacia0522.jpg
+tags: nyc art openings, manhattan art events, lower east side art openings, tribeca art shows, book launch, fashion launch
 ---
 This week’s 14thbelow.com Art Event Guide takes you straight into the heart of downtown NYC’s creative pulse, spotlighting must-see happenings across the Lower East Side, Tribeca, SoHo, the West Village, and Chinatown. From provocative gallery openings to indie book releases and fashion launches drawing the city’s style set, we’ve curated the essential events defining what’s fresh and culturally charged below 14th Street. Plus, don’t miss our special event map for Thursday, the busiest night this week, to help you navigate the scene with ease and hit every can't-miss stop.
 
