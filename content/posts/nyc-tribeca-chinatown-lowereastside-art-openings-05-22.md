@@ -4,7 +4,8 @@ date: 2025-05-20T19:04:09.938Z
 description: "Downtown Manhattan's week and weekend art shows, plus other events
   in the Lower East Side, Tribeca, Chinatown, West Village, and Soho "
 image: /images/dacia0522.jpg
-tags: nyc art openings, manhattan art events, lower east side art openings, tribeca art shows, book launch, fashion launch
+tags: nyc art openings, manhattan art events, lower east side art openings,
+  tribeca art shows, book launch, fashion launch
 ---
 This week’s 14thbelow.com Art Event Guide takes you straight into the heart of downtown NYC’s creative pulse, spotlighting must-see happenings across the Lower East Side, Tribeca, SoHo, the West Village, and Chinatown. From provocative gallery openings to indie book releases and fashion launches drawing the city’s style set, we’ve curated the essential events defining what’s fresh and culturally charged below 14th Street. Plus, don’t miss our special event map for Thursday, the busiest night this week, to help you navigate the scene with ease and hit every can't-miss stop.
 
@@ -40,10 +41,6 @@ This week’s 14thbelow.com Art Event Guide takes you straight into the heart of
 
 [Allouche Gallery](https://allouchegallery.com/), 77 Mercer St, work by Nick Georgiou
 
-**W﻿est Village | Thurs**
-
-[Book Marc](https://www.instagram.com/thebookmarc), 400 Bleeker St, One Night in Watford book release by Ewen Spencer
-
 **L﻿ES | Fri**
 
 [Essex Flowers](https://essexflowers.us/LINNEA-VEDDER-THE-EARTH-WANTS-YOU-BACK), 19 Monroe St, The Douobly Balanced Sky by Linnea Vedder, 6pm-9pm
@@ -52,11 +49,17 @@ This week’s 14thbelow.com Art Event Guide takes you straight into the heart of
 
 [Eli Klein](https://www.galleryek.com/exhibitions/ceci-nest-pas-une-guerre-this-is-not-a-war), 398 West Street, 'This Is Not A War' by Bui Cong Khanh, Bui Thanh Tam, Ca Le Thang, Doan Van Toi, My-Lan Hoang-Thuy, Le Hoang Bich Phuong, Oanh Phi Phi, Nguyen Phuong Linh, Anh Thuy Nguyen, Xuân-Lam Nguyen, Ha Ninh Pham, Pham Tuan Tu, Arlette Quynh-Anh Tran, Tran Luong, Truong Tan, Van Khanh, Minh Dung Vu
 
+[Book Marc](https://www.instagram.com/thebookmarc), 400 Bleeker St, One Night in Watford book release by Ewen Spencer
+
 **T﻿ribeca | Fri**
 
 [Hal Bromm](https://www.halbromm.com/), 90 West Broadway, The Queer Show Part II featuring several artists
 
 [81 Leonard Gallery](https://81leonardgallery.com/departures/), 81 Leonard St, 'Departures' by Henry Anker, Sammy Bennett, Steffie Chau, Danielle Klebes, Kendall Henderson, Ray Hwang, Nancy Pantirer, Hannah Eve Rothbard, Katia Rozenberg, Susan May Tell, and Rochelle Voyles
+
+**T﻿ribeca | Sat**
+
+[J﻿ane Studios](https://www.instagram.com/janesstudios), 72 Warren St, group show, 5pm-10pm
 
 **L﻿ES | Sat**
 
