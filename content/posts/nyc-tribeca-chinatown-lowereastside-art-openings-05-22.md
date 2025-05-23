@@ -65,6 +65,8 @@ This week’s 14thbelow.com Art Event Guide takes you straight into the heart of
 
 [Blank Mag Books](https://www.instagram.com/blankmagbooks_nyc), 17 Eldridge St, Miniotics book launch, 6pm-9pm
 
+[Below Grand](https://www.belowgrandnyc.com/), 53 Orchard St, 'Where Air Turns to Fog' curated by Ray Hwang with Sammy Bennett, Anna Gregor, Jesse Ng, 5pm-7pm
+
 *F﻿eatured image above by Delaney Conner at Dacia Gallery*
 
 <iframe src="https://www.google.com/maps/d/u/1/embed?mid=1zgaagKcVG3KRHSsI4RFhF5oXu5BAj14&ehbc=2E312F" width="100%" height="480"></iframe>
