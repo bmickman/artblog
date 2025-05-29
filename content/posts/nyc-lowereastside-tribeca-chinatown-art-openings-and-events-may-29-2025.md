@@ -2,7 +2,7 @@
 title: Your Week's NYC Art Gallery and Event Guide 5/29-6/1
 date: 2025-05-29T20:45:31.239Z
 description: "Lower NYC (Lower East Side, Chinatown, Two Bridges, Tribeca, West
-  Village) weekend art gallery guide with Thursday Art Event Map "
+  Village) weekend art gallery guide with Thursday Art Event Map"
 image: /images/friedman0529.jpg
 tags: nyc art openings, manhattan art galleries, lower east side art, tribeca art, two bridges art, chinatown nyc art, greenpoint open studios
 
