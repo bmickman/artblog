@@ -7,7 +7,7 @@ image: /images/sebastian0606.jpg
 tags: nyc art openings, manhattan art, lower east side art, tribeca art
 
 ---
-From cutting-edge solo shows in the Lower East Side to emerging talent in Chinatown & Two Bridges, and from polished Tribeca spaces to the character-rich galleries of the West Village, this week’s downtown art scene is full of standout openings worth your time. Below is our curated guide to the must-see NYC art openings happening across Lower Manhattan — plus, don’t miss our helpful map of Friday’s listings to help you navigate the night. And be sure to check back later this week for our Tribeca Festival preview, featuring picks across art, film, and more.
+From cutting-edge solo shows in the Lower East Side to emerging talent in Chinatown & Two Bridges, and from polished Tribeca spaces to the character-rich galleries of the West Village, this week’s downtown art scene is full of standout openings worth your time. Below is our curated guide to the must-see NYC art openings happening across Lower Manhattan — plus, don’t miss our helpful map of Friday’s listings to help you navigate the night. And be sure to check back later this week for our Tribeca Festival preview, featuring picks across art, film, and more!
 
 **L﻿ES | Weds**
 
