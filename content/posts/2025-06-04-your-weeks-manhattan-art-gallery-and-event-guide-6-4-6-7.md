@@ -16,7 +16,7 @@ From cutting-edge solo shows in the Lower East Side to emerging talent in Chinat
 
 185 Varick St, Worlds Collide (Thank you and Goodnight) featuring various artists, curated by Zachary Eric Federbush, 6pm-9pm
 
-[Locker Room](https://www.instagram.com/thelockerroomnyc), 253 Church St, Soft-Coeur' by Elana Stonaker
+[Locker Room](https://www.instagram.com/thelockerroomnyc), 253 Church St, Soft-Coeur' by Elana Stonaker, 7pm-9pm
 
 [Ortuzar Projects](https://www.ortuzar.com/exhibitions/nancy-dwyer), 5 White St, 'Always' by Nancy Dwyer
 
