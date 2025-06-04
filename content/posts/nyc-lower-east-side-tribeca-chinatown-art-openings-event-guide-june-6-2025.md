@@ -5,7 +5,6 @@ description: Art openings and events throughout Tribeca, Lower East Side,
   Chinatown, Two Bridges, the East Village and West Village
 image: /images/sebastian0606.jpg
 tags: nyc art openings, manhattan art, lower east side art, tribeca art
-
 ---
 From cutting-edge solo shows in the Lower East Side to emerging talent in Chinatown & Two Bridges, and from polished Tribeca spaces to the character-rich galleries of the West Village, this week’s downtown art scene is full of standout openings worth your time. Below is our curated guide to the must-see NYC art openings happening across Lower Manhattan — plus, don’t miss our helpful map of Friday’s listings to help you navigate the night. And be sure to check back later this week for our Tribeca Festival preview, featuring picks across art, film, and more!
 
@@ -19,7 +18,11 @@ From cutting-edge solo shows in the Lower East Side to emerging talent in Chinat
 
 185 Varick St, Worlds Collide (Thankm you and Goodnight) featuring various artists, curated by Zachary Eric Federbush, 6pm-9pm
 
-[Locker Room](https://www.instagram.com/thelockerroomnyc), 253 Church St, Soft-Coeur' by Elana Stonaker
+[Locker Room](https://www.instagram.com/thelockerroomnyc), 253 Church St, Soft-Coeur' by Elana Stonaker, 7pm-9pm
+
+[Ortuzar Projects](https://www.ortuzar.com/exhibitions/nancy-dwyer), 5 White St, ‘Always’ by Nancy Dwyer
+
+[Uprise Art](https://www.instagram.com/uprisenyc/#), 264 Canal St, #4W, ‘Passing Through’
 
 **L﻿ES | Thurs**
 
@@ -56,6 +59,14 @@ From cutting-edge solo shows in the Lower East Side to emerging talent in Chinat
 [Pace University Gallery](https://www.pace.edu/dyson/life-dyson/art-gallery), 41 Park Row, Anthology, 5pm-7pm
 
 [Ulterior](http://www.ulteriorgallery.com/), 424 Broadway, #601, flicker/reform/dissolve with Annabel Daou, Rachael Catharine Anderson, Selena Kimball
+
+[Silke Lindner](https://www.instagram.com/silkelindner.nyc/#), 350 Broadway, ‘To be seen with heavy eyes’ with various artists
+
+[George Adams Gallery](https://georgeadamsgallery.com/exhibitions/early-middle-late), 38 Walker Street, ‘Early/Middle/Late’ with Robert Arneson, Jack Beal, Peter Saul, M. Louise Stanley
+
+[Margot Samel](https://www.margotsamel.com/exhibition/imago/), 295 Church Street, ‘Imago’ by Carolina Fusilier
+
+[P﻿POW](https://www.ppowgallery.com/exhibitions/hope-is-a-dangerous-thing), 392 Broadway, ‘Hope is a dangerous thing’ with Kyle Dunn, Raque Ford, Paul Kopkau, Diane Severin Nguyen, Kayode Ojo, Marianna Simnett, Robin F. Williams
 
 **L﻿ES  | Sat**
 
