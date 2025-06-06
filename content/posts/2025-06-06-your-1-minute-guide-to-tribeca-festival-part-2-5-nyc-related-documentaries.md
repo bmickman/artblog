@@ -2,6 +2,10 @@
 title: "Your 1-Minute Guide to Tribeca Festival, Part 2: 5 NYC-Related Documentaries"
 date: 2025-06-06T20:58:52.672Z
 description: "Tribeca Festival, NYC film fest, summer events, NYC things to do "
+image: /images/tribeca2502.jpg
+tags: nyc film events, manhattan film events, lower east side film events,
+  tribeca film events, soho film events
+
 ---
 Welcome to Part Two of the 1-Minute Guide to Tribeca. Last time, we highlighted narrative films with NYC ties — now we’re turning to documentaries.
 
