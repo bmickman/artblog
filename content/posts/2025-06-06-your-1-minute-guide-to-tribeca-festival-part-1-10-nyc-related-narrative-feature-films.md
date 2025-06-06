@@ -4,6 +4,9 @@ title: "Your 1-Minute Guide to Tribeca Festival, Part 1: 10 NYC-Related
 date: 2025-06-04T18:08:03.210Z
 description: Movies of the Tribeca (film) Festival throughout NYC (from Tribeca
   to the East Village, and beyond)
+image: /images/tribeca2501.jpg
+tags: nyc film events, manhattan film events, lower east side film events, tribeca
+  film events, soho film events
 ---
 When the Tribeca Festival rolls around, the headlines tend to spotlight the usual heavyweights — Scorsese, De Niro, the big premieres, the glamorous red carpets. But what about the rest of us? What does the average New Yorker actually need to know to experience the festival in a real, accessible way?
 
