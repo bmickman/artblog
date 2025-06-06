@@ -3,6 +3,9 @@ title: "Your 1-Minute Guide to Tribeca Festival, Part 3: 11 High Profile Feature
   Films"
 date: 2025-06-06T21:19:13.092Z
 description: Tribeca Festival, NYC film fest, summer events, NYC things to do
+image: /images/tribeca2503.jpg
+tags: nyc film events, manhattan film events, lower east side film events,
+  tribeca film events, soho film events
 ---
 Welcome to Part Three of the 1-Minute Guide to Tribeca. We’ve covered NYC-centered narratives and standout documentaries — now we’re looking at films that come with a little more star power.
 
