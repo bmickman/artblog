@@ -5,8 +5,8 @@ date: 2025-06-04T18:08:03.210Z
 description: Movies of the Tribeca (film) Festival throughout NYC (from Tribeca
   to the East Village, and beyond)
 image: /images/tribeca2501.jpg
-tags: nyc film events, manhattan film events, lower east side film events, tribeca
-  film events, soho film events
+tags: nyc film events, manhattan film events, lower east side film events,
+  tribeca film events, soho film events
 ---
 When the Tribeca Festival rolls around, the headlines tend to spotlight the usual heavyweights — Scorsese, De Niro, the big premieres, the glamorous red carpets. But what about the rest of us? What does the average New Yorker actually need to know to experience the festival in a real, accessible way?
 
@@ -61,8 +61,6 @@ B﻿rooding artist violinist can't afford to move out of her parent's place and 
 1﻿0. **[Westhampton](https://www.tribecafilm.com/films/westhampton-2025)** (94 minutes)
 
 B﻿rooding artist filmmaker returns to his Long Island home to meditate on his past in a dramatic character study.
-
-
 
 There you have it — that’s it for Part One of this quick guide to the Tribeca Festival. These ten films aren’t just randomly selected titles; they all have some thread tying them to life in and around New York City — whether they’re set in familiar neighborhoods, tackle distinctly urban themes, or just carry that unmistakable local energy.
 
