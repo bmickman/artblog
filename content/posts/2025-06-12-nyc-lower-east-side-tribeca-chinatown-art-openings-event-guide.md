@@ -3,6 +3,10 @@ title: Your Week's NYC Art Gallery and Event Guide 6/12-6/15
 date: 2025-06-12T19:25:54.145Z
 description: Lower Manhattan Art Gallery Shows and Events in Lower East Side,
   Tribeca, Chinatown, Two Bridges, Soho & Noho
+image: /images/perrotin0612.jpg
+tags: nyc art openings, manhattan art events, lower east side art openings,
+  tribeca art shows, book launch, fashion launch
+
 ---
 This week in downtown Manhattan, a packed lineup of events stretches across the Lower East Side, East Village, SoHo, Tribeca, and Two Bridges. From intimate gallery openings to a lively book launch party and a local wine store’s anniversary celebration, there’s something happening on nearly every block. The art scene offers a wide range of work—from large-scale contemporary installations to tightly curated solo shows, experimental mixed media, and painting rooted in both personal and historical narratives. Meanwhile, the Tribeca Festival continues through Saturday (check out our guides [Part 1](https://14thbelow.com/posts/2025-06-06-your-1-minute-guide-to-tribeca-festival-part-1-10-nyc-related-narrative-feature-films/),[ Part 2](https://14thbelow.com/posts/2025-06-06-your-1-minute-guide-to-tribeca-festival-part-2-5-nyc-related-documentaries/), [Part 3](https://14thbelow.com/posts/2025-06-06-your-1-minute-guide-to-tribeca-festival-part-3-11-high-profile-feature-films/)), bringing premieres, panels, and pop-up events to venues throughout the neighborhood. Whether you're in the mood for art, film, wine, or a good party, this week offers a vibrant mix of culture across Lower Manhattan.
 
