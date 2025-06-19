@@ -2,6 +2,10 @@
 title: Your Week's NYC Art Gallery Map and Event Guide 6/19-6/21
 date: 2025-06-19T20:47:03.107Z
 description: NYC Lower Manhattan weekend art shows and openings
+image: /images/hesse0620.jpg
+tags: nyc art openings, manhattan art events, lower east side art openings,
+  tribeca art, two bridges art
+
 ---
 Get ready for a packed week of art openings and cultural events across downtown Manhattan. From June 19–21, galleries and creative spaces in the Lower East Side, Tribeca, East Village, and Two Bridges are hosting new exhibitions, late-night receptions, and community-driven happenings that make this one of the most exciting weeks of the summer art season.
 
