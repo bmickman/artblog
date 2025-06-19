@@ -50,7 +50,7 @@ Whether you're an art collector, casual gallery hopper, or just looking for some
 
 [F﻿ucking Awesome](https://www.instagram.com/breakfastclubtokyo), 420 E 9th St, Converse/Breakfast Club Popup, 1pm-6pm
 
-[Galerie Shibumi](https://www.instagram.com/galerie.shibumi), 13 Market St, Inside Rooms, Outside Spaces' by Ira Oksman
+[Galerie Shibumi](https://www.instagram.com/galerie.shibumi), 13 Market St, Inside Rooms, Outside Spaces' by Ira Oksman, 5pm-7pm
 
 [Blumka Contemporary](https://www.instagram.com/blumkacontemporary), 170 Forsyth St, New Myths, Old Systems, 6pm-9pm
 
