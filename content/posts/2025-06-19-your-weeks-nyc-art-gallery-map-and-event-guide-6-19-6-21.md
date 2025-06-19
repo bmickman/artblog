@@ -56,7 +56,7 @@ Whether you're an art collector, casual gallery hopper, or just looking for some
 
 [Hashimoto Contemporary](https://www.hashimotocontemporary.com/exhibitions/297-left-unsaid-group-exhibition/), 54 Ludlow St, 'Left Unsaid' by Tania Alvarez, Sabrina Bockler, Allie Gattor, Rachel Gregor, Zoe Hawk, Nicholas Bono Kennedy, Thérèse Mulgrew, Cait Porter, Zack Rosebrugh, Sara Suppan, Natalie Terenzini, Angela Fang Zirbes, Jesse Zuo
 
-[K﻿hata](https://www.instagram.com/khata.space), 83A  Hester St, 1st Year Anniversary with DJ (Mona Matsuoka), 7pm-10pm RSVP Email: commujnication@khataspace.com
+[K﻿hata](https://www.instagram.com/khata.space), 83A  Hester St, 1st Year Anniversary with DJ (Mona Matsuoka), 7pm-10pm RSVP Email: communication@khataspace.com
 
 **F﻿riday Art Map:**
 
