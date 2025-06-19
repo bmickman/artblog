@@ -5,7 +5,6 @@ description: NYC Lower Manhattan weekend art shows and openings
 image: /images/hesse0620.jpg
 tags: nyc art openings, manhattan art events, lower east side art openings,
   tribeca art, two bridges art
-
 ---
 Get ready for a packed week of art openings and cultural events across downtown Manhattan. From June 19–21, galleries and creative spaces in the Lower East Side, Tribeca, East Village, and Two Bridges are hosting new exhibitions, late-night receptions, and community-driven happenings that make this one of the most exciting weeks of the summer art season.
 
@@ -46,6 +45,10 @@ Whether you're an art collector, casual gallery hopper, or just looking for some
 [Westwood Gallery](https://westwoodgallery.com/exhibitions/143-charles-hinman-cast-paper-reliefs-1980s/), 262 Bowery, 'Cast Paper Reliefs, 1980s' by Charles Hinman
 
 **L﻿ower East Side/Two Bridges | Sat**
+
+[T﻿ime Again](https://www.instagram.com/timeagainbar), 105 Canal St, Breakfast Club Tokyo Closing Party with performances, art curated by Entrance gallery
+
+[F﻿ucking Awesome](https://www.instagram.com/breakfastclubtokyo), 420 E 9th St, Converse/Breakfast Club Popup, 1pm-6pm
 
 [Galerie Shibumi](https://www.instagram.com/galerie.shibumi), 13 Market St, Inside Rooms, Outside Spaces' by Ira Oksman
 
