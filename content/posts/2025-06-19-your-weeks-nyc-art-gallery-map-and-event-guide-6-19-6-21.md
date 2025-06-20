@@ -24,9 +24,9 @@ Whether you're an art collector, casual gallery hopper, or just looking for some
 
 [Hesse Flatow](https://hesseflatow.com/exhibitions/137/overview/), 77 Franklin St, 'i still look for her in every lifetime' by Andina Marie Osorio
 
-**Tribeca | Sat**
+**T﻿ribeca | Fri**
 
-[15 Orient](https://15orient.com/), 72 Walker Street, 3rd Floor, Selected Works 1978-2000 from Hudinilson Jr, 6pm-9pm
+[Bienvenu Steinberg & J](https://www.bsandcgallery.com/exhibitions/woven-abstractions), 35 Walker Street, 'Woven Abstractions' by Lindberg, Marela Zacarías, and Ria Bosman
 
 **L﻿ower East Side | Fri**
 
@@ -43,6 +43,10 @@ Whether you're an art collector, casual gallery hopper, or just looking for some
 [Van der Plas Gallery](https://www.vanderplasgallery.com/), 156 Orchard St, All Art+ Summer Solstice, Concrete Myths
 
 [Westwood Gallery](https://westwoodgallery.com/exhibitions/143-charles-hinman-cast-paper-reliefs-1980s/), 262 Bowery, 'Cast Paper Reliefs, 1980s' by Charles Hinman
+
+**Tribeca | Sat**
+
+[15 Orient](https://15orient.com/), 72 Walker Street, 3rd Floor, Selected Works 1978-2000 from Hudinilson Jr, 6pm-9pm
 
 **L﻿ower East Side/Two Bridges | Sat**
 
