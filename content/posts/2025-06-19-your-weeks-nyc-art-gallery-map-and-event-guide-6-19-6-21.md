@@ -28,6 +28,8 @@ Whether you're an art collector, casual gallery hopper, or just looking for some
 
 [Bienvenu Steinberg & J](https://www.bsandcgallery.com/exhibitions/woven-abstractions), 35 Walker Street, 'Woven Abstractions' by Lindberg, Marela Zacarías, and Ria Bosman
 
+[Hyacinth Gallery](https://hyacinthgallery.com/), 179 Canal St #4B, 'Palimpsest' by Joseph J. Greer
+
 **L﻿ower East Side | Fri**
 
 [Kates-Ferri Projects](https://www.katesferriprojects.com/), 561 Grand Street, Sphere Not by Cecile Chong
