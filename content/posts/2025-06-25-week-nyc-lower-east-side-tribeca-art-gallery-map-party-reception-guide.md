@@ -2,6 +2,10 @@
 title: Your Mid-Week NYC Art Gallery Map and Party Guide 6/25-6/26
 date: 2025-06-25T02:25:32.151Z
 description: Downtown Manhattan (Soho, Tribeca, East Village, LES) Art Reception Listings
+description: NYC Lower Manhattan weekend art shows and openings
+image: /images/hollis0626.jpg
+tags: nyc art openings, manhattan art events, lower east side art openings,
+  tribeca art, two bridges art, noho art, soho art
 ---
 Explore the best art exhibitions happening this week across downtown Manhattan, with standout shows in the Lower East Side, SoHo, NoHo, East Village, West Village, and Tribeca. These iconic NYC art neighborhoods are buzzing with new openings featuring contemporary painting, sculpture, textile art, mixed media, and more.
 
