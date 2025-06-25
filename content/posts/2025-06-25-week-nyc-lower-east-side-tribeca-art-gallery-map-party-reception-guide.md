@@ -46,6 +46,7 @@ From bold solo debuts to group exhibitions and a must-attend downtown magazine l
 [Nino Mier Gallery](https://www.miergallery.com/exhibitions/strata), 62 Crosby St, STRATA with Ana Villagomez, Lucienne O’Mara, Gregory Hodge, Connie Harrison, Alexandria Tarver
 
 **T﻿ribeca | Thurs**
+[Ruttkowski;68](https://www.ruttkowski68.com/exhibition/ufo-unforeseen-feelings-observed/), 46 Cortland Alley, 'UFO – Unforeseen Feelings Observed' curated by Luisa Schlotterbeck
 
 [Andrew Kreps Gallery](http://www.andrewkreps.com/exhibitions/liz-magor4), 394 Broadway, 'Personalize' by Liz Magor
 
