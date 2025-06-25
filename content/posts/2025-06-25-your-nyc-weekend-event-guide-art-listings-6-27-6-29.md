@@ -3,6 +3,8 @@ title: Your NYC Weekend Event Guide Art Listings 6/27-6/29
 date: 2025-06-25T18:56:08.958Z
 description: NYC LES, Tribeca, Chinatown, East Village weekend art shows and openings
 ---
+Get ready for one of the most vibrant weekends of the season in Downtown Manhattan, as Pride Weekend collides with a packed lineup of art openings, performances, pop-ups, and parties across the Lower East Side, Tribeca, SoHo, and Chinatown. From boundary-pushing gallery shows to rooftop DJ sets and experimental performance art, this weekend marks a high point in the cultural calendar—and likely the last big wave of art openings until September. Whether you're looking to gallery-hop through SoHo and LES, catch a late-night set in Chinatown, or join the celebration of queer creativity throughout Tribeca, there’s no better time to explore what downtown NYC has to offer. Here's your essential guide to everything happening this weekend.
+
 **L﻿ower East Side/Chinatown/Two Bridges | Fri**
 
 [Cooper Union](https://cooper.edu/events-and-exhibitions/exhibitions/comedy-mortals-artists-books-tammy-nguyen-a07), 7 East 7th Street, 'A Comedy for Mortals' by Tammy Nguyen
@@ -70,5 +72,9 @@ description: NYC LES, Tribeca, Chinatown, East Village weekend art shows and ope
 [V﻿FA](https://www.vfagallery.com/exhibitions), 151 Wooster St, Pride Pop, 1pm-7pm
 
 **F﻿riday Map:** 
+
+<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1BtFO10_SPg_713F2aXWgRgeF1cNp3Bc&ehbc=2E312F" width="100%" height="480"></iframe>
+
+As Lower Manhattan art events hit a summer high this Pride Weekend, don’t miss the debut New York solo exhibition of Marisa Adesman, now on view at Anat Ebgi in the Lower East Side. A highlight of this final wave of downtown gallery openings before the summer lull, Adesman’s featured work, Predicament Escape (2024), showcases her signature blend of surrealism and classical painting technique. Known for her richly detailed compositions that transform domestic objects—candles, linens, tableware—into eerie and poetic visual puzzles, Adesman challenges traditional ideas of femininity and the domestic sphere. With nods to Dutch still life and vanitas painting, her technically masterful oil works shimmer with light, shadow, and symbolism. Whether you're exploring galleries in SoHo, Tribeca, Chinatown, or the LES, her show at Anat Ebgi is a must-see among this weekend’s Lower Manhattan art exhibitions and events.
 
 *F﻿eatured work above by Marisa Adesman at Anat Ebgi*
