@@ -26,6 +26,10 @@ Get ready for one of the most vibrant weekends of the season in Downtown Manhatt
 
 [601artspace](https://601artspace.org/), 88 Eldridge Street, 'BIG FUN' featuring various artists
 
+[Long Story Short](https://www.lss.gallery/cities/new-york), 52 Henry St, 'Focal Point' with Sam Bornstein, Amanda Marre Brown, Michael Buhler-Rose, Masao Nakahara, Kitty Ng, Sage Schachter, Crys Yin
+
+[Post Times](https://www.post-times.com/), 29 Henry Street, 'Material Instinct' with several artists, 6pm-9pm
+
 **S﻿oho | Fri**
 
 [Deitch](https://deitch.com/new-york/exhibitions), 18 Wooster St, Carnival closing party, performances, tattoos, psychics, curated by Joe Coleman
