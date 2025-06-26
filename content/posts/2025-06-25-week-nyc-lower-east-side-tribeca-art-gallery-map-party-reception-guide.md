@@ -35,8 +35,6 @@ From bold solo debuts to group exhibitions and a must-attend downtown magazine l
 
 [Hollis Taggart](https://www.hollistaggart.com/exhibitions/218-john-knuth-the-hot-garden/), 109 Norfolk St, 'The Hot Garden' by JohnKnuth
 
-[Morgan Presents](https://www.morgan-presents.com/exhibitions/27-fugue-states/), 155 Suffolk Street, 'Fugue States' with Maria Haag, Sam Jablon, Rebecca Ness, Albert Oehlen, Terry Rosenberg, Mike Shultis, Willie Stewart
-
 [Art Gotham](https://www.instagram.com/artgotham), 4 Saint Marks Place, work by Jill Krutick, 6pm-9pm
 
 [Cafe Studio](https://www.instagram.com/cafestudionyc), 195 Chrystie St, #102W, Field Mag Launch Party, 7pm-10pm, [RSVP email](events@fieldmag.com)
