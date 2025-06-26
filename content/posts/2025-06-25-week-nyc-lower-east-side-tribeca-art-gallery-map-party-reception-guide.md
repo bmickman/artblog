@@ -23,10 +23,6 @@ From bold solo debuts to group exhibitions and a must-attend downtown magazine l
 
 [Sylvia Wald & Po Kim Gallery](https://www.swpk.org/exhibition-20f-simultaneity), 417 Lafayette, '20F (Simultaneity)' by Raphaele Shirley, Algis Kizys, and Micheal Lisnet
 
-**W﻿est Village | Weds**
-
-[Moshava Art](https://www.instagram.com/moshava.art), 45 W 8th St, AVIV closing reception, 7pm-9pm
-
 **T﻿ribeca | Weds**
 
 [52 Walker](https://www.52walker.com/exhibitions/ej-hill), 52 Walker St, 'Low-slung Promises on the Tongues of the Devout' by EJ Hill
