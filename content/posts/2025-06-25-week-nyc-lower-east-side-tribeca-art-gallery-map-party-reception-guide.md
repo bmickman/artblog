@@ -33,11 +33,21 @@ From bold solo debuts to group exhibitions and a must-attend downtown magazine l
 
 **L﻿ower East Side/East Village | Thurs**
 
-[Hollis Taggart](https://www.hollistaggart.com/exhibitions/218-john-knuth-the-hot-garden/), 109 Norfolk St, 'The Hot Garden' by JohnKnuth
+[Hollis Taggart](https://www.hollistaggart.com/exhibitions/218-john-knuth-the-hot-garden/), 109 Norfolk St, 'The Hot Garden' by John Knuth
 
 [Art Gotham](https://www.instagram.com/artgotham), 4 Saint Marks Place, work by Jill Krutick, 6pm-9pm
 
 [Cafe Studio](https://www.instagram.com/cafestudionyc), 195 Chrystie St, #102W, Field Mag Launch Party, 7pm-10pm, [RSVP email](events@fieldmag.com)
+
+[Lichtundfire](https://www.lichtundfire.com), 175 Rivington St, 'Recent Collages' by Yevgeniy Fiks, 6:30-8pm
+
+[Underdonk](https://www.underdonk.com), 191 Henry St, 'The Milk Door is a Portal' by Christine Heindl, 5pm-8pm (limited at 75 capacity)
+
+[Vacation Forever](https://www.instagram.com/vacationforever.tattoo), 154 East Broadway, 'The Reception' by Xixi Wang, 7pm-9pm
+
+[Lyles & King](https://lylesandking.com), 21 Catherine Street, 'Gargantua Eats Himself' by Nick Modrzewski
+
+[Fugue](https://fuguegallery.com), 141 Canal Street, 3rd Floor, 'Bleu' by Costanza Damiani, 6pm-9pm
 
 **S﻿oho | Thurs**
 

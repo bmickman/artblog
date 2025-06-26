@@ -5,7 +5,6 @@ description: NYC LES, Tribeca, Chinatown, East Village weekend art shows and ope
 image: /images/anatebgi0627.jpg
 tags: nyc art openings, manhattan art events, lower east side art openings,
   tribeca art, two bridges art, noho art, soho art
-
 ---
 Get ready for one of the most vibrant weekends of the season in Downtown Manhattan, as Pride Weekend collides with a packed lineup of art openings, performances, pop-ups, and parties across the Lower East Side, Tribeca, SoHo, and Chinatown. From boundary-pushing gallery shows to rooftop DJ sets and experimental performance art, this weekend marks a high point in the cultural calendar—and likely the last big wave of art openings until September. Whether you're looking to gallery-hop through SoHo and LES, catch a late-night set in Chinatown, or join the celebration of queer creativity throughout Tribeca, there’s no better time to explore what downtown NYC has to offer. Here's your essential guide to everything happening this weekend.
 
