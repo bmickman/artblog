@@ -30,6 +30,8 @@ From bold new art shows, to thought-provoking artist talks and underground perfo
 
 [Sebastian Gladstone Gallery](https://sebastiangladstone.com/exhibitions/72-nick-angelo-edifice-new-york/), 36 White St, 'Edifice' by Nick Angelo
 
+[Elza Kayal Gallery](https://elzakayal.com/#shows), 368 Broadway #409, 'The Jaguar in the Mirror' by Anne Katrine Senstad
+
 **L﻿ower East Side | Thurs**
 
 [Half Gallery](https://halfgallery.com/), 235 E 4th St, Fear of the Fiddle by Eric McHenry
