@@ -2,7 +2,7 @@
 title: Your Week in NYC - Event Guide Art Listings 7/16-7/19
 date: 2025-07-16T00:43:55.936Z
 description: NYC art listings throughout LES, Soho, Noho, Tribeca, Two Bridges
-image: /images/harkawik0719.jpg
+image: /images/harkawik0718.jpg
 tags: nyc art openings, manhattan art events, lower east side art openings,
   tribeca art, two bridges art, noho art, soho art
 
