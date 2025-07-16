@@ -5,7 +5,6 @@ description: NYC art listings throughout LES, Soho, Noho, Tribeca, Two Bridges
 image: /images/harkawik0718.jpg
 tags: nyc art openings, manhattan art events, lower east side art openings,
   tribeca art, two bridges art, noho art, soho art
-
 ---
 From bold new art shows, to thought-provoking artist talks and underground performances throughout the Lower East Side, SoHo, NoHo, Tribeca, and the East Village, this week’s curated listings spotlight the best in downtown New York’s creative scene. Discover the most buzzed-about gallery openings, book launches, and cultural happenings to experience now, whether you're an art lover, collector, or just looking to tap into the city's ever-evolving creative energy.
 
@@ -41,7 +40,7 @@ From bold new art shows, to thought-provoking artist talks and underground perfo
 
 [Gordon Gallery](https://www.gordongallery.co.il/exhibition/landscpes), 139 Norfolk St, 'Landscapes' by Ronit Goldschmidt
 
-[E﻿quity Gallery](https://www.nyartistsequity.org/all-events/grand-unity-the-power-of-creativity-to-heal-unite-and-inspire), 245 Broome St, 'Grand Unity'
+[E﻿quity Gallery](https://www.nyartistsequity.org/all-events/grand-unity-the-power-of-creativity-to-heal-unite-and-inspire), 245 Broome St, 'Grand Unity' curated by Sharilyn Neidhardt and Meer Musa, featuring several artists
 
 [Van der Plas Gallery](https://www.vanderplasgallery.com/), 156 Orchard St, 'Joyful Apocalypse' by Al Diaz, Brian Gormley, Christine Randolph, Ed Higgins III,    Konstantin Bokov, Johan Wahlstrom, Juan Carlos Pinto, Kevin Wendall (FA-Q), Matthew Aaron, Monty Cantsin (Istvan Kantor), Peter Griffin, Shalom Tomáš Neuman, 6pm-9pm
 
@@ -91,6 +90,10 @@ From bold new art shows, to thought-provoking artist talks and underground perfo
 
 <iframe src="https://www.google.com/maps/d/u/1/embed?mid=1F7BpFLGLQIF-a9sYqvPNpiBxu5L-HqU&ehbc=2E312F" width="100%" height="480"></iframe>
 
+Whether you're exploring LES, SoHo, Tribeca, NoHo, or the East Village, make time to witness these monumental embodiments of care, contradiction, and control. Janečková’s latest works are a must-see highlight of NYC's contemporary art scene this week.
 
+Don’t miss In Good News/Bad News, a powerful solo exhibition from Katarina Janečková Walshe, on view this week in the Lower East Side. Known for her surreal, feminist figuration, Walshe confronts the contradictions of motherhood, empathy, and identity with vivid, corporeal intensity. Across works like Nurturer-Torturer and Growing You a Space to Care, she dissects the myth of the maternal with painterly rawness—recalling the psychological depth of Hilary Harkness and the primal energy of Ellen Berkenblit.
+
+Stay tuned for next week’s curated art openings, talks, and book launches across downtown Manhattan—and follow us for the latest in emerging and established art in New York City.
 
 *F﻿eatured work above by Katarina Janečková Walshe at Harkawik*
