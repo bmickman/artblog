@@ -46,6 +46,10 @@ From bold new art shows, to thought-provoking artist talks and underground perfo
 
 [Van der Plas Gallery](https://www.vanderplasgallery.com/), 156 Orchard St, 'Joyful Apocalypse' by Al Diaz, Brian Gormley, Christine Randolph, Ed Higgins III,    Konstantin Bokov, Johan Wahlstrom, Juan Carlos Pinto, Kevin Wendall (FA-Q), Matthew Aaron, Monty Cantsin (Istvan Kantor), Peter Griffin, Shalom Tomáš Neuman, 6pm-9pm
 
+[Entrance](https://www.instagram.com/entrance.nyc/), 48 Ludlow St, 'Blunt Instrument' 6pm-9pm
+
+[I﻿sland](https://island83.gallery/exhibitions), 83 Bowery, 2nd Fl, 'Centrifugal' with Kameelah Janan Rasheed, Alice Gong Xiaowen
+
 **S﻿oho | Thurs**
 
 [Allouche Gallery](https://www.allouchegallery.com/exhibition/summer-show-2025), 77 Mercer St, Summer Show 2025 with FAILE, Rose Freymuth-Frazier, Israel Agboola Oladapo, Juan de la Rica, Felix R. Cid, Hannah Lupton Reinhard and Mia Scarpa, Swoon, and Chito
@@ -54,11 +58,15 @@ From bold new art shows, to thought-provoking artist talks and underground perfo
 
 [Aicon](https://aicon.art/exhibitions), 35 Great Jones St, 'In Lights' by Rasheed Araeen, 'Looking Back and Forward' by Victor Ekpuk
 
+[T﻿he Hole](https://thehole.com/exhibitions/herbivore), 312 Bowery, 'Herbivore' featuring various artists, '﻿Reflections' by Matthew Zefeldt
+
 **T﻿ribeca | Thurs**
 
 [Galerie Timonier](https://www.galerie-timonier.com/), 246 West Broadway, 'a labyrinth of linkages, pt II' with Michaela Bathrick, Morgan Canavan, Olivier Mosset, Michael Ross, Jairo Sosa, Z Susskind
 
 [Mryia Gallery](https://www.instagram.com/mriya.gallery), 101 Reade St, Refractions with Saint Chalom, Brittany Clifford, Erik Sommer, 6pm-9pm
+
+[Kerry Schuss Gallery](https://kerryschussgallery.com/pages/exhibition_sw_thumbs.php?page=294), 73 Leonard St, 'Summer Garden' by Mary Carlson, 5pm-7pm
 
 **L﻿ower East Side | Fri**
 
