@@ -54,6 +54,8 @@ From bold new art shows, to thought-provoking artist talks and underground perfo
 
 [Allouche Gallery](https://www.allouchegallery.com/exhibition/summer-show-2025), 77 Mercer St, Summer Show 2025 with FAILE, Rose Freymuth-Frazier, Israel Agboola Oladapo, Juan de la Rica, Felix R. Cid, Hannah Lupton Reinhard and Mia Scarpa, Swoon, and Chito
 
+[Market Gallery](https://www.instagram.com/marketstgallery), 51 Mercer St, 'Revolve' featuring several artists, 6pm-9pm
+
 **N﻿oho | Thurs**
 
 [Aicon](https://aicon.art/exhibitions), 35 Great Jones St, 'In Lights' by Rasheed Araeen, 'Looking Back and Forward' by Victor Ekpuk
