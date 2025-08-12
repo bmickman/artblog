@@ -77,6 +77,8 @@ description: Tribeca and Lower East Side September Art Openings and Events
 
 [Management](https://management.nyc/), 39 E Broadway, 404, 'Objects in Mirror May Be Closer Than They Appear' by Vladislav Markov
 
+[601artspace](https://601artspace.org/Common-Sentience), 88 Eldridge Street, 'Common Sentience' with Janine Antoni, Daniel Bozhkov, Zana Briski, Juan William Chavez, Ania Freer, Meditation Ocean Constellation, Goldie Poblador, Ana Prvacki, Miguel Sbastida, Curated by Regine Basha
+
 **S﻿oho | Sat**
 
 [D﻿eitch](https://deitch.com/new-york/exhibitions/sam-mckinniss-law-and-order), 18 Wooster St, 'Law and Order' by Sam McKinniss
