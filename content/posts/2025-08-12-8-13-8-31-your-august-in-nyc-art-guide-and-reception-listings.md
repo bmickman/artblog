@@ -1,7 +1,9 @@
 ---
 title: 8/13-8/31 Your August in NYC - Art Guide and Reception Listings
 date: 2025-08-12T04:33:21.707Z
-description: August Listings
+description: NYC art listings throughout LES, West Village, Tribeca, Two Bridges
+image: /images/space7760814.jpg
+
 ---
 August in New York brings a slower pace to the art scene, with fewer but more deliberate exhibitions and receptions. This month’s listings focus on art-related events across the Lower East Side, Tribeca, and the West Village—three neighborhoods where galleries remain active even in the summer lull. From intimate artist receptions to thought-provoking solo shows, these events offer a chance to explore contemporary work without the usual crowds.
 
