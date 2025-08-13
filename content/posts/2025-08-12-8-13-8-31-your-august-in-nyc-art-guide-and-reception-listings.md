@@ -3,13 +3,16 @@ title: 8/13-8/31 Your August in NYC - Art Guide and Reception Listings
 date: 2025-08-12T04:33:21.707Z
 description: NYC art listings throughout LES, West Village, Tribeca, Two Bridges
 image: /images/space7760814.jpg
-
 ---
 August in New York brings a slower pace to the art scene, with fewer but more deliberate exhibitions and receptions. This month’s listings focus on art-related events across the Lower East Side, Tribeca, and the West Village—three neighborhoods where galleries remain active even in the summer lull. From intimate artist receptions to thought-provoking solo shows, these events offer a chance to explore contemporary work without the usual crowds.
 
 **8﻿/13 W﻿eds | Tribeca**
 
 [One Art Space](https://oneartspace.com/no-ordinary-encounter-mckenzie-tate-earley-and-james-oliver-jones-jr-aug-13-aug-18-2025/), 23 Warren St, 'No Ordinary Encounter' with Mckenzie Tate Earley and James Oliver Jones Jr, 6pm-9pm
+
+**8﻿/14 Thurs | Soho**
+
+[V﻿FA](https://www.vfagallery.com/exhibitions), 151 Wooster St, 'Adrift' by James Katsipis, [RSVP email](courtney@cocodaniels.com)
 
 **8﻿/14 Thurs | LES**
 
@@ -21,9 +24,13 @@ August in New York brings a slower pace to the art scene, with fewer but more de
 
 [Space776](https://www.space776.com/synthetic-sanctuaries), 37-39 Clinton St, 'Synthetic Sanctuaries' with Song E Yoon, Beom Jun, Rob Pruitt
 
+[Time Again](https://www.instagram.com/timeagainbar), 105 Canal St, Hard Sun launch party from 7pm
+
 **8﻿/15 Fri | LES**
 
 [Blank Mag Books](https://www.instagram.com/blankmagbooks_nyc), 17 Eldridge St, Bounty Archive, 6pm-9pm
+
+[L﻿aams](https:/www.instagram.cmo/laams.nyc), 74 Orchard St, 'Homesick' 6pm-9pm
 
 **8﻿/16 Sat | LES**
 
@@ -33,9 +40,13 @@ August in New York brings a slower pace to the art scene, with fewer but more de
 
 [Van der Plas Gallery](https://www.vanderplasgallery.com/), 156 Orchard St, 'August Breeze, Longing for Eden'
 
-**8﻿/23 Sat | LES**
+**8﻿/23 Sat | Tribeca**
 
 [One Art Space](https://oneartspace.com/dimensions-by-torrealba-august-23-sep-2-2025/), 23 Warren St, 'DIMENSIONS' with Torrealba, 6pm-9pm
+
+**8﻿/23 Sat | East Village**
+
+[Adjacent to Life](https://www.instagram.com/adjacenttolife), 341 East 10th St, 'McAllen, Texas' by Mike Marquez, 7pm-9pm
 
 **8﻿/24 Sun | West Village**
 
