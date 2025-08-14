@@ -26,6 +26,10 @@ August in New York brings a slower pace to the art scene, with fewer but more de
 
 [Time Again](https://www.instagram.com/timeagainbar), 105 Canal St, Hard Sun launch party from 7pm
 
+[Helm Contemporary](https://www.helmcontemporary.com/), 132 Bowery, 3rd Floor, 'Mist' with Sue Carlson, Holly Miller, Nell Waters, Sylvia Schwartz
+
+[Ruby Dakota](https://www.rubydakota.com/), 155 East 2nd St, 'Gathering' with New Ola collective
+
 **8﻿/15 Fri | LES**
 
 [Blank Mag Books](https://www.instagram.com/blankmagbooks_nyc), 17 Eldridge St, Bounty Archive, 6pm-9pm
