@@ -30,6 +30,10 @@ August in New York brings a slower pace to the art scene, with fewer but more de
 
 [Ruby Dakota](https://www.rubydakota.com/), 155 East 2nd St, 'Gathering' with New Ola collective
 
+***T﻿hursday Map:***
+
+<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1DMn_KiD2ivN5itlNoffB8Jk6XF4Keh8&ehbc=2E312F" width="70%" height="320"></iframe>
+
 **8﻿/15 Fri | LES**
 
 [Blank Mag Books](https://www.instagram.com/blankmagbooks_nyc), 17 Eldridge St, Bounty Archive, 6pm-9pm
