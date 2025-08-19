@@ -48,7 +48,7 @@ August in New York brings a slower pace to the art scene, with fewer but more de
 
 [All St](https://allstnyc.com/), 119 Hester St, 'Supper Social' featuring various artists, 6:30pm-9pm
 
-8﻿/20 Weds | LES
+**8﻿/20 Weds | LES**
 
 [Lettuce Space](https://www.instagram.com/lettucespacenyc), 138 Eldridge St, 'Dust is Not Ash' by Jakub Hons, 4pm-8pm
 
