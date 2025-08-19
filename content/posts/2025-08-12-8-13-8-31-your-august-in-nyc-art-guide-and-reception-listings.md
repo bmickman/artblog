@@ -52,13 +52,11 @@ August in New York brings a slower pace to the art scene, with fewer but more de
 
 [T﻿he Front Gallery](https://www.instagram.com/thefrontnyc), 131 Chrystie St, 'Tersa Bruta' 7pm-9pm
 
+[Van der Plas Gallery](https://www.vanderplasgallery.com/), 156 Orchard St, 'August Breeze, Longing for Eden'
+
 **8﻿/21 Thurs | East Village**
 
 [T﻿heater for the New City](https://www.instagram.com/chanteclair_katie_kotler_art), 155 1st Ave, 'Liminal Gestures' with various artists, curated by Crystal Field, 5:30pm-8pm
-
-**8﻿/21 Thurs | Tribeca**
-
-[Van der Plas Gallery](https://www.vanderplasgallery.com/), 156 Orchard St, 'August Breeze, Longing for Eden'
 
 **8﻿/22 Fri | LES**
 
