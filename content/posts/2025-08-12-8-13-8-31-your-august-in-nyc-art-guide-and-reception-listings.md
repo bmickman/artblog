@@ -44,13 +44,33 @@ August in New York brings a slower pace to the art scene, with fewer but more de
 
 [Harman Projects](https://www.harmanprojects.com/exhibitions/90-luke-chueh-making-light-of-the-darkness/), 210 Rivington St, 'Making Light of the Darkness' by Luke Chueh
 
+**8﻿/19 Tues | LES**
+
+[All St](https://allstnyc.com/), 119 Hester St, 'Supper Social' featuring various artists, 6:30pm-9pm
+
+**8﻿/21 Thurs | LES**
+
+[T﻿he Front Gallery](https://www.instagram.com/thefrontnyc), 131 Chrystie St, 'Tersa Bruta' 7pm-9pm
+
+8﻿/21 Thurs | East Village
+
+[T﻿heater for the New City](https://www.instagram.com/chanteclair_katie_kotler_art), 155 1st Ave, 'Liminal Gestures' with various artists, curated by Crystal Field, 5:30pm-8pm
+
 **8﻿/21 Thurs | Tribeca**
 
 [Van der Plas Gallery](https://www.vanderplasgallery.com/), 156 Orchard St, 'August Breeze, Longing for Eden'
 
+**8﻿/22 Fri | LES**
+
+[Blank Mag Books](https://www.instagram.com/blankmagbooks_nyc), 17 Eldridge St, 'Always and Forever' with several artists, 6pm-9pm
+
 **8﻿/23 Sat | Tribeca**
 
 [One Art Space](https://oneartspace.com/dimensions-by-torrealba-august-23-sep-2-2025/), 23 Warren St, 'DIMENSIONS' with Torrealba, 6pm-9pm
+
+**8﻿/23 Sat | LES**
+
+[Below Grand](https://www.belowgrandnyc.com/), 53 Orchard St, 'Get Around' with Craig Jun Li, Coco Klockner, curated by Alexander Droesch and Devon Ma, 5pm-7pm
 
 **8﻿/23 Sat | East Village**
 
@@ -59,6 +79,10 @@ August in New York brings a slower pace to the art scene, with fewer but more de
 **8﻿/24 Sun | West Village**
 
 [Westbeth Gallery](https://westbeth.org/event/lucienne-weinberger-a-life-of-art/), 55 Bethune St, 'A Life of Art' by Lucienne Weinberger
+
+**8﻿/28 Thurs | Noho**
+
+[Superrare](https://superrare.com/), 243 Bowery, 'First Impressions' by mendezmendez, 7pm-9pm
 
 Our featured artist, Beom Jun, is showing Infinite Layers, Unfixed Mountains, a body of work rooted in existential inquiry and shaped by a meditative process of painting and erasure. Drawing on the layered mountain ranges he encountered traveling between Seoul and his hometown of Jeonju, Jun builds compositions from transparent washes, allowing forms to emerge slowly through repeated gestures. The result is a series of works where mountains become metaphors for time, history, and the fluid boundaries between past, present, and future. In the Lower East Side, Tribeca, and West Village this August, his paintings offer a quiet but resonant counterpoint to the city’s summer heat—a reminder that presence can emerge through patience.
 
