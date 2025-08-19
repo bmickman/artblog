@@ -48,6 +48,10 @@ August in New York brings a slower pace to the art scene, with fewer but more de
 
 [All St](https://allstnyc.com/), 119 Hester St, 'Supper Social' featuring various artists, 6:30pm-9pm
 
+8﻿/20 Weds | LES
+
+[Lettuce Space](https://www.instagram.com/lettucespacenyc), 138 Eldridge St, 'Dust is Not Ash' by Jakub Hons, 4pm-8pm
+
 **8﻿/21 Thurs | LES**
 
 [T﻿he Front Gallery](https://www.instagram.com/thefrontnyc), 131 Chrystie St, 'Tersa Bruta' 7pm-9pm
@@ -61,6 +65,8 @@ August in New York brings a slower pace to the art scene, with fewer but more de
 **8﻿/22 Fri | LES**
 
 [Blank Mag Books](https://www.instagram.com/blankmagbooks_nyc), 17 Eldridge St, 'Always and Forever' with several artists, 6pm-9pm
+
+[Temple Gallery, 108 Madison St,](https://www.instagram.com/temple_gallery_nyc) 'After Hours' with Jenny Belin, Tonia Cowan, Emily Waters, 6pm-9pm
 
 **8﻿/23 Sat | Tribeca**
 
