@@ -104,9 +104,11 @@ August in New York brings a slower pace to the art scene, with fewer but more de
 
 [Vacation Forever](httpw://www.instagram.com/vacationforever.tattoo), 154 East Broadway, group show featuring various artists, 7pm-9pm
 
+[C﻿afe Forgot and Mission Chinese Food ](https://www.instagram.com/cafe_forgot)Launch Party, 45 Mott Street
+
 **8﻿/29 Fri | East Village**
 
-[S﻿ite](http://www.instagram.com/site_____), 618 East 9th St, 'Circle Things' with Sam Christian, Evelyne Leblanc-Roberge, Ty Pawlowski, Iris Wu, Madeleine Young, curated by Seoyoung Kim
+[S﻿ite](http://www.instagram.com/site_____), 618 East 9th St, 'Circle Things' with Sam Christian, Evelyne Leblanc-Roberge, Ty Pawlowski, Iris Wu, Madeleine Young, curated by Seoyoung Kim, 6pm-9pm
 
 Our featured artist, Beom Jun, is showing Infinite Layers, Unfixed Mountains, a body of work rooted in existential inquiry and shaped by a meditative process of painting and erasure. Drawing on the layered mountain ranges he encountered traveling between Seoul and his hometown of Jeonju, Jun builds compositions from transparent washes, allowing forms to emerge slowly through repeated gestures. The result is a series of works where mountains become metaphors for time, history, and the fluid boundaries between past, present, and future. In the Lower East Side, Tribeca, and West Village this August, his paintings offer a quiet but resonant counterpoint to the city’s summer heat—a reminder that presence can emerge through patience.
 
