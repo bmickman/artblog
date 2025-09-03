@@ -1,7 +1,10 @@
 ---
 title: 9/5-9/6 Celebrate Post-Labor Day NYC Weekend Art Listings!
-date: 2025-09-02T12:22:50.875Z
+date: 2025-09-03T12:22:50.875Z
 description: Tribeca and Lower East Side September Art Openings and Events
+description: NYC art listings throughout LES, West Village, Tribeca, Two Bridges
+image: /images/
+
 ---
 **L﻿ES | Fri**
 
