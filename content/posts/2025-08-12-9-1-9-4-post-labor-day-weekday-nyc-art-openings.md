@@ -2,6 +2,9 @@
 title: 9/1-9/4 Post-Labor Day Weekday NYC Art Openings
 date: 2025-09-01T13:03:00.000Z
 description: NYC art shows in Tribeca, Lower East Side, Soho
+description: NYC art listings throughout LES, West Village, Tribeca, Two Bridges
+image: /images/ruttkowski0904.jpg
+
 ---
 Labor Day may mark the symbolic end of summer, but in New York’s art world it’s the starting gun. Galleries across the Lower East Side, Tribeca, the East and West Village, Chinatown, and Two Bridges are opening their doors with an energy that feels like a season premiere. This week’s lineup is massive, with back-to-back openings spilling from one neighborhood to the next. To help you navigate the rush, we’ve broken things down day by day—complete with maps—so you can plot your route, catch as much art as possible, and maybe even stumble on the season’s first big surprise.
 
