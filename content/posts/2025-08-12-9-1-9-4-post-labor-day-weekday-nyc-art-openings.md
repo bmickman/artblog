@@ -3,6 +3,8 @@ title: 9/1-9/4 Post-Labor Day Weekday NYC Art Openings
 date: 2025-09-01T13:03:00.000Z
 description: NYC art shows in Tribeca, Lower East Side, Soho
 ---
+Labor Day may mark the symbolic end of summer, but in New York’s art world it’s the starting gun. Galleries across the Lower East Side, Tribeca, the East and West Village, Chinatown, and Two Bridges are opening their doors with an energy that feels like a season premiere. This week’s lineup is massive, with back-to-back openings spilling from one neighborhood to the next. To help you navigate the rush, we’ve broken things down day by day—complete with maps—so you can plot your route, catch as much art as possible, and maybe even stumble on the season’s first big surprise.
+
 **T﻿ues | LES**
 
 [Peter Blum Gallery](https://www.peterblumgallery.com/exhibitions/john-zurier8), 176 Grand St, 'Pink Dust' by John Zurier
@@ -23,7 +25,7 @@ description: NYC art shows in Tribeca, Lower East Side, Soho
 
 [Island](https://island83.gallery/exhibitions), 83 Bowery, 2nd Fl, 'Prayers' by Shu Hua Xiong
 
-W﻿eds | West Village
+**W﻿eds | West Village**
 
 [Westbeth Gallery](https://westbeth.org/event/imanifest-multi-disciplinary-visual-art-exhibition/), 55 Bethune St, 'iManifest' with Jess Parnell, Jodi Gerbi, Kirsty Harris, Mark Fraser-Betts, Olivia Gossett Cooper
 
@@ -43,11 +45,29 @@ W﻿eds | West Village
 
 [Frosch & Co](https://froschandco.com/current), 34 East Broadway, work by Robert Yoder
 
+[Privy](https://www.instagram.com/privy.gallery), 46 Hester St, 'A Piece of New York' by Rimowa Kinsi
+
+[Artifact Projects](https://www.artifactnyc.net/), 155 Suffolk St, work by Bart van Zweeden, Russell Vanecek, Yoko Umemoto
+
+[Open Studio](https://www.openstudionyc.com/), 127 Henry St, 'Brighter than the Sunniest Day' by Marcus McGann
+
+[Long Story Short](https://www.lss.gallery/cities/new-york), 52 Henry St, 'The Taste of Distance' by Daido Moriyama
+
+[56 Henry](https://56henry.nyc/), 56 Henry St, 'At Rest' by Ohad Meromi
+
+<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1u32L8rPrHC3HWRXZH_v8tM60opMVmQ0&ehbc=2E312F" width="70%" height="380"></iframe>
+
+**W﻿eds | Tribeca**
+
+[TIWA Gallery](https://www.instagram.com/tiwa_select), 86 Walker St, Counterpoint by Daniel Evan Long
+
 **T﻿hurs | Tribeca**
 
 [Ruttkowski;68](https://www.ruttkowski68.com/exhibition/conversation-with-claude/), 46 Cortland Alley, 'Conversation with Claude' by François Halard
 
 [Nicelle Beauchene Gallery](https://nicellebeauchene.com/exhibition-archive/), 7 Franklin Place, 'Friends' by Jonathan Baldock, 'The End of the Myth' by Peter Brock
+
+[TIWA Gallery](https://www.instagram.com/tiwa_select), 86 Walker St, 'Rubberworks' by Rich Aybar
 
 **T﻿hurs | LES**
 
@@ -61,4 +81,16 @@ W﻿eds | West Village
 
 [Morgan Presents](https://www.morgan-presents.com/exhibitions/28-taking-form-mark-making-as-picture-building/overview/), 155 Suffolk Street, 'Taking Form: Mark Making as Picture Building' with work from Andy Warhol, Christopher Wool, Cora Cohen, Joe Bradley, Mario Schifano, Pamela Rosenkranz, Sigmar Polke, Wade Guyton
 
-*F﻿eatured work above by*
+[Alyssa Davis Gallery](https://www.alyssadavis.gallery/), 171 Henry Street, Q3 with various artists, curated by ProblemChild Advisory, 7pm-10pm
+
+[K﻿aliner](https://theformah.com/), 42 Allen Street, Deep Time I by Prema Murthy
+
+[Ruby Dakota](https://www.rubydakota.com/), 155 East 2nd St, Dark Spot With White Dots by Nicolina Morra, Brock Saunders
+
+[C﻿LLCTV](https://www.instagram.com/cllctv.nyc), 209 East 3rd street, 'HALOs' by Psoman
+
+<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1YZxN2-9K6tmc2zNGv8NBkiYbXcTylIo&ehbc=2E312F" width="70%" height="380"></iframe>
+
+*F﻿eatured work above by François Halard at Ruttkowski;68*
+
+To cap off this week’s slate of openings, our featured highlight comes from François Halard, whose exhibition Conversation with Claude at Ruttkowski;68 offers a rare and poetic pause. In 26 hand-painted, enlarged Polaroids, Halard retraces his steps through Claude Monet’s Giverny garden, layering his own vision onto the master’s obsessions with light, water, and reflection. The result is less a documentation than an intimate dialogue—between Halard and Monet, France and Japan, past and present. It’s a reminder, amid the flood of new shows, that the most enduring art often begins as a quiet conversation across time.
