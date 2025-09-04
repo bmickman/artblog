@@ -2,6 +2,9 @@
 title: 9/1-9/4 Post-Labor Day Weekday NYC Art Openings
 date: 2025-09-01T13:03:00.000Z
 description: NYC art shows in Tribeca, Lower East Side, Soho
+description: NYC art listings throughout LES, West Village, Tribeca, Two Bridges
+image: /images/ruttkowski0904.jpg
+
 ---
 **T﻿ues | LES**
 
