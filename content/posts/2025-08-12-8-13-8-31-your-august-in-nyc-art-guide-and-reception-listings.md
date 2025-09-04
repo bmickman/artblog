@@ -26,6 +26,14 @@ August in New York brings a slower pace to the art scene, with fewer but more de
 
 [Time Again](https://www.instagram.com/timeagainbar), 105 Canal St, Hard Sun launch party from 7pm
 
+[Helm Contemporary](https://www.helmcontemporary.com/), 132 Bowery, 3rd Floor, 'Mist' with Sue Carlson, Holly Miller, Nell Waters, Sylvia Schwartz
+
+[Ruby Dakota](https://www.rubydakota.com/), 155 East 2nd St, 'Gathering' with New Ola collective
+
+***T﻿hursday Map:***
+
+<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1DMn_KiD2ivN5itlNoffB8Jk6XF4Keh8&ehbc=2E312F" width="70%" height="320"></iframe>
+
 **8﻿/15 Fri | LES**
 
 [Blank Mag Books](https://www.instagram.com/blankmagbooks_nyc), 17 Eldridge St, Bounty Archive, 6pm-9pm
@@ -36,13 +44,47 @@ August in New York brings a slower pace to the art scene, with fewer but more de
 
 [Harman Projects](https://www.harmanprojects.com/exhibitions/90-luke-chueh-making-light-of-the-darkness/), 210 Rivington St, 'Making Light of the Darkness' by Luke Chueh
 
-**8﻿/21 Thurs | Tribeca**
+**8﻿/19 Tues | LES**
+
+[All St](https://allstnyc.com/), 119 Hester St, 'Supper Social' featuring various artists, 6:30pm-9pm
+
+**8﻿/20 Weds | LES**
+
+[Lettuce Space](https://www.instagram.com/lettucespacenyc), 138 Eldridge St, 'Dust is Not Ash' by Jakub Hons, 4pm-8pm
+
+**8﻿/21 Thurs | LES**
+
+[T﻿he Front Gallery](https://www.instagram.com/thefrontnyc), 131 Chrystie St, 'Tersa Bruta' 7pm-9pm
 
 [Van der Plas Gallery](https://www.vanderplasgallery.com/), 156 Orchard St, 'August Breeze, Longing for Eden'
+
+[Steven Harvey Fine Art Projects](https://shfap.com/), 208 Forsyth St, 'All Together Now' with various artists
+
+**8﻿/21 Thurs | East Village**
+
+[T﻿heater for the New City](https://www.instagram.com/chanteclair_katie_kotler_art), 155 1st Ave, 'Liminal Gestures' with various artists, curated by Crystal Field, 5:30pm-8pm
+
+**8﻿/22 Fri | LES**
+
+[Blank Mag Books](https://www.instagram.com/blankmagbooks_nyc), 17 Eldridge St, 'Always and Forever' with several artists, 6pm-9pm
+
+[Temple Gallery, 108 Madison St,](https://www.instagram.com/temple_gallery_nyc) 'After Hours' with Jenny Belin, Tonia Cowan, Emily Waters, 6pm-9pm
+
+**8﻿/22 Fri | East Village**
+
+[14BC Gallery](https://www.instagram.com/14bcgallery), 626 East 14th St, 'Imperfect Reflections' by Jay Eckhardt, 5pm-9pm
 
 **8﻿/23 Sat | Tribeca**
 
 [One Art Space](https://oneartspace.com/dimensions-by-torrealba-august-23-sep-2-2025/), 23 Warren St, 'DIMENSIONS' with Torrealba, 6pm-9pm
+
+[1﻿969](http://www.1969gallery.com/upcoming), 39 White Street, 'parallax' closing brunch, 11am-2pm
+
+[Jane Studios](https://www.instagram.com/janesstudios), 72 Warren St, group show, 5pm-10pm
+
+**8﻿/23 Sat | LES**
+
+[Below Grand](https://www.belowgrandnyc.com/), 53 Orchard St, 'Get Around' with Craig Jun Li, Coco Klockner, curated by Alexander Droesch and Devon Ma, 5pm-7pm
 
 **8﻿/23 Sat | East Village**
 
@@ -51,6 +93,22 @@ August in New York brings a slower pace to the art scene, with fewer but more de
 **8﻿/24 Sun | West Village**
 
 [Westbeth Gallery](https://westbeth.org/event/lucienne-weinberger-a-life-of-art/), 55 Bethune St, 'A Life of Art' by Lucienne Weinberger
+
+[W﻿est Fourth Courts ](https://www.instagram.com/losersnyc)(W3rd/W4th), Burger Launch event by Loser's and 7th Street Burger, 3pm
+
+**8﻿/28 Thurs | Noho**
+
+[Superrare](https://superrare.com/), 243 Bowery, 'First Impressions' by mendezmendez, 7pm-9pm
+
+**8﻿/28 Thurs | Chinatown**
+
+[Vacation Forever](httpw://www.instagram.com/vacationforever.tattoo), 154 East Broadway, group show featuring various artists, 7pm-9pm
+
+[C﻿afe Forgot and Mission Chinese Food ](https://www.instagram.com/cafe_forgot)Launch Party, 45 Mott Street
+
+**8﻿/29 Fri | East Village**
+
+[S﻿ite](http://www.instagram.com/site_____), 618 East 9th St, 'Circle Things' with Sam Christian, Evelyne Leblanc-Roberge, Ty Pawlowski, Iris Wu, Madeleine Young, curated by Seoyoung Kim, 6pm-9pm
 
 Our featured artist, Beom Jun, is showing Infinite Layers, Unfixed Mountains, a body of work rooted in existential inquiry and shaped by a meditative process of painting and erasure. Drawing on the layered mountain ranges he encountered traveling between Seoul and his hometown of Jeonju, Jun builds compositions from transparent washes, allowing forms to emerge slowly through repeated gestures. The result is a series of works where mountains become metaphors for time, history, and the fluid boundaries between past, present, and future. In the Lower East Side, Tribeca, and West Village this August, his paintings offer a quiet but resonant counterpoint to the city’s summer heat—a reminder that presence can emerge through patience.
 
