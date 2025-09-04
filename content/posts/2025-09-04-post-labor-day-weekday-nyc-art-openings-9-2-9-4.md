@@ -4,7 +4,6 @@ date: 2025-09-04T04:23:13.619Z
 description: les, chinatown, two bridges, tribeca, east village art shows
 image: /images/ruttkowski0904.jpg
 tags: nyc art openings, manhattan art, lower east side art, tribeca art
-
 ---
 As the city shakes off the last traces of summer, New York’s galleries welcome the season with an invigorating mix of new shows and rare highlights. From intimate studies of personal memory to expansive investigations of history, this week’s exhibitions offer a glimpse into the ways artists continue to challenge, honor, and reimagine cultural narratives. Whether you’re drawn to bold contemporary experiments or revisiting icons in a new light, there’s no shortage of reasons to step inside the gallery walls.
 
@@ -58,6 +57,14 @@ As the city shakes off the last traces of summer, New York’s galleries welcome
 
 [Nicelle Beauchene Gallery](https://nicellebeauchene.com/exhibition-archive/), 7 Franklin Place, 'Friends' by Jonathan Baldock, 'The End of the Myth' by Peter Brock
 
+[Locker Room](https://www.instagram.com/thelockerroomnyc), 253 Church St, Weed Nuns by Daniel Malikyar, 7pm-9pm
+
+[TIWA Gallery](https://www.instagram.com/tiwa_select), 86 Walker St, Rubberworks by Rich Aybar, 6pm-9pm
+
+**T﻿hurs | East Village**
+
+[Psychic Readings Gallery](https://www.psychicreadingsgallery.com/), 629 East 9th St, Edging by Rory Berthiaume
+
 **T﻿hurs | LES**
 
 [Perrotin New York](https://www.perrotin.com/), 130 Orchard St, work by Leslie Hewitt, 'Behind the Curtain by Sophie Calle
@@ -69,6 +76,10 @@ As the city shakes off the last traces of summer, New York’s galleries welcome
 [Satellite Art Show](https://www.instagram.com/satelliteartshow), 279 Broome St, Our Dirty Dishes: Echoes of the Everyday, by Ioana Aron, curated by Sang Hynh, 6pm-9pm
 
 [Morgan Presents](https://www.morgan-presents.com/exhibitions/28-taking-form-mark-making-as-picture-building/overview/), 155 Suffolk Street, 'Taking Form: Mark Making as Picture Building' with work from Andy Warhol, Christopher Wool, Cora Cohen, Joe Bradley, Mario Schifano, Pamela Rosenkranz, Sigmar Polke, Wade Guyton
+
+[Alyssa Davis Gallery](https://www.alyssadavis.gallery/), 171 Henry Street, Q3 with various artists, curated by ProblemChild Advisory, 7pm-10pm
+
+[Kaliner](https://theformah.com/), 42 Allen Street,, Deep Time I by Prema Murthy
 
 **T﻿hursday Map:**
 
