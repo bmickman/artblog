@@ -2,6 +2,9 @@
 title: "Post-Labor Day Weekday NYC Art Openings 9/2-9/4 "
 date: 2025-09-04T04:23:13.619Z
 description: les, chinatown, two bridges, tribeca, east village art shows
+image: /images/ruttkowski0904.jpg
+tags: nyc art openings, manhattan art, lower east side art, tribeca art
+
 ---
 As the city shakes off the last traces of summer, New York’s galleries welcome the season with an invigorating mix of new shows and rare highlights. From intimate studies of personal memory to expansive investigations of history, this week’s exhibitions offer a glimpse into the ways artists continue to challenge, honor, and reimagine cultural narratives. Whether you’re drawn to bold contemporary experiments or revisiting icons in a new light, there’s no shortage of reasons to step inside the gallery walls.
 
