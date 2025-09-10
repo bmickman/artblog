@@ -3,6 +3,8 @@ title: "NYC during NYFW: Soho, LES, Tribeca Art Shows 9/10-9/11"
 date: 2025-09-10T19:12:01.762Z
 description: Tribeca, Soho, Noho, West Village, East Village art receptions and
   openings during NYFW
+image: /images/miguel0910.jpg
+tags: nyc art openings, manhattan art, lower east side art, tribeca art, nyfw
 ---
 As New York Fashion Week kicks off, Downtown Manhattan is buzzing with creativity both on the runway and in the galleries. This week’s art openings across the Lower East Side, Tribeca, and SoHo bring a fresh energy to the city, showcasing cutting-edge exhibitions that mirror the vibrancy of NYFW. From bold installations in LES to intimate Tribeca showcases and experimental works in SoHo, the downtown art scene is the perfect complement to fashion week’s momentum. Whether you’re a collector, a casual gallery-hopper, or looking to experience the intersection of art and style, these must-see shows highlight why Manhattan remains a global hub for contemporary culture.
 
