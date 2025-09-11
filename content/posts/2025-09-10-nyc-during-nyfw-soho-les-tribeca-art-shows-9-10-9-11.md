@@ -26,6 +26,8 @@ As New York Fashion Week kicks off, Downtown Manhattan is buzzing with creativit
 
 [The Opening Gallery](https://www.theopeninggallery.com/), 60 Greene St, Grand opening featuring several artists, curated by Dr. Sozita Goudouna, 5:30pm
 
+[Leslie Lohman](https://leslielohman.org/exhibitions/athi-patra-ruga), 26 Wooster Street, 'Lord, I gotta keep on (movin’)' by Athi-Patra Ruga
+
 **G﻿reenwich/West Village | Weds**
 
 [80wse](https://80wse.org/), 80 Washington Square East, 'Escapements' and 'Beetles, Cats, Clouds' by Tsurita Kuniko, Yamada Murasaki, Kondoh Akino
@@ -60,13 +62,9 @@ As New York Fashion Week kicks off, Downtown Manhattan is buzzing with creativit
 
 **T﻿ribeca | Thurs**
 
-[Guild Gallery](https://rwguildgalleryny.com/blogs/exhibitions/akiko-hirai-2), 321 Canal St, work by Akiko Hirai
-
 [Artists Space](https://artistsspace.org/exhibitions/nandi-loaf-aristotelis-nikolas-mochloulis-ricardo-nagaoka-sydney-schrader), 11 Cortlandt Alley, work by Nandi Loaf, Aristotelis Nikolas Mochloulis, Ricardo Nagaoka, Sydney Schrader
 
 **S﻿oho | Thurs**
-
-[Leslie Lohman](https://leslielohman.org/exhibitions/athi-patra-ruga), 26 Wooster Street, 'Lord, I gotta keep on (movin’)' by Athi-Patra Ruga
 
 [Torch & Crown Brewing Co](https://www.instagram.com/p/DORYnywAH7a/), 12 Vandam Street, The Empire Galaxy' by Francesco Zavattari
 
