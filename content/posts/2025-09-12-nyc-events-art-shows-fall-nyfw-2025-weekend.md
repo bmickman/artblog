@@ -3,6 +3,8 @@ title: NYC events, art shows, Fall NYFW 2025 Weekend
 date: 2025-09-12T17:11:09.396Z
 description: "art receptions nyfw 2025, stuff to do manhattan, tribeca art
   openings, two bridges art galleries, "
+image: /images/hollis0912.jpg
+tags: nyc art openings, manhattan art, lower east side art, tribeca art, nyfw, nyfw2025 
 ---
 This Friday, explore the dynamic art scenes across Lower Manhattan with openings and exhibitions in the Lower East Side, East Village, Two Bridges, Tribeca, West Village, and SoHo. From innovative solo shows and curated group exhibitions to gallery pop-ups and grand openings, the weekend offers a vibrant cross-section of contemporary art. Whether you’re drawn to experimental installations, emerging artists, or established names, these neighborhoods provide a rich palette of artistic experiences that capture New York City’s ever-evolving creative energy.
 
