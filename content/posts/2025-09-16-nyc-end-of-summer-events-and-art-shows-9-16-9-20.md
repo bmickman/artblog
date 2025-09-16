@@ -3,6 +3,9 @@ title: NYC End-of-Summer Events and Art Shows, 9/16-9/20
 date: 2025-09-16T18:39:31.324Z
 description: Events throughout Lower East Side, Two Bridges, Chinatown, Soho and
   East Village
+image: /images/staley0918.jpg
+tags: nyc art openings, manhattan art, lower east side art, tribeca art, nyfw, nyfw2025, soho art, soho fashion, les fashion
+
 ---
 This week, the Lower East Side, Soho, Chinatown, and East Village are buzzing with gallery openings, artist talks, and exhibitions you won’t want to miss. Whether you’re exploring contemporary installations, group shows, or solo exhibitions, these neighborhoods offer a rich mix of emerging and established talent.  For Thursday, we’ve mapped out the evening’s must-see stops across the LES, Soho, and East Village, making it easy to plan your art crawl and hit all the key openings in one night. 
 
