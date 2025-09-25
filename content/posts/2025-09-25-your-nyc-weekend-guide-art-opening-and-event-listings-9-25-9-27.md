@@ -3,9 +3,6 @@ title: " Your NYC Weekend Guide: Art Opening and Event Listings 9/25 - 9/27"
 date: 2025-09-24T23:53:05.901Z
 description: Lower Manhattan Art Gallery Shows and Events in Lower East Side,
   Tribeca, Chinatown, Two Bridges, Gallery Night
-image: /images/storage0925.jpg
-tags: nyc art openings, manhattan art, lower east side art, tribeca art, gallery night
-
 ---
 This week, Tribeca and nearby neighborhoods are buzzing with art and culture. Tribeca galleries are showcasing everything from contemporary photography and painting to modernist design, while Thursday’s big Autumn Art Night gives visitors the chance to explore spaces that don’t have formal openings, keeping the neighborhood’s creative energy flowing late into the evening. Beyond Tribeca, the Lower East Side and Soho are also hosting exhibitions, book releases, and sound events, making it a perfect week to experience New York’s vibrant art scene. Don’t miss this chance to see new work, meet artists, and enjoy the neighborhood’s dynamic gallery culture.
 
@@ -23,19 +20,19 @@ This week, Tribeca and nearby neighborhoods are buzzing with art and culture. Tr
 
 [Guild Gallery](https://rwguildgalleryny.com/), 321 Canal St, work by Akiko Hirai
 
+***Several other galleries will be open for [Soho/Tribeca Autumn Art Night](https://canalprojects.org/programs/autumn-night) 6pm-8pm on Thursday***  
+
+[Canal Projects](https://www.canalprojects.org/upcoming), 351 Canal St, Providing refreshments
+
+[T﻿hursday Map Link](https://www.google.com/maps/@/data=!3m1!4b1!4m2!11m1!2sk0JdPqCXQKmPxwc5ejRY1g?g_ep=CAISEjI1LjM1LjAuNzk5MDg4MzU1MBgAIJjQAyp1LDk0Mjg0NDY2LDk0MjI0ODI1LDk0MjI3MjQ3LDk0MjI3MjQ4LDk0MjMxMTg4LDQ3MDcxNzA0LDQ3MDY5NTA4LDk0MjczODgzLDk0MjE4NjQxLDk0MjgyMTM0LDk0MjAzMDE5LDQ3MDg0MzA0LDk0Mjg2ODYzQgJVUw%3D%3D)
+
 **L﻿ower East Side | Fri**
 
 [Space776](https://luma.com/ikqundjr), 37-39 Clinton St, 'Threads of Origin' by Hijo Nam
 
 [14BC Gallery](https://www.instagram.com/14bcgallery), 626 East 14th St, Decoys by OK Davies, 5pm-9pm
 
-[Time Again](https://www.instagram.com/timeagainbar), 105 Canal St, Book release event with Natalie O'Moore
-
-***Several other galleries will be open for [Soho/Tribeca Autumn Art Night](https://canalprojects.org/programs/autumn-night) 6pm-8pm on Thursday***  
-
-[Canal Projects](https://www.canalprojects.org/upcoming), 351 Canal St, Providing refreshments[](https://www.google.com/maps/@/data=!3m1!4b1!4m2!11m1!2sk0JdPqCXQKmPxwc5ejRY1g?g_ep=CAISEjI1LjM1LjAuNzk5MDg4MzU1MBgAIJjQAyp1LDk0Mjg0NDY2LDk0MjI0ODI1LDk0MjI3MjQ3LDk0MjI3MjQ4LDk0MjMxMTg4LDQ3MDcxNzA0LDQ3MDY5NTA4LDk0MjczODgzLDk0MjE4NjQxLDk0MjgyMTM0LDk0MjAzMDE5LDQ3MDg0MzA0LDk0Mjg2ODYzQgJVUw%3D%3D)
-
-[T﻿hursday Map Link](https://www.google.com/maps/@/data=!3m1!4b1!4m2!11m1!2sk0JdPqCXQKmPxwc5ejRY1g?g_ep=CAISEjI1LjM1LjAuNzk5MDg4MzU1MBgAIJjQAyp1LDk0Mjg0NDY2LDk0MjI0ODI1LDk0MjI3MjQ3LDk0MjI3MjQ4LDk0MjMxMTg4LDQ3MDcxNzA0LDQ3MDY5NTA4LDk0MjczODgzLDk0MjE4NjQxLDk0MjgyMTM0LDk0MjAzMDE5LDQ3MDg0MzA0LDk0Mjg2ODYzQgJVUw%3D%3D)
+[Time Again](https://www.instagram.com/timeagainbar), 105 Canal St, Book release event with Natalie O'Moore[](https://www.google.com/maps/@/data=!3m1!4b1!4m2!11m1!2sk0JdPqCXQKmPxwc5ejRY1g?g_ep=CAISEjI1LjM1LjAuNzk5MDg4MzU1MBgAIJjQAyp1LDk0Mjg0NDY2LDk0MjI0ODI1LDk0MjI3MjQ3LDk0MjI3MjQ4LDk0MjMxMTg4LDQ3MDcxNzA0LDQ3MDY5NTA4LDk0MjczODgzLDk0MjE4NjQxLDk0MjgyMTM0LDk0MjAzMDE5LDQ3MDg0MzA0LDk0Mjg2ODYzQgJVUw%3D%3D)
 
 **T﻿ribeca | Fri**
 
