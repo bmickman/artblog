@@ -4,7 +4,6 @@ date: 2025-10-22T20:28:19.573Z
 description: Lower East Side, Soho, Bowery art crawl and design events in October 2025
 image: /images/leonard1023.jpg
 tags: nyc art openings, manhattan art, lower east side art, tribeca art, soho design
-
 ---
 As fall deepens, the city’s creative pulse is strongest downtown- Lower East Side, Tribeca, and SoHo are buzzing with new gallery shows, book launches, screenings, and parties. Expect a mix of conceptual installations, design activations, and late-night art gatherings that blur the line between exhibition and experience.
 
@@ -35,6 +34,10 @@ Whether you’re mapping a Thursday night gallery circuit or just chasing inspir
 [Helm Contemporary](https://www.helmcontemporary.com/), 132 Bowery, 3rd Floor, Pattern Space' with Jacob Cartwright, Victoria Palermo, Daniel G. Hill, and Sonita Singwi
 
 [M﻿arch](https://www.marchgallery.org/exhibitions/), 62–64 Avenue A, 'Wise Spirit' by Richard Dial
+
+[Hannah Traore Gallery](https://hannahtraoregallery.com/), 150 Orchard Street, 'A Soft Place to Land' by Eny Lee Parker
+
+[Ruby Dakota](https://www.rubydakota.com/), 155 East 2nd St, 'What the House of Dreams of' by Cassidy Argo, Athena Parella
 
 **S﻿oho | Thurs**
 
