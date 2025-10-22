@@ -2,6 +2,9 @@
 title: "Your Week in NYC: Art & Design Guide with Map 10/22-10/25"
 date: 2025-10-22T20:28:19.573Z
 description: Lower East Side, Soho, Bowery art crawl and design events in October 2025
+image: /images/leonard1023.jpg
+tags: nyc art openings, manhattan art, lower east side art, tribeca art, soho design
+
 ---
 As fall deepens, the city’s creative pulse is strongest downtown- Lower East Side, Tribeca, and SoHo are buzzing with new gallery shows, book launches, screenings, and parties. Expect a mix of conceptual installations, design activations, and late-night art gatherings that blur the line between exhibition and experience.
 
