@@ -3,6 +3,9 @@ title: "Your Week in NYC: Art & Design Guide with Map 11/6-11/8"
 date: 2025-11-06T22:20:25.544Z
 description: Lower Manhattan weekend art openings and event listings, book
   launches in Two Bridges, Tribeca, Lower East Side, Chinatown, Soho
+image: /images/company1106.jpg
+tags: nyc art openings, manhattan art, lower east side art, tribeca art, soho design
+  
 ---
 As the fall art season hits full stride, downtown Manhattan hums with openings, launches, and gatherings that stretch from the Bowery to Broadway. On the Lower East Side and through the bridges to Chinatown, a mix of young galleries and established project spaces are testing the edges of painting, sculpture, and performance—works exploring the body, information overload, and emotional residue all share the stage this week. Thursday’s cluster of openings on Elizabeth, Canal, and Henry Streets promises a dense circuit of discovery, while Soho’s design showrooms open their doors for a communal aperitivo, blurring the line between gallery and gathering.
 
