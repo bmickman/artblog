@@ -2,8 +2,6 @@
 title: "Your Week in NYC: Art Receptions & Event Guide with Map 11/11-11/6"
 date: 2025-11-11T22:23:47.060Z
 description: NYC Lower Manhattan weekday, weekend art shows and receptions
-image: /images/palo1114.jpg
-tags: nyc art receptions, lower manhattan art, lower east side (les) art, tribeca art
 ---
 This week, the downtown art scene comes alive across the Lower East Side, Tribeca, East Village, Greenwich Village, and SoHo, with a full lineup of new exhibitions and evening receptions. Independent galleries and artist-run spaces are showcasing everything from experimental installations and ceramics to painting, photography, and performance. Expect a mix of emerging artists and established names activating the streets around Ludlow, Hester, and Broadway, with several openings extending into the weekend. Whether you’re planning an LES crawl on Tuesday, a Tribeca night on Thursday, or a SoHo stop before the weekend, these shows highlight the creative pulse of New York City’s contemporary art landscape right now.
 
@@ -44,6 +42,10 @@ This week, the downtown art scene comes alive across the Lower East Side, Tribec
 [TIWA Gallery](https://www.instagram.com/tiwa_select), 86 Walker St, 'Vetro Tesoro' by Dana Arbib
 
 [Gallery 456 (CAAC), ](http://www.caacarts.org/)456 Broadway, 3rd Fl, 'The Web: The Birth and Legacy of New York's First Asian Gay Bar' with Yukai Chen, curated by Xiaojing Zhu
+
+[Peter Blum Gallery](https://www.peterblumgallery.com/exhibitions/su-mei-tse6), 176 Grand St, 'This is (not) a love song' by Su-Mei Tse
+
+[Efrain Lopez](https://efrainlopez.co/amalie-jakobsen-prooon-the-memory-of-force/), 356 Broadway, Unit LL15, 'PROOON — The Memory of Force' by Amalie Jakobsen
 
 **S﻿oho | Fri**
 
