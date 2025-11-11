@@ -2,9 +2,6 @@
 title: "Your Week in NYC: Art Receptions & Event Guide with Map 11/11-11/6"
 date: 2025-11-11T22:23:47.060Z
 description: NYC Lower Manhattan weekday, weekend art shows and receptions
-image: /images/palo1114.jpg
-tags: nyc art openings, lower manhattan art receptions, lower east side (les) art, tribeca art
-
 ---
 This week, the downtown art scene comes alive across the Lower East Side, Tribeca, East Village, Greenwich Village, and SoHo, with a full lineup of new exhibitions and evening receptions. Independent galleries and artist-run spaces are showcasing everything from experimental installations and ceramics to painting, photography, and performance. Expect a mix of emerging artists and established names activating the streets around Ludlow, Hester, and Broadway, with several openings extending into the weekend. Whether you’re planning an LES crawl on Tuesday, a Tribeca night on Thursday, or a SoHo stop before the weekend, these shows highlight the creative pulse of New York City’s contemporary art landscape right now.
 
@@ -59,6 +56,10 @@ This week, the downtown art scene comes alive across the Lower East Side, Tribec
 [Kates-Ferri Projects](https://www.katesferriprojects.com/), 561 Grand Street, 'Poems' by Borris Torres, 5pm-8pm
 
 [P﻿alo](https://www.palogallery.com/), 21 E 3rd St, 'Psychopomp' by Xanthe Burdett
+
+*F﻿riday Art Crawl Map:* 
+
+<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1eFqv8pBbC3r0ASAwNm7VxsPYdWfnxww&ehbc=2E312F" width="60%" height="380"></iframe>
 
 **L﻿ower East Side | Sat**
 
