@@ -1,5 +1,5 @@
 ---
-title: "Your Week in NYC: Art Receptions & Event Guide with Map 11/11-11/6"
+title: "Your Week in NYC: Art Receptions & Event Guide with Map 11/11-11/16"
 date: 2025-11-11T22:23:47.060Z
 description: NYC Lower Manhattan weekday, weekend art shows and receptions
 image: /images/palo1114.jpg
