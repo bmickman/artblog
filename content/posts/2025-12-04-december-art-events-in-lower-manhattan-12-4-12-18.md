@@ -3,6 +3,9 @@ title: December Art & Events in Lower  Manhattan 12/4-12/18
 date: 2025-12-04T18:29:08.161Z
 description: Holiday Season NYC Lower Manhattan Art Openings and Events, Soho,
   Lower East Side, Chinatown, Two Bridges, West Village, East Village, Tribeca
+image: /images/klein1213.jpg
+tags: nyc art openings, lower manhattan art receptions, lower east side (les) art, tribeca art shows
+
 ---
 Discover the energy of Lower Manhattan this December with a vibrant lineup of art openings, creative pop-ups, film nights, holiday markets, and cultural experiences happening from December 4–18. From the Lower East Side and East Village to Soho, Tribeca, and the West Village, the downtown art scene comes alive with new exhibitions, emerging-artist showcases, photography retrospectives, design fairs, and late-night launch parties. Whether you’re looking to explore cutting-edge installations, support independent makers, or dive into community-driven events, this curated guide spotlights the best things to do across NYC’s most art-saturated neighborhoods—perfect for anyone searching for December art events, gallery openings, and creative happenings in Lower Manhattan.
 
