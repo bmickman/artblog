@@ -4,8 +4,8 @@ date: 2025-12-04T18:29:08.161Z
 description: Holiday Season NYC Lower Manhattan Art Openings and Events, Soho,
   Lower East Side, Chinatown, Two Bridges, West Village, East Village, Tribeca
 image: /images/klein1213.jpg
-tags: nyc art openings, lower manhattan art receptions, lower east side (les) art, tribeca art shows
-
+tags: nyc art openings, lower manhattan art receptions, lower east side (les)
+  art, tribeca art shows
 ---
 Discover the energy of Lower Manhattan this December with a vibrant lineup of art openings, creative pop-ups, film nights, holiday markets, and cultural experiences happening from December 4–18. From the Lower East Side and East Village to Soho, Tribeca, and the West Village, the downtown art scene comes alive with new exhibitions, emerging-artist showcases, photography retrospectives, design fairs, and late-night launch parties. Whether you’re looking to explore cutting-edge installations, support independent makers, or dive into community-driven events, this curated guide spotlights the best things to do across NYC’s most art-saturated neighborhoods—perfect for anyone searching for December art events, gallery openings, and creative happenings in Lower Manhattan.
 
@@ -18,6 +18,10 @@ Discover the energy of Lower Manhattan this December with a vibrant lineup of ar
 [Frosch & Co](https://froschandco.com/current), 34 East Broadway, 'Bubble' by Brad Nelson
 
 [C﻿olbo](https://www.instagram.com/colbo.nyc), 51 Orchard St, OAS Launch Party, 6pm-9pm
+
+[S﻿tudio 6 Gallery](https://www.instagram.com/studio6.nyc), 106 Rivington St, 'Rat Basel' 6pm-midnight
+
+[Vacation Forever](httpw://www.instagram.com/vacationforever.tattoo), 154 East Broadway, 'Salt Tile' by Rita Salt, 7pm-9pm
 
 **W﻿est Village | Thurs**
 
@@ -73,7 +77,7 @@ Discover the energy of Lower Manhattan this December with a vibrant lineup of ar
 
 **E﻿ast Village | Tues**
 
-[Cooper Union](https://cooper.edu/events-and-exhibitions/exhibitions/city-matters-data-ecology-infrastructure-public-life-across-0\), 7 East 7th Street, 'City Matters' featuring several artists
+\[Cooper Union](https://cooper.edu/events-and-exhibitions/exhibitions/city-matters-data-ecology-infrastructure-public-life-across-0), 7 East 7th Street, 'City Matters' featuring several artists
 
 **1﻿2/10**
 
