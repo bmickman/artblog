@@ -3,6 +3,9 @@ title: "Start Your 2026 With Art Crawls in NYC: Art Reception Guide with Map 1/5
 date: 2026-01-05T22:30:33.752Z
 description: 2026 NYC contemporary art crawl in LES, Two Bridges, Noho, Tribeca,
   and West Village
+image: /images/trotter0108.jpg
+tags: nyc art openings, lower manhattan art receptions, lower east side (les)
+  art, tribeca art shows  
 ---
 The first art crawl of 2026 kicks off the new year with gallery openings across New York City’s downtown art neighborhoods, including the Lower East Side, NoHo, the West Village, and Tribeca. As NYC galleries return from the holiday pause, this week marks a renewed moment for contemporary art, emerging artists, and community-driven exhibitions. Gallery hopping through these iconic New York art districts is a time-honored way to reconnect with the city’s creative pulse and set the tone for the year ahead. Start 2026 immersed in NYC’s art scene, exploring galleries, exhibitions, and cultural spaces that continue to define New York City as a global center for contemporary art.
 
