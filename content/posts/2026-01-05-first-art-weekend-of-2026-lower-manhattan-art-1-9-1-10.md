@@ -2,6 +2,10 @@
 title: First Art Weekend of 2026, Lower Manhattan Art 1/9-1/10
 date: 2026-01-05T22:55:29.560Z
 description: NYC downtown weekend art openings through Tribeca, Lower East Side, Soho
+image: /images/tierney0109.jpg
+tags: nyc art openings, lower manhattan art receptions, lower east side (les)
+  art, tribeca art shows  
+
 ---
 The weekend brings a packed slate of NYC gallery openings and art events across some of downtown Manhattan’s most active art neighborhoods, including the Lower East Side, SoHo, Tribeca, and NoHo. As the first full art weekend of 2026 unfolds, galleries throughout New York City are in motion, offering a rich mix of contemporary art, group exhibitions, solo presentations, and artist-driven projects. From established spaces to newer venues, this weekend is ideal for gallery hopping, discovering new voices, and revisiting iconic NYC art districts.
 
