@@ -4,8 +4,7 @@ date: 2026-01-05T22:55:29.560Z
 description: NYC downtown weekend art openings through Tribeca, Lower East Side, Soho
 image: /images/tierney0109.jpg
 tags: nyc art openings, lower manhattan art receptions, lower east side (les)
-  art, tribeca art shows  
-
+  art, tribeca art shows
 ---
 The weekend brings a packed slate of NYC gallery openings and art events across some of downtown Manhattan’s most active art neighborhoods, including the Lower East Side, SoHo, Tribeca, and NoHo. As the first full art weekend of 2026 unfolds, galleries throughout New York City are in motion, offering a rich mix of contemporary art, group exhibitions, solo presentations, and artist-driven projects. From established spaces to newer venues, this weekend is ideal for gallery hopping, discovering new voices, and revisiting iconic NYC art districts.
 
@@ -36,6 +35,8 @@ Whether you’re exploring the Lower East Side’s dense gallery corridor, movin
 [N﻿YAE](https://www.nyartistsequity.org/all-events/anne-russinof-gestural-symphony), 245 Broome St, 'Gestural Symphony' by Anne Russinof
 
 [Ruby Dakota](https://www.rubydakota.com/), 155 East 2nd St, Feet Pics featuring various artists
+
+[K﻿aliner](https://kalinergallery.com/), 42 Allen Street, 'Upcoming' with Chellis Baird, Noga Ydkovik-Etizoni, Rachel Rubenstein, MaryKate Maher, Yana Beylinson
 
 **S﻿oho | Fri**
 
@@ -79,6 +80,10 @@ Whether you’re exploring the Lower East Side’s dense gallery corridor, movin
 
 [YveYANG](https://www.yveyang.com/exhibitions/talisman), 12 Wooster St, 'Talisman' by Oliver Bak, E’wao Kagoshima, Heidi Lau, Alastair Mackinven, R.H. Quaytman, Pauline Rintsch, Ker‑Xavier Roussel, Raphaela Simon, Kiki Smith, Anna‑Maria Škroba, Wang Ye, Martin Wong, Curated by Hindley Wang
 
+[Ruttkowski;68](https://www.ruttkowski68.com/exhibition/fantasy-nightmare-reality-waging-onwards-mental-battle-against-treacherous-images-created-by-masters/), 46 Cortland Alley, 'Fantasy Nightmare Reality: waging onwards mental battle against treacherous images created by masters' with Wombat
+
+[I﻿RL](https://www.instagram.com/irl.nyc), 86 Walker St, 2nd Fl, 'A Garden Made of Time' by Ana Won
+
 **L﻿ES | Sat**
 
 [E﻿ntrance](https://www.instagram.com/entrance.nyc/), 48 Ludlow Street, 'The Photo Issue' Dirty release party
@@ -90,6 +95,8 @@ Whether you’re exploring the Lower East Side’s dense gallery corridor, movin
 [Derosia](https://www.derosia.nyc/exhibitions/clemence-de-la-tour-du-pin), 197 Grand St, Clémence de La Tour du Pin
 
 [Essex Flowers](https://essexflowers.us/AARON-KRACH), 19 Monroe St, 'Everything Is Different Now' by Aaron Krach, 3pm-6pm
+
+[Lichtundfire, ](https://www.lichtundfire.com/)175 Rivington St, Theseus's Craft, 10 year gallery anniversary exhibition with various artists curated by Hayley Ferber and Priska Juschka
 
 **S﻿oho | Sat**
 
