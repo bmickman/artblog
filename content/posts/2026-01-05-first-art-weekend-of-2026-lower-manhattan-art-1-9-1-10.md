@@ -104,7 +104,7 @@ Whether you’re exploring the Lower East Side’s dense gallery corridor, movin
 
 **T﻿ribeca | Sat**
 
-[Life Center](https://www.instagram.com/lifecenternyc), 75 Miaden Lane, 'Bring Fine Art Back to The Lord' with various artists, 6:30pm-9pm
+[Life Center](https://www.instagram.com/lifecenternyc), 75 Maiden Lane, 'Bring Fine Art Back to The Lord' with various artists, 6:30pm-9pm
 
 [Freight & Volume](http://www.freightandvolume.com/exhibitions), 39 Lispenard Street, 'Pleasure Reading' by Becky Brown, 'Ezra Johnson's Home and Garden Show' by Ezra Johnson
 
