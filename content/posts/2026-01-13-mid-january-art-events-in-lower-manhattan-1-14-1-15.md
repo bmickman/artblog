@@ -3,10 +3,6 @@ title: Mid-January Art & Events in Lower Manhattan 1/14-1/15
 date: 2026-01-13T21:10:01.566Z
 description: NYC Downtown Manhattan weekday art reception listings through
   Tribeca, LES, Chinatown
-image: /images/company0115.jpg
-tags: nyc art openings, lower manhattan art receptions, lower east side (les)
-  art, tribeca art shows  
-  
 ---
 Downtown Manhattan’s art scene moves into mid-January with a packed slate of weekday openings, stretching from Tribeca through the Lower East Side and into Chinatown and Two Bridges. Galleries across these neighborhoods are unveiling new exhibitions this week, from focused solo presentations to lively group shows and experimental projects. The darker winter evenings offer a natural rhythm for moving between openings, slipping into both long-established spaces and newer rooms, and catching up with artists, curators, and fellow viewers. It’s an exciting moment to see how the season is shaping the city’s creative conversations, one gallery stop at a time.
 
@@ -59,6 +55,8 @@ Downtown Manhattan’s art scene moves into mid-January with a packed slate of w
 [Company](https://companygallery.us/), 145 Elizabeth St, 'soul breaker' with Ivana Bašić, Christopher Bucklow, Giulia Cenci, Hayden Dunham, Samuel Guerrero, Maria Fragoso Jara, Julie Maurin, Sergio Miguel, Jesús Hilario-Reyes, Giancarlo Montes Santangelo, Chiffon Thomas
 
 [Magenta Plains](https://magentaplains.com/exhibitions), 149 Canal St, 'Viewing Room IV' by Bill Saylor, 'Off-Peak' by Alex Kwartler, 'Antechamber' by Becky Kolsrud
+
+[King's Leap](https://www.kingsleapfinearts.com/), 105 Henry Street (Store 5), 'Washed by the wind' by Rina Yoshizawa
 
 ***T﻿hursday Art Crawl Map:***
 
