@@ -59,6 +59,8 @@ Kick off your weekend exploring the vibrant downtown NYC art scene, where galler
 
 [Luhring Augustine](https://www.luhringaugustine.com/exhibitions/zarina4), 17 White Street, 'Beyond the Stars' by Zarina
 
+[Loy Luo Space](https://www.loyluospace.com/), 101 Lafayette St, 'Unsayable' with various artists
+
 ***F﻿riday Art Crawl Map:***
 
 <iframe src="https://www.google.com/maps/d/u/1/embed?mid=1SRsNb_bcZGJ3zEqN4mUQXH_LyNEcnOA&ehbc=2E312F" width="60%" height="380"></iframe>
