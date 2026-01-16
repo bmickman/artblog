@@ -5,8 +5,7 @@ description: NYC Downtown Manhattan weekday art reception listings through
   Tribeca, LES, Chinatown
 image: /images/kerry0117.jpg
 tags: nyc art openings, lower manhattan art receptions, lower east side (les)
-  art, tribeca art shows  
-
+  art, tribeca art shows
 ---
 Kick off your weekend exploring the vibrant downtown NYC art scene, where galleries, project spaces, and artist-run venues come alive across some of Manhattan’s most influential neighborhoods. From the Lower East Side and Chinatown to Tribeca and the West Village, this guide captures the pulse of contemporary art in New York City, ideal for collectors, curators, and art lovers searching for the best NYC art shows this weekend. Alongside a diverse mix of emerging and established artists, you’ll find curated art crawl maps that make it easy to navigate neighborhood-to-neighborhood, plan efficient routes, and experience multiple exhibitions in a single afternoon. Whether you’re following a map or wandering organically, this weekend’s downtown Manhattan art shows offer a compelling snapshot of what’s happening now in NYC art.
 
@@ -29,6 +28,8 @@ Kick off your weekend exploring the vibrant downtown NYC art scene, where galler
 [Auxier Kline](https://www.auxierkline.com/), 19 Monroe St, '90s Softcore' by Benjamin Murphy'
 
 [T﻿he Hole](http://theholenyc.com/), 312 Bowery, 'Constructing Textiles' reading by Anni Albers
+
+[Will Shott](https://willshott.com/), 17 Pike Street, work by Amanda Atria
 
 **W﻿est Village | Fri**
 
@@ -65,7 +66,6 @@ Kick off your weekend exploring the vibrant downtown NYC art scene, where galler
 **L﻿ower East Side | Sat**
 
 [Marc Strauss](https://www.marcstraus.com/), 299 Grand St, "15-Year Anniversary Exhibition' Curated by David Ebony
-
 
 [Hashimoto Contemporary](https://www.hashimotocontemporary.com/exhibitions/308-the-invisible-dog-goes-for-a-walk-group/), 54 Ludlow St., 'The Invisible Dog Takes a Walk,' featuring various artists  co-curated by Lucien Zayan
 
