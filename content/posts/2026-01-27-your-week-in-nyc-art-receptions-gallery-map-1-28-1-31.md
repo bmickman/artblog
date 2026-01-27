@@ -2,6 +2,10 @@
 title: "Your Week in NYC: Art Receptions & Gallery Map 1/28-1/31"
 date: 2026-01-27T23:18:28.305Z
 description: nyc winter art receptions at lower manhattan galleries with art crawl map
+image: /images/fridman0128.jpg
+tags: nyc art openings, lower manhattan art receptions, lower east side (les)
+  art, tribeca art shows
+
 ---
 This week, gallery openings across New York City bring a dense lineup of exhibitions to the Lower East Side, Tribeca, and the West Village. From Bowery and Orchard Street to Canal Street and Broadway, these NYC art neighborhoods are filled with new shows exploring place, identity, material, and image. Painting, photography, sculpture, and installation intersect throughout the week, with artists moving between personal narrative and broader cultural histories.
 
