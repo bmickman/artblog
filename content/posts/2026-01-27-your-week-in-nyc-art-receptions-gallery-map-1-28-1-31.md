@@ -5,7 +5,6 @@ description: nyc winter art receptions at lower manhattan galleries with art cra
 image: /images/fridman0128.jpg
 tags: nyc art openings, lower manhattan art receptions, lower east side (les)
   art, tribeca art shows
-
 ---
 This week, gallery openings across New York City bring a dense lineup of exhibitions to the Lower East Side, Tribeca, and the West Village. From Bowery and Orchard Street to Canal Street and Broadway, these NYC art neighborhoods are filled with new shows exploring place, identity, material, and image. Painting, photography, sculpture, and installation intersect throughout the week, with artists moving between personal narrative and broader cultural histories.
 
@@ -75,9 +74,19 @@ Whether you are planning a gallery crawl or stopping into a single opening, this
 
 [Peter Freeman](https://www.peterfreemaninc.com/), 140 Grand St, work by Nashashibi/Skaer, 4pm-7pm
 
+[Lichtundfire](https://www.lichtundfire.com/), 175 Rivington St, 'Theseus's Craft' group show closing reception, 5pm-7pm
+
+[A﻿wake](https://www.instagram.com/awakenewyorkclothing), 62 Orchard St, 'Cassette Tape Diaries' presented by Skam & Riverside Drive
+
+[S﻿tudio Underground](https://www.instagram.com/_studiounderground_) at Combo Office, 76 Bowery, 'Contact, Cyanotype Workshop' by Emilio Chavez
+
 **T﻿ribeca | Sat**
 
 [Jacqueline Sullivan Gallery](https://jacquelinesullivangallery.com/), 52 Walker Street, 4th floor, 'PLAY!' with Joana Avillez, Elliot Camarra, Libby Rosen, Doub McCollough, Matt Paweski
+
+***S﻿aturday Gallery Crawl Map:***
+
+<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1neu07HSnh8-AJdxuk5XKyDQDc55v1qI&ehbc=2E312F" width="60%" height="380"></iframe>
 
 These NYC art openings offer more than a reason to gallery hop. They trace the ideas shaping New York’s contemporary art scene right now, from migration and memory to community, technology, and care. For anyone following what is happening across Lower East Side galleries, Tribeca art spaces, and the West Village, this week’s shows highlight how deeply the city’s neighborhoods remain tied to global conversations.
 
