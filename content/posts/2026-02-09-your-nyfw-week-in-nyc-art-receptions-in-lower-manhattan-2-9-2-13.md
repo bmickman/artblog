@@ -3,7 +3,7 @@ title: "Your NYFW Week in NYC: Art Receptions in Lower Manhattan 2/9-2/13"
 date: 2026-02-09T02:56:21.783Z
 description: Lower Manhattan art shows and gallery openings through Tribeca Soho
   Noho East Village
-image: /images/swpk2011.jpg
+image: /images/swpk0211.jpg
 tags: nyc art openings, lower manhattan art receptions, lower east side (les)
   art, tribeca art shows  
 ---
