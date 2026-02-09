@@ -3,6 +3,9 @@ title: "Your NYFW Week in NYC: Art Receptions in Lower Manhattan 2/9-2/13"
 date: 2026-02-09T02:56:21.783Z
 description: Lower Manhattan art shows and gallery openings through Tribeca Soho
   Noho East Village
+image: /images/swpk2011.jpg
+tags: nyc art openings, lower manhattan art receptions, lower east side (les)
+  art, tribeca art shows  
 ---
 New York Fashion Week brings an extra charge to the city, and the art world is moving just as fast. This week’s gallery openings span Greenwich Village, the East Village, the Lower East Side, NoHo, and Tribeca, creating an ideal rhythm for nights spent bouncing between fashion events and downtown exhibitions. Across these NYC neighborhoods, galleries and artist-run spaces are unveiling new shows, intimate launches, and experimental presentations that reflect the city’s creative momentum right now. Whether you are already circulating for NYFW or simply looking to explore what’s opening across Manhattan, this week offers plenty of reasons to step inside and slow down with the art.
 
