@@ -24,8 +24,6 @@ This week’s midweek openings trace those fault lines between emerging and esta
 
 [Voltz Clarke Gallery](https://voltzclarke.com/exhibitions/), 195 Chrystie Street, 'Letting Go, Holding Tight!' by Lucy Soni, 'Fluctuations' by Karen Tompkins
 
-[Lichtundfire](https://www.lichtundfire.com/lichtundfire-rodney-zelenka-night-travelers-a-solo-exhibition/), 175 Rivington St, 'NIGHT TRAVELERS' by Rodney Zelenka
-
 [Marinaro](https://www.marinaro.biz/), 99 Bowery, work by Helene Appel/Paul Hutchinson
 
 **W﻿est Village | Wednesday**
