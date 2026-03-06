@@ -2,6 +2,9 @@
 title: Your Weekend Downtown NYC Art Show Guide with Gallery Map 3/6-3/7
 date: 2026-03-06T21:31:52.372Z
 description: "lower manhattan nyc art reception gallery opening map guide "
+image: /images/kreps0306.jpg
+tags: nyc art openings, lower manhattan art receptions, lower east side (les)
+  art, tribeca art shows
 ---
 March in New York City signals the return of one of the most active moments in the downtown art calendar. This weekend, a new wave of gallery openings across Tribeca, SoHo, and the Lower East Side will bring collectors, curators, and art lovers back into the city’s galleries as the spring exhibition season begins to take shape.
 
