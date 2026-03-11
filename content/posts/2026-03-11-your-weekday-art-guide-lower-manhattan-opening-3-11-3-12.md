@@ -2,7 +2,7 @@
 title: Your Weekday Art Guide | Lower Manhattan Opening 3/11-3/12
 date: 2026-03-11T19:25:06.436Z
 description: lower east side art openings thursday gallery crawl
-image: /images/astor0311.jpg
+image: /images/astor0312.jpg
 tags: nyc art openings, lower manhattan art receptions, lower east side (les)
   art, tribeca art shows
 ---
