@@ -2,6 +2,9 @@
 title: Your Weekday Art Guide | Lower Manhattan Opening 3/11-3/12
 date: 2026-03-11T19:25:06.436Z
 description: lower east side art openings thursday gallery crawl
+image: /images/astor0311.jpg
+tags: nyc art openings, lower manhattan art receptions, lower east side (les)
+  art, tribeca art shows
 ---
 New York’s gallery scene doesn’t wait for the weekend. This week, a fresh lineup of weekday art openings is unfolding across downtown Manhattan, from the experimental spaces of the Lower East Side and Chinatown to the blue-chip galleries of SoHo and Tribeca, with intimate exhibitions tucked into the streets of the West Village.
 
