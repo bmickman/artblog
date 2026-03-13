@@ -2,6 +2,9 @@
 title: "Your Weekend Guide in NYC: Art Receptions & Gallery Map"
 date: 2026-03-13T21:44:20.798Z
 description: Tribeca and Lower East Side March Art Openings and Events
+image: /images/hashimoto0313.jpg
+tags: nyc art openings, lower manhattan art receptions, lower east side (les)
+  art, tribeca art shows
 ---
 **F﻿ri | Soho**
 
