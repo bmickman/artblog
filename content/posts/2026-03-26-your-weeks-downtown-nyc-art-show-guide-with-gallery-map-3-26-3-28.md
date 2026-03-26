@@ -2,6 +2,9 @@
 title: Your Week's Downtown NYC Art Show Guide with Gallery Map 3/26-3/28
 date: 2026-03-26T20:45:14.728Z
 description: NYC tribeca lower east side gallery listings
+image: /images/dimin0327.jpg
+tags: nyc art openings, lower manhattan art receptions, lower east side (les)
+  art, tribeca art shows
 ---
 Planning your weekend in downtown Manhattan? This week’s art listings spotlight the most exciting exhibitions, gallery openings, and creative events happening Friday and Saturday in the Lower East Side and Tribeca. From cutting-edge contemporary shows to immersive installations and emerging artist showcases, these two neighborhoods continue to define New York City’s vibrant art scene. Whether you’re gallery-hopping along Orchard Street or exploring Tribeca’s expansive loft spaces, our curated guide helps you discover the must-see art events, openings, and cultural experiences happening this weekend. Stay ahead of the scene and make the most of your Friday and Saturday with the best art listings in the Lower East Side and Tribeca.
 
