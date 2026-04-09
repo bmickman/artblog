@@ -2,6 +2,9 @@
 title: Your Week's Downtown NYC Art Show Guide with Gallery Map 4/9-4/11
 date: 2026-04-09T21:25:52.107Z
 description: NYC Lower Manhattan art reception listings through Tribeca, LES, Chinatown
+image: /images/lyles0410.jpg
+tags: nyc art openings, lower manhattan art receptions, lower east side (les)
+  art, tribeca art shows
 ---
 April art openings in New York City are moving into full spring mode as galleries across Tribeca, Lower East Side, Two Bridges, Chinatown, and the West Village activate a dense week of new exhibitions and public receptions. The season brings increased foot traffic, extended evening hours, and a steady flow of openings that connect these downtown neighborhoods into a continuous gallery route.
 
