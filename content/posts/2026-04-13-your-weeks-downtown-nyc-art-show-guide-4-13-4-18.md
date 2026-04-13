@@ -13,7 +13,7 @@ In other words, wear comfortable shoes, keep your plans loose, and expect the ni
 
 **L﻿ower East Side | Monday**
 
-[Tawny](https://www.instagram.com/tawny.nyc1), 173 Henry St, Out of the Dark' group show from 6pm
+[Tawny](https://www.instagram.com/tawny.nyc/), 173 Henry St, Out of the Dark' group show from 6pm
 
 **T﻿ribeca | Tuesday**
 
