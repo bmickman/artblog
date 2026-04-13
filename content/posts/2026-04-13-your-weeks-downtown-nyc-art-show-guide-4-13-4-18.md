@@ -2,9 +2,6 @@
 title: Your Week's Downtown NYC Art Show Guide 4/13-4/18
 date: 2026-04-13T21:25:31.948Z
 description: LES Tribeca Chinatown Lower East Side NYC Listings
-image: /images/chart0417.jpg
-tags: nyc art openings, lower manhattan art receptions, lower east side (les)
-  art, tribeca art shows
 ---
 Downtown Manhattan is hitting that spring moment when everything seems to open at once, with new shows layered over late-season standouts from the Lower East Side to Tribeca and across the West Village. This week feels less like a single opening night and more like a drawn-out crawl, with midweek previews, Thursday receptions, and weekend drop-ins pulling you between neighborhoods.
 On the Lower East Side, the energy stays dense and fast-moving, with smaller galleries debuting tightly curated group shows and emerging artists, often spilling onto the sidewalk by early evening. In Tribeca, the pace is a bit more measured but just as active, with a steady run of openings and longer exhibitions reinforcing the neighborhood’s place as a major gallery hub. Over in the West Village, things lean quieter and more deliberate, where the focus shifts toward carefully staged presentations that reward a slower look.
@@ -42,6 +39,8 @@ In other words, wear comfortable shoes, keep your plans loose, and expect the ni
 [H﻿eft](https://heftgallery.com/), 300 Broome St, 'Light Matter' by Nancy Burson
 
 [Whaam!, ](https://www.instagram.com/whaam.whaam)15 Elizabeth St, 'Compartmentalization' by Nathalie Nguyen
+
+[Awake](https://www.instagram.com/awakenewyorkclothing), 62 Orchard St, Marshall live event, 6pm-9pm [RSVP LINK ](https://docs.google.com/forms/d/e/1FAIpQLSc04qtwVqpnrj5p_0q6m1yrL4CRU8OqqsOSI2GRG0cqRR4VFg/viewform?pli=1)
 
 **T﻿ribeca | Friday**
 
