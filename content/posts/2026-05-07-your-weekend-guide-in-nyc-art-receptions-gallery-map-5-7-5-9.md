@@ -2,9 +2,6 @@
 title: "Your Weekend Guide in NYC: Art Receptions & Gallery Map 5/7-5/9"
 date: 2026-05-07T00:16:44.123Z
 description: Lower East Side, Tribeca, Chinatown, and Soho Manhattan art openings
-image: /images/almine0509.jpg
-tags: nyc art openings, lower manhattan art receptions, lower east side (les)
-  art, tribeca, soho, noho, west village art shows    
 ---
 This week’s NYC art shows in Tribeca and the Lower East Side bring a packed lineup of contemporary gallery openings, exhibitions, and special events spread across Thursday through Saturday. For anyone tracking the latest New York City art gallery openings, this is a particularly active week, with a strong concentration of solo exhibitions, group shows, and one-night events that highlight both emerging and established contemporary artists.
 In the Lower East Side, the week features a dense cluster of NYC art gallery openings ranging from experimental installations and conceptual contemporary art to more intimate, narrative driven exhibitions. Viewers can expect a walkable sequence of spaces presenting painting, mixed media work, and multimedia practices that reflect current directions in New York’s downtown art scene.
@@ -40,6 +37,16 @@ Overall, this week’s NYC gallery openings in Tribeca and the Lower East Side o
 
 [Abri Mars](https://abrimars.com/exhibitions/gift), 53a Stanton St, 'Gift'
 
+[Nathalie Karg Gallery](https://nathaliekarg.com/exhibitions/101-a-thin-place-alex-bierk/overview/), 291 Grand St, 'A Thin Place' by Alex Bierk
+
+[My Pet Ram](https://www.mypetram.com/), 48 Hester Street, 'The Navelgazer' by Caro
+
+[M﻿arch](https://www.marchgallery.org/), 62–64 Avenue A, 'Juke Joint'
+
+[Auxier Kline](https://www.auxierkline.com/), 19 Monroe St, 'A Season in Hell' by Jeremy Sorese
+
+[Kates-Ferri Projects](https://www.katesferriprojects.com/), 561 Grand Street, 'Crossing Cultures' group show
+
 **T﻿ribeca | Fri**
 
 [Almine Rech](https://www.alminerech.com/exhibitions/12298-alejandro-cardenas-arachne), 361 Broadway, 'ARACHNE' by Alejandro Cardenas
@@ -51,6 +58,16 @@ Overall, this week’s NYC gallery openings in Tribeca and the Lower East Side o
 [Schoelkopf](https://schoelkopfgallery.com/exhibitions/52-new-york-city-circa-1960-works-from-the/overview/), 390 Broadway, New York City Circa 1960: Works from the Collection of Robert A. Ellison, Jr. [RSVP Email](info@schoelkopfgallery.com)
 
 [YveYANG](https://www.yveyang.com/exhibitions/ghost-stone), 12 Wooster St, 'Ghost Stone' by Stephen Lichty
+
+[HB381](https://www.hb381gallery.com/exhibitions/into-the-green#slide:0;tab:slideshow;enlarge:true), 381 Broadway, 'Into the Green' by Marit Tingleff
+
+[ghost machine](https://ghostmachinegallery.com/), 23 Monroe St, 'My Mother’s Labor: The Machines' by Jamie Martinez, Curated by Emireth Herrera Valdés, 6pm-9pm
+
+[Margot Samel](https://www.margotsamel.com/), 295 Church Street, 'Dwelling Place' by Sasha Brodsky
+
+[Galerie Timonier](https://www.galerie-timonier.com/), 246 West Broadway, work by Joe Brainard, Pati Hill, Ray Johnson
+
+[David Zwirner](https://www.davidzwirner.com/exhibitions/2026/statics-of-an-egg), 52 Walker St, 'Statics of an Egg' by Fujiko Nakaya
 
 **West Village | Fri**
 
@@ -71,6 +88,10 @@ Overall, this week’s NYC gallery openings in Tribeca and the Lower East Side o
 [The Hole](http://theholenyc.com/), 312 Bowery, 'Glass Class' group show
 
 [Trotter & Sholer](https://trotterandsholer.com/exhibitions/52-don-t-be-a-stranger-jessica-frances-gregoire-lancaster/overview/), 168 Suffolk St, 'Don’t Be A Stranger' by Jessica Frances Grégoire Lancaster
+
+[U﻿lrik](https://ulrik.nyc/), 175 Canal Steet, Floor 3, work by Taro Masushio
+
+[Amanita](https://spazioamanita.com/), 313 Bowery, 'Land Before Time: Three Dinosaurs and a Gondola' by John Chamberlain
 
 **S﻿aturday Art Crawl Gallery Map:**
 
