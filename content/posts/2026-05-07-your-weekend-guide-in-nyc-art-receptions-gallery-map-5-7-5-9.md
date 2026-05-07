@@ -1,7 +1,7 @@
 ---
 title: "Your Weekend Guide in NYC: Art Receptions & Gallery Map 5/7-5/9"
 date: 2026-05-07T00:16:44.123Z
-description: Lower East Side, Tribeca, Chinatown, and Soho Manhattan art openings
+description: Weekly NYC art shows and gallery openings in Lower East Side, Tribeca, Chinatown, and SoHo Manhattan
 image: /images/almine0509.jpg
 tags: nyc art openings, lower manhattan art receptions, lower east side (les)
   art, tribeca, soho, noho, west village art shows 
