@@ -3,6 +3,9 @@ title: Your NYC Weekday Art Guide | Lower Manhattan Openings & Events  5/11-5/14
 date: 2026-05-11T21:52:12.148Z
 description: Lower East Side, Tribeca, Chinatown, Noho and Soho Manhattan art
   openings and events
+image: /images/fridman0513.jpg
+tags: nyc art openings, lower manhattan art receptions, lower east side (les)
+  art, tribeca, soho, noho, west village art shows      
 ---
 Each week, downtown NYC’s gallery scene brings a new wave of openings across the Lower East Side, SoHo, NoHo, and Tribeca. This week’s listings highlight the diversity of contemporary art shaping New York right now, spanning painting, sculpture, installation, and interdisciplinary practices. Explore the latest exhibitions, opening receptions, and standout presentations happening throughout downtown Manhattan this week.
 
