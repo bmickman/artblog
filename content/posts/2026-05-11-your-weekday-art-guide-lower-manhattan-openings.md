@@ -1,5 +1,5 @@
 ---
-title: Your Weekday Art Guide | Lower Manhattan Openings
+title: Your NYC Weekday Art Guide | Lower Manhattan Openings & Events  5/11-5/14
 date: 2026-05-11T21:52:12.148Z
 description: Lower East Side, Tribeca, Chinatown, Noho and Soho Manhattan art
   openings and events
