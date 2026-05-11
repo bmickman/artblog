@@ -4,6 +4,8 @@ date: 2026-05-11T21:52:12.148Z
 description: Lower East Side, Tribeca, Chinatown, Noho and Soho Manhattan art
   openings and events
 ---
+Each week, downtown NYC’s gallery scene brings a new wave of openings across the Lower East Side, SoHo, NoHo, and Tribeca. This week’s listings highlight the diversity of contemporary art shaping New York right now, spanning painting, sculpture, installation, and interdisciplinary practices. Explore the latest exhibitions, opening receptions, and standout presentations happening throughout downtown Manhattan this week.
+
 **E﻿ast Village | Monday**
 
 [Zurcher Gallery](https://www.galeriezurcher.com/), 33 Bleeker St, Salon of Zurcher: 100 Women of Spirit
@@ -40,9 +42,11 @@ description: Lower East Side, Tribeca, Chinatown, Noho and Soho Manhattan art
 
 [Venus Over Manhattan](https://www.venusovermanhattan.com/exhibitions/brad-kahlhamer/undefined?view=slider#7), 39 Great Jones St, Bowery Nation: Birds Are Talking by Brad Kahlhamer
 
-**S﻿oho | Wednesday**
+<iframe src="https://www.google.com/maps/d/u/2/embed?mid=1-DLazyFvCJC51Ojo1cWRVrPJMx5peOs&ehbc=2E312F" width="60%" height="380"></iframe>
 
-[Snady Bottom Swimwear](https://sandybottomswimwear.com/) popup at The Canvas, 456 West Broadway, Opening Night [RSVP LINK](https://sandybottomswimwear.com/pages/nyc-popup-2026-rsvp)
+**S﻿oho | Thursday**
+
+[San](https://sandybottomswimwear.com/)[dy Bottom Swimwear](https://sandybottomswimwear.com/) popup at The Canvas, 456 West Broadway, Opening Night [RSVP LINK](https://sandybottomswimwear.com/pages/nyc-popup-2026-rsvp)
 
 **L﻿ower East Side | Thursday**
 
@@ -75,3 +79,13 @@ description: Lower East Side, Tribeca, Chinatown, Noho and Soho Manhattan art
 [ILY2](https://www.instagram.com/ily2.ily2/), 35 Saint James Place, work by Pace Taylor
 
 [Sixty White](https://www.sixtywhite.com/), 60 White St, 'A World in Motion' by Keith Haring
+
+This week’s weekday gallery listings spotlight some of downtown New York’s most compelling contemporary art exhibitions across the Lower East Side, SoHo, NoHo, and Tribeca. Leading this week’s featured selections is Fridman Gallery’s presentation of Haitian-Canadian painter Laurena Finéus in her first solo exhibition, Cautionary Tales: A Symphony of Anger/Kòlè.
+Balancing abstraction and realism, Finéus creates layered paintings in oil, ink, pigment, and acrylic that evoke rugged landscapes shaped by displacement, environmental collapse, and survival. Her richly textured surfaces mirror the dense forests and unstable terrains of Maroon geographies, where regrowth and destruction coexist simultaneously.
+Throughout the exhibition, recurring natural elements function as symbols of endurance and transformation. Magnolia seeds, once believed extinct in Haiti, speak to fragility and persistence, while fire becomes both a force of devastation and liberation. Influenced by Édouard Glissant’s concept of Chaos-Monde, Finéus frames instability not simply as collapse, but as an ongoing process of renewal and possibility.
+The exhibition also draws inspiration from Amour by Marie Vieux Chauvet through the figure of La Femme Désordre — a rebellious feminine presence that resists silence, containment, and social expectation. Referencing the writings of Audre Lorde, Finéus transforms anger into something spiritual, collective, and regenerative.
+As downtown NYC galleries unveil new spring exhibitions this week, Cautionary Tales: A Symphony of Anger/Kòlè stands out as a powerful meditation on rupture, resilience, and the enduring search for freedom.
+
+<iframe src="https://www.google.com/maps/d/u/2/embed?mid=1vXqyi18LrKjwNCuBwhaKWotCEdy0Gu4&ehbc=2E312F" width="60%" height="380"></iframe>
+
+***F﻿eatured work above by Laurena Finéus***
