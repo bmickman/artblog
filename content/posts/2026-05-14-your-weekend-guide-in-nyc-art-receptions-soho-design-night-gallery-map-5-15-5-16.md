@@ -3,9 +3,6 @@ title: "Your Weekend Guide in NYC: Art Receptions, Soho Design Night & Gallery
   Map 5/15-5/16"
 date: 2026-05-13T23:26:46.772Z
 description: "LES Tribeca Chinatown NYC Listings, Soho Design Night, NYCxDESIGN "
-image: /images/hollis0515.jpg
-tags: nyc art openings, lower manhattan art receptions, lower east side (les)
-  art, tribeca, soho, noho, west village art shows  
 ---
 NYC’s Lower Manhattan art and design scene is set for a major May weekend takeover, with SoHo, Tribeca, and the Lower East Side hosting immersive gallery walks, open studios, design activations, and new exhibitions across downtown Manhattan. From Friday night’s highly anticipated SoHo Design Night to the massive neighborhood-wide art walks spanning Tribeca and LES, this weekend’s listings spotlight the creative energy defining New York’s contemporary culture scene.
 
@@ -23,37 +20,37 @@ For anyone exploring NYC galleries, design events, and contemporary art this May
 
 **[S﻿oho Design Night | Friday](https://nycxdesign.org/events/soho-design-night)**
 
-***[](https://nycxdesign.org/events/soho-design-night)5pm-8pm:*** 
+[](https://nycxdesign.org/events/soho-design-night)***5pm-8pm:*** 
 
 Original BTC, 56 Greene St
 
 ***6pm-8pm:***
 
-F﻿los, 152 Greene St, Store reopening, [RSVP Link](https://about.flos.com/en/global/event-registration-next)
+F﻿los, 152 Greene St, Store reopening,** [RSVP Link](https://about.flos.com/en/global/event-registration-next)**
 
 Lemieux, 161 Grand St
 
-Orior, 32 Mercer St, [RSVP Email](oriorrsvp@thelast.agency)
+Orior, 32 Mercer St**, [RSVP Email](oriorrsvp@thelast.agency)**
 
-Bang & Olufsen, 121 Spring St, [RSVP Email](soho@bang-olufsen.dk)
+Bang & Olufsen, 121 Spring St, **[RSVP Email](soho@bang-olufsen.dk)**
 
 ***6pm-9pm:*** 
 
-Luminous, 57 Lispenard St, [RSVP Link](https://calicowallpaper.typeform.com/cocktail)
+Luminous, 57 Lispenard St,** [RSVP Link](https://calicowallpaper.typeform.com/cocktail)**
 
 Host on Howard, 21 Howard St
 
-GreenRow, 47 Howard St, [RSVP Email](sohostore@greenrow.com)
+GreenRow, 47 Howard St, **[RSVP Email](sohostore@greenrow.com)**
 
-Calligaris SoHo, 55 Thompson St, [RSVP Link](https://docs.google.com/forms/d/e/1FAIpQLSd0gI1WM0FNsxBYeLLAaqN4nqc5b3WoFnz2aLWlCdoBVDa2yw/viewform)
+Calligaris SoHo, 55 Thompson St,** [RSVP Link](https://docs.google.com/forms/d/e/1FAIpQLSd0gI1WM0FNsxBYeLLAaqN4nqc5b3WoFnz2aLWlCdoBVDa2yw/viewform)**
 
 Amura, 60 Grand St
 
 Foglizzo, 429 West Broadway
 
-Calico & Stellar Works, 304 Canal St, [RSVP Email](stellarworks@dadagoldberg.com)
+Calico & Stellar Works, 304 Canal St, **[RSVP Email](stellarworks@dadagoldberg.com)**
 
-Nordic Knots, 6 Green St, [RSVP Email](rsvp@nordicknots.com)
+Nordic Knots, 6 Green St, **[RSVP Email](rsvp@nordicknots.com)**
 
 Rachel Donath, 69 Mercer St
 
@@ -61,13 +58,13 @@ Scavolini, 429 West Broadway
 
 Studio Zung, 41 Grand St
 
-Uprise Art, 264 Canal St, #4W, [RSVP Link](https://luma.com/6uc14zdv)
+Uprise Art, 264 Canal St, #4W, **[RSVP Link](https://luma.com/6uc14zdv)**
 
-Wine Enthusiast, 27 Greene St, [RSVP Email](ajeanty@wineenthusiast.com)
+Wine Enthusiast, 27 Greene St, **[RSVP Email](ajeanty@wineenthusiast.com)**
 
 Foscarini Spazio, 20 Greene St
 
-Hastens, 75 Grand St, [RSVP Email](chad.holbein@thesleepspa.com)
+Hastens, 75 Grand St,** [RSVP Email](chad.holbein@thesleepspa.com)**
 
 **L﻿ower East Side | Friday**
 
