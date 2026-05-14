@@ -3,6 +3,9 @@ title: "Your Weekend Guide in NYC: Art Receptions, Soho Design Night & Gallery
   Map 5/15-5/16"
 date: 2026-05-13T23:26:46.772Z
 description: "LES Tribeca Chinatown NYC Listings, Soho Design Night, NYCxDESIGN "
+image: /images/hollis0515.jpg
+tags: nyc art openings, lower manhattan art receptions, lower east side (les)
+  art, tribeca, soho, noho, west village art shows  
 ---
 NYC’s Lower Manhattan art and design scene is set for a major May weekend takeover, with SoHo, Tribeca, and the Lower East Side hosting immersive gallery walks, open studios, design activations, and new exhibitions across downtown Manhattan. From Friday night’s highly anticipated SoHo Design Night to the massive neighborhood-wide art walks spanning Tribeca and LES, this weekend’s listings spotlight the creative energy defining New York’s contemporary culture scene.
 
