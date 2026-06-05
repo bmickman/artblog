@@ -3,6 +3,9 @@ title: "Your Weekend Guide in NYC: Art Receptions & Gallery Map 6/5"
 date: 2026-06-05T04:36:30.383Z
 description: NYC Downtown Manhattan weekday art reception listings through
   Tribeca, LES, Chinatown
+image: /images/highnoon0605.jpg
+tags: nyc art openings, lower manhattan art receptions, lower east side (les)
+  art, tribeca, soho, noho, west village art shows    
 ---
 **L﻿ower East Side | Friday**
 
