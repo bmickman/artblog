@@ -3,6 +3,8 @@ title: "Your 1-Minute Guide to Tribeca Festival 2026, Screening This Week, Part
   1: 11 High Profile Feature Films"
 date: 2026-06-10T21:02:09.202Z
 description: Tribeca Festival 1-minute guide, nyc film festival, lower manhattan events
+image: /images/lastday.jpg
+tags: tribeca festival, lower manhattan festival, tribeca events   
 ---
 Welcome to the 2026 edition of the 1-Minute Guide to Tribeca. This part of the guide will focus on some of the festival's most buzzworthy narrative features, the films bringing recognizable names, acclaimed filmmakers, and plenty of anticipation.
 
