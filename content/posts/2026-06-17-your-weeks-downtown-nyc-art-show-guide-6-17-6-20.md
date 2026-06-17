@@ -2,6 +2,9 @@
 title: Your Week's Downtown NYC Art Show Guide 6/17-6/20
 date: 2026-06-17T04:16:12.737Z
 description: LES Tribeca Noho East Village Chinatown NYC Listings
+image: /images/aicon0618.jpg
+tags: nyc art openings, lower manhattan art receptions, lower east side (les)
+  art, tribeca, soho, noho, west village art shows    
 ---
 **L﻿ower East Side | Weds**
 
