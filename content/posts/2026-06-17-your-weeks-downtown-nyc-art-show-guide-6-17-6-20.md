@@ -2,19 +2,26 @@
 title: Your Week's Downtown NYC Art Show Guide 6/17-6/20
 date: 2026-06-17T04:16:12.737Z
 description: LES Tribeca Noho East Village Chinatown NYC Listings
-image: /images/aicon0618.jpg
-tags: nyc art openings, lower manhattan art receptions, lower east side (les)
-  art, tribeca, soho, noho, west village art shows    
 ---
 **L﻿ower East Side | Weds**
 
 [E﻿quity Gallery](https://www.nyartistsequity.org/), 245 Broome St, Transcender, art talks from 7pm
+
+[Half Gallery](https://halfgallery.com/annex), 235 E 4th St, 'Sammy's' by Tommy May, 'One Foot in Eden' by Maud Madsen
+
+[Kaliner](https://kalinergallery.com/), 42 Allen Street,, 'Traces of Human Presence' group show
 
 **L﻿ower East Side | Thurs**
 
 [Entrance](https://www.instagram.com/entrance.nyc/), 48 Ludlow Street, 'Nachtschicht' by Nikola Burnett
 
 [Kapow Gallery](https://instagram.com/kapowgallery), 23 Monroe St, 'Her dogs no longer recognize her' by Ali Sutton, 6pm-9pm
+
+[bitforms gallery](https://www.bitforms.art/exhibition/time-is-a-flat-circle), 131 Allen St, 'time is a flat circle' with Erick Antonio Benitez, Ricardo Cabret, Lou Fauroux, and Umber Majeed
+
+**T﻿ribeca | Thurs**
+
+[GR Gallery](https://www.gr-gallery.com/exhibitions), 116 Chambers St, work by Brian Robertson
 
 **E﻿ast Village | Thurs**
 
@@ -28,6 +35,8 @@ tags: nyc art openings, lower manhattan art receptions, lower east side (les)
 
 [Ruttkowski;68](https://www.ruttkowski68.com/exhibition/alley-cats/), 46 Cortland Alley, Alley Cats with Antwan Horfee, Dennis Buck, Diego Prieto, Eddie Martinez, Eva Beresin, Francesco Igory Deiana, Frédéric Platéus, Geoff Davis, Heather Bause Rubinstein, Loren Munk, Luciano Calderon, Marika Thunder, Michael Günzer, Miguel Ángel Payano Jr., Mischa Kuball, Monica Kim Garza, Nicholas Krushenick, Parra, Prosper Legault, Robin Winters, Todd James, Trudy Benson
 
+[D﻿imin](https://www.dimin.nyc/exhibitions/42-matt-phillips-recent-paintings/press_release_text/), 406 Broadway, recent paintings by Matt Phillips
+
 **L﻿ower East Side | Fri**
 
 [Nunu Fine Art](https://www.nunufineart.com/new-york), 381 Broome St, 'Tactile Synchronicity: The End of Linear Time' by Ya-Ting Kao
@@ -35,6 +44,12 @@ tags: nyc art openings, lower manhattan art receptions, lower east side (les)
 **L﻿ower East Side | Sat**
 
 [Company](https://companygallery.us/), 145 Elizabeth St, 'roach+world' by Taeer M, 'In the life' by Aya Brown
+
+[U﻿lrik](https://ulrik.nyc/), 175 Canal Steet, Floor 3, 'SUGAR CRASH' by Hansi Fuchs
+
+**T﻿ribeca | Sat**
+
+[Arsenal Contemporary](https://www.arsenalcontemporary.com/ny/exhib/detail/davidspriggs), 21 Cortlandt Alley, work by David Spriggs
 
 New York’s downtown art scene is in peak summer form this week, with standout exhibitions across the Lower East Side, East Village, NoHo, SoHo, and Tribeca showcasing everything from emerging contemporary voices to museum-caliber historical surveys. Whether you're gallery hopping through the LES, exploring artist-run spaces in the East Village, or visiting blue-chip exhibitions in Tribeca and SoHo, this week's art listings offer a compelling snapshot of the city's vibrant cultural landscape.
 
