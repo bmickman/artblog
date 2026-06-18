@@ -4,7 +4,7 @@ date: 2026-06-17T04:16:12.737Z
 description: LES Tribeca Noho East Village Chinatown NYC Listings
 image: /images/aicon0618.jpg
 tags: nyc art openings, lower manhattan art receptions, lower east side (les)
-  art, tribeca, soho, noho, west village art shows    
+  art, tribeca, soho, noho, west village art shows
 ---
 **L﻿ower East Side | Weds**
 
@@ -22,6 +22,10 @@ tags: nyc art openings, lower manhattan art receptions, lower east side (les)
 
 [bitforms gallery](https://www.bitforms.art/exhibition/time-is-a-flat-circle), 131 Allen St, 'time is a flat circle' with Erick Antonio Benitez, Ricardo Cabret, Lou Fauroux, and Umber Majeed
 
+**S﻿oho | Thurs**
+
+[Staley Wise](https://www.staleywise.com/exhibitions-fairs/becoming-marilyn), 100 Crosby St, 'Becoming Marilyn'
+
 **T﻿ribeca | Thurs**
 
 [GR Gallery](https://www.gr-gallery.com/exhibitions), 116 Chambers St, work by Brian Robertson
@@ -33,6 +37,10 @@ tags: nyc art openings, lower manhattan art receptions, lower east side (les)
 [14BC Gallery](https://www.instagram.com/14bcgallery), 626 East 14th St, 'Tutto Regola' by Elisabetta Nitoglia, 5pm-9pm
 
 [P﻿alo](https://www.palogallery.com/exhibitions/69-hafsa-nouman-facsimile/works/), 21 E 3rd St, 'Facsimile' by Hafsa Nouman
+
+***T﻿hursday Art Crawl Gallery Map***
+
+<iframe src="https://www.google.com/maps/d/u/2/embed?mid=1qZV9c1CZCb9ivQPo_NVA2OG5qVsIPP8&ehbc=2E312F" width="60%" height="380"></iframe>
 
 **Tribeca | Fri**
 
