@@ -3,6 +3,9 @@ title: "Your Week's Event Guide in NYC: Art Receptions & Event/Gallery Map 6/25-
 date: 2026-06-25T19:46:00.557Z
 description: NYC Downtown Manhattan summer art reception listings through
   Tribeca, LES, Chinatown
+image: /images/hollis0625.jpg
+tags: nyc art openings, lower manhattan art receptions, lower east side (les)
+  art, tribeca, soho, noho, west village art shows  
 ---
 Lower East Side, SoHo, East Village, West Village, Tribeca, and Two Bridges are unveiling ambitious summer exhibitions, artist talks, and opening receptions that celebrate creativity, identity, and community. Whether you're gallery hopping through LES, exploring Tribeca's expansive exhibition spaces, or discovering emerging voices in the East Village, this final weekend of June offers an exceptional snapshot of contemporary art in downtown Manhattan.
 
