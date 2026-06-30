@@ -3,10 +3,6 @@ title: Your Week's Downtown NYC Art Show Guide 6/30-7/2
 date: 2026-06-30T17:01:21.448Z
 description: NYC Downtown Manhattan weekday art reception listings through
   Tribeca, LES, Chinatown
-image: /images/brown0701.jpg
-tags: nyc art openings, lower manhattan art receptions, lower east side (les)
-  art, tribeca, soho, noho, west village art shows  
----  
 ---
 If you're planning your NYC gallery rounds this week, the stretch from Tribeca through the Lower East Side and East Village is packed with some of the city's strongest summer art openings. With the week leading into the Fourth of July bringing increasingly hot temperatures, there is no better time to spend an afternoon exploring galleries, discovering new artists, and revisiting established names in downtown Manhattan.
 
@@ -19,6 +15,8 @@ If you're planning your NYC gallery rounds this week, the stretch from Tribeca t
 [Matthew Brown](https://www.matthewbrowngallery.com/exhibitions), 390 Broadway, 'Cricket Music' with various artists
 
 [T﻿heta](https://www.theta.nyc/), 184 Franklin St, 'Bird World' by Ty Palow
+
+[C﻿anada](https://canadanewyork.com/exhibitions/plants-animals-&-sky), 60 Lispenard St, 'Plants, Animals and Sky' Ellen Altfest, Edward Bannister, Minnie Black, Ben Berlow, Katherine Bernhardt, Katherine Bradford, Dietmar Busse, Paula Brooks, Ross Caliendo, Leidy Churchman, Noah Cohen, Emily Cole, Mira Dancy, Francesco Igory Deiana, Joe DeNardo, Lois Dodd, Laura Donohue, Robert S. Duncanson, Sam Falls, Deborah Falls, Gerald Ferguson, Mark Fleuridor, Brianne Garcia, Eliot Greenwald, Nora Griffin, Rachel Gross, Domenico Gutknecht, Anders Hamilton, Bendix Harms, Marsden Hartley, Karsen Heagle, Marc Hundley, James Hyde, George Inness, Kahlil Robert Irving, Gerald Jackson, Matthew Day Jackson, Marci Janusz, Sahar Khoury, Elisabeth Kley, Emma Kohlmann, Sandy Litchfield, Lily Ludlow, Lauren Luloff, Diana Mallett, Lee Mary Manning, Emily Manwaring, Tony Matelli, Richard Mayhew, Dean Millien, Ilse Sørensen Murdock, Andrew Nash, Davida Nemeroff, Tessa O'Brien, Scott Reeder, Tyson Reeder, Ken D. Resseger, Joe Roberts, Joan Snyder, Mamali Shafahi, Claire Sherman, Eva Sturm-Gross, Mary Temple, Kiyoshi Tsuchiya, Scott Treleaven, Tabboo!, Nina de Creeft Ward, Trevor Warren, Gerald Wartofsky, Sterling Wells, Anke Weyer, Wallace Whitney, Jane Wilson, Beatriz Williams, Jimmy Wright, 6pm-9pm
 
 **L﻿ower East Side | Wednesday**
 
