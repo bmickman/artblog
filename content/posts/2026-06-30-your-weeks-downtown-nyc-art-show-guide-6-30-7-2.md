@@ -3,6 +3,10 @@ title: Your Week's Downtown NYC Art Show Guide 6/30-7/2
 date: 2026-06-30T17:01:21.448Z
 description: NYC Downtown Manhattan weekday art reception listings through
   Tribeca, LES, Chinatown
+image: /images/brown0701.jpg
+tags: nyc art openings, lower manhattan art receptions, lower east side (les)
+  art, tribeca, soho, noho, west village art shows  
+---  
 ---
 If you're planning your NYC gallery rounds this week, the stretch from Tribeca through the Lower East Side and East Village is packed with some of the city's strongest summer art openings. With the week leading into the Fourth of July bringing increasingly hot temperatures, there is no better time to spend an afternoon exploring galleries, discovering new artists, and revisiting established names in downtown Manhattan.
 
