@@ -1,7 +1,7 @@
 ---
-title: Your Weekday Art Guide | Lower Manhattan Openings
+title: Your Weekday Art Guide | Lower Manhattan Openings (7/9-7/11)
 date: 2026-07-07T19:50:56.753Z
-description: Your Week's Downtown NYC Art Show Guide (7/9-7/11)
+description: NYC Art Show Openings throughout Chinatown, Tribeca, SoHo, the Lower East Side 
 image: /images/strauss0710.jpg
 tags: nyc art openings, lower manhattan art receptions, lower east side (les)
   art, tribeca, soho, noho, west village art shows   
