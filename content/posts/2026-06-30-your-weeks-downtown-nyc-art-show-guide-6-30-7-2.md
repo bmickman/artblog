@@ -3,7 +3,7 @@ title: Your Week's Downtown NYC Art Show Guide 6/30-7/2
 date: 2026-06-30T17:01:21.448Z
 description: NYC Downtown Manhattan weekday art reception listings through
   Tribeca, LES, Chinatown
-image: /images/brown0630.jpg
+image: /images/brown0701.jpg
 tags: nyc art openings, lower manhattan art receptions, lower east side (les)
   art, tribeca, soho, noho, west village art shows   
 ---
