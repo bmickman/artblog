@@ -1,12 +1,16 @@
 ---
-title: Your Weekday Art Guide | Lower Manhattan Openings (7/9-7/11)
+title: Your Weekday Art Guide | Lower Manhattan Openings (7/8-7/11)
 date: 2026-07-07T19:50:56.753Z
-description: NYC Art Show Openings throughout Chinatown, Tribeca, SoHo, the Lower East Side 
+description: NYC Art Show Openings throughout Chinatown, Tribeca, SoHo, the Lower East Side
 image: /images/strauss0710.jpg
 tags: nyc art openings, lower manhattan art receptions, lower east side (les)
-  art, tribeca, soho, noho, west village art shows   
+  art, tribeca, soho, noho, west village art shows
 ---
 New York's summer gallery season continues with a strong lineup of art openings across Chinatown, Tribeca, SoHo, the Lower East Side, and the West Village, making this one of the best weeks to explore Lower Manhattan's contemporary art scene. From established blue-chip galleries to emerging artist spaces, this week's exhibitions showcase new painting, sculpture, photography, and installation work across some of NYC's most vibrant gallery neighborhoods.
+
+**S﻿oho | Wednesday**
+
+[Amelie Du Chalard](https://www.instagram.com/ameliemaisondart), 85-87 Mercer St, 'You Can't Put Your Arms Around a Memory' by Leo Dorfner
 
 **L﻿ower East Side | Thursday**
 
@@ -18,6 +22,10 @@ New York's summer gallery season continues with a strong lineup of art openings 
 
 [Amanita](https://spazioamanita.com/), 1 Freeman Alley, 'In Due Course' by Braden Hollis
 
+[G﻿ratin](https://www.gratin.com/), 291 Grand St, 2nd Fl, work by Boris Kurdi, 5pm-8pm
+
+[Z Collective](https://www.collectivez.com/events), 325 Broome St, Conviction by  Haleh Atabeigi, 6pm-9pm
+
 **T﻿ribeca | Thursday**
 
 [Locker Room](https://www.instagram.com/thelockerroomnyc), 253 Church St, 'The Pulse of Grass and Screen' by Summer Wagner
@@ -25,6 +33,10 @@ New York's summer gallery season continues with a strong lineup of art openings 
 [201@105](https://www.201at105.com/), 105 Mulberry St., Room 201, Adrar Inu, group show
 
 [Rainrain](https://www.rainraingallery.com/about), 110 Lafayette St, Wetware, curated by Spine
+
+***T﻿hursday Event Crawl Map:***
+
+<iframe src="https://www.google.com/maps/d/u/2/embed?mid=1zu0J8IM778aFDK5fN7OQ13m6EuVzkpE&ehbc=2E312F" width="60%" height="380"></iframe>
 
 **L﻿ower East Side | Friday**
 
@@ -35,6 +47,8 @@ New York's summer gallery season continues with a strong lineup of art openings 
 [Underdonk](https://www.underdonk.com/exhibitions/hedonistic-treadmill), 297 Grand St., 'Hedonistic Treadmill' by Brian Zegeer
 
 [P﻿alo](https://www.palogallery.com/), 30 Bond St, Beginning of the Birthing Pangs by Lily Burgess
+
+[Blank Mag Books](https://www.instagram.com/blankmagbooks_nyc), 17 Eldridge St, 'six letters four numbers' book release & group show, 6pm-9pm
 
 **West Village | Friday**
 
@@ -54,9 +68,15 @@ New York's summer gallery season continues with a strong lineup of art openings 
 
 [Marc Strauss](https://www.marcstraus.com/), 57 Walker Street, 'Resonance' by Anna Leonhardt, 5pm-8pm
 
+***F﻿riday Event Crawl Map:***
+
+<iframe src="https://www.google.com/maps/d/u/2/embed?mid=1nEpiT3vxFx_gitxBKPPG2NqhPE_L_8w&ehbc=2E312F" width="60%" height="380"></iframe>
+
 **L﻿ower East Side | Saturday**
 
 [Ki Smith Gallery](https://www.kismithgallery.com/), 170 Forsyth St, 'Arrested Thresholds' by Taiji Terasaki, 6pm-9pm
+
+[A﻿D](https://www.instagram.com/ad.nyc), 10 Monroe St, 'Confession' by Justin Nalley, 5pm-8pm
 
 A standout opening this week is Anna Leonhardt's fifth New York solo exhibition, Resonance, at Marc Straus Gallery in Tribeca. Opening July 10 at the gallery's Walker Street location, the exhibition debuts a new body of abstract paintings that explore the emotional relationship between color, space, and material. Working with richly layered oil paint applied primarily by palette knife, Leonhardt creates atmospheric compositions where bold geometric forms appear to float, balance, and shift across luminous fields of color. Drawing on a lineage of German abstraction while embracing an intuitive, process-driven approach, Resonance transforms the physical act of painting into meditations on tension, movement, and equilibrium.
 
