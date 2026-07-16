@@ -23,7 +23,7 @@ Looking for the best art exhibitions and gallery openings in Lower Manhattan thi
 
 [Market Gallery](https://www.instagram.com/marketstgallery), 51 Mercer Street, 'Ancient History' by Esteban Jefferson, Wiki
 
-[Deitch](https://deitch.com/new-york/exhibitions), 18 Wooster St, work by Ryan McGinley, performance by Porches, 7pm-9pm
+[Deitch](https://deitch.com/new-york/exhibitions), 18 Wooster St, work by Ryan McGinley, performance by Porches, presented with Carhartt, 7pm-9pm
 
 **Tribeca | Thurs**
 
