@@ -16,8 +16,6 @@ Looking for the best art exhibitions and gallery openings in Lower Manhattan thi
 
 [Vacation Forever](https://www.instagram.com/vacationforever.tattoo), 154 East Broadway, Between Flesh and Dirt by Margo Wallace, 7pm-9pm
 
-[Collective Z](https://luma.com/gjpkc33r), 325 Broome St, 'The Art Of The hat' featured Designers: SHEM (Brooklyn NYC) & Clockwork XIV - Soho Art Walks
-
 [Equity Gallery](https://www.nyartistsequity.org/), 245 Broome St, 'Echoes of Place' with Carol Fabricatore, Susan Greenstein, and Janet Pedersen
 
 [Frosch & Co](https://froschandco.com/current), 34 East Broadway, Good Bunny with Neal Barab, Sarah Dineen, Emily Eveleth, Barbara Friedman, Jerelyn Hanrahan, Debra Jenks, Norma Markley, Edie Nadelhaft, Helen Oji, Fleur Palau, Fedele Spadafora, and Jeanne Verdoux
@@ -37,6 +35,8 @@ Looking for the best art exhibitions and gallery openings in Lower Manhattan thi
 <iframe src="https://www.google.com/maps/d/u/2/embed?mid=1A0-QUob10fevVHPQxuS73ECrVg53C4U&ehbc=2E312F" width="60%" height="380"></iframe>
 
 **L﻿ES | Fri**
+
+[Collective Z](https://luma.com/gjpkc33r), 325 Broome St, 'The Art Of The hat' featured Designers: SHEM (Brooklyn NYC) & Clockwork XIV - Soho Art Walks
 
 [Whaam!, ](https://www.instagram.com/whaam.whaam)15 Elizabeth St, Don't Stop group show organized by Abella D'Adamo
 
