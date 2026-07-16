@@ -2,9 +2,6 @@
 title: Your Week's NYC Art Guide | Lower Manhattan Events
 date: 2026-07-16T16:13:29.182Z
 description: LES Tribeca Chinatown NYC Listings
-image: /images/plato0716.jpg
-tags: nyc art openings, lower manhattan art receptions, lower east side (les)
-  art, tribeca, soho, noho, west village art shows
 ---
 Looking for the best art exhibitions and gallery openings in Lower Manhattan this week? From Tribeca and SoHo to Chinatown and the Lower East Side, New York's downtown art scene is packed with new exhibitions, artist talks, and can't-miss openings. Whether you're planning a gallery crawl or searching for the latest contemporary art events in NYC, our weekly guide highlights the most exciting shows happening across these iconic neighborhoods.
 
@@ -22,9 +19,9 @@ Looking for the best art exhibitions and gallery openings in Lower Manhattan thi
 
 [Frosch & Co](https://froschandco.com/current), 34 East Broadway, Good Bunny with Neal Barab, Sarah Dineen, Emily Eveleth, Barbara Friedman, Jerelyn Hanrahan, Debra Jenks, Norma Markley, Edie Nadelhaft, Helen Oji, Fleur Palau, Fedele Spadafora, and Jeanne Verdoux
 
-**S﻿oho | Thurs**
+[Market Gallery](https://www.instagram.com/marketstgallery), 'Ancient History' by Esteban Jefferson, Wiki
 
-[Market Gallery](https://www.instagram.com/marketstgallery), 51 Mercer Street, 'Ancient History' by Esteban Jefferson, Wiki
+**S﻿oho | Thurs**
 
 [Deitch](https://deitch.com/new-york/exhibitions), 18 Wooster St, work by Ryan McGinley, performance by Porches, presented with Carhartt, 7pm-9pm
 
