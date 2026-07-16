@@ -2,6 +2,9 @@
 title: Your Week's NYC Art Guide | Lower Manhattan Events
 date: 2026-07-16T16:13:29.182Z
 description: LES Tribeca Chinatown NYC Listings
+image: /images/plato0716.jpg
+tags: nyc art openings, lower manhattan art receptions, lower east side (les)
+  art, tribeca, soho, noho, west village art shows
 ---
 Looking for the best art exhibitions and gallery openings in Lower Manhattan this week? From Tribeca and SoHo to Chinatown and the Lower East Side, New York's downtown art scene is packed with new exhibitions, artist talks, and can't-miss openings. Whether you're planning a gallery crawl or searching for the latest contemporary art events in NYC, our weekly guide highlights the most exciting shows happening across these iconic neighborhoods.
 
