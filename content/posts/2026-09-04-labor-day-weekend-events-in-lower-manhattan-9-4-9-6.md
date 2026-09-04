@@ -5,13 +5,13 @@ description: NYC Downtown Manhattan weekday art reception listings through
   Tribeca, LES, Chinatown
 image: /images/evans0904.jpg
 tags: nyc art openings, lower manhattan art receptions, lower east side (les)
-  art, tribeca, soho, noho, west village art shows  
+  art, tribeca, soho, noho, west village art shows
 ---
 **L﻿ower East Side | Friday**
 
 [H﻿eft](https://heftgallery.com/), 300 Broome St, Honoring Our Pictures with Ruby Justice Scott, Charlotte Kent, Quasimatt, Aurora Harvey, 5pm-9pm
 
-[Cycol Gallery](https://www.cycolgallery.com/), 91 Allen St, work by Biz Markie, Bisco Smith, 6pm-10pm
+[Cycol Gallery](https://www.cycolgallery.com/), 91 Allen St, work by Biz Markie, Bisco Smith, 6pm-10pm (not confirmed)
 
 **T﻿ribeca | Friday**
 
