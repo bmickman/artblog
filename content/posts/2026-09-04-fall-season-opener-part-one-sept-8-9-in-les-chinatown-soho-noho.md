@@ -2,6 +2,9 @@
 title: "Fall Season Opener, Part One: Sept 8-9 in LES, Chinatown, Soho, Noho"
 date: 2026-09-04T14:26:25.309Z
 description: les, chinatown, two bridges, east village art shows and events
+image: /images/perrotin0909.jpg
+tags: nyc art openings, lower manhattan art receptions, lower east side (les)
+  art, tribeca, soho, noho, west village art shows
 ---
 Fall art season has officially arrived, and this may be one of the biggest opening Wednesdays New York has ever seen. With galleries across the city launching their new exhibitions on the same night, we’re breaking things up by neighborhood. Part one takes us through the Lower East Side, Chinatown, and SoHo, with Tribeca getting its own dedicated post in part two.
 
