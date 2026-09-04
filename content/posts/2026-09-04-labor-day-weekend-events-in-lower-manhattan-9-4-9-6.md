@@ -3,9 +3,6 @@ title: Labor Day Weekend Events in Lower Manhattan 9/4-9/6
 date: 2026-09-04T12:45:50.499Z
 description: NYC Downtown Manhattan weekday art reception listings through
   Tribeca, LES, Chinatown
-image: /images/evans0904.jpg
-tags: nyc art openings, lower manhattan art receptions, lower east side (les)
-  art, tribeca, soho, noho, west village art shows  
 ---
 **L﻿ower East Side | Friday**
 
@@ -33,4 +30,4 @@ Inspired by her early memories of growing up in a house under renovation, MacBri
 
 Before the rush of openings across Tribeca and the Lower East Side, this is one to catch.
 
-F﻿eatured work above by Caitlin MacBride at Deanna Evans Projects
+*F﻿eatured work above by Caitlin MacBride at Deanna Evans Projects*
