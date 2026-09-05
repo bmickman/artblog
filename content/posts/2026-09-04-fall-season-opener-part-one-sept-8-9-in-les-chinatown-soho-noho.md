@@ -66,6 +66,8 @@ For anyone attempting to see it all, consider this the first stop.
 
 [Long Story Short](https://www.lss.gallery/cities/new-york), 52 Henry St, After-Images of a Golden Hour by Peter Chan
 
+[F﻿riend Editions at](https://www.instagram.com/friendeditions) [P﻿rivy](https://www.instagram.com/friendeditions), 46 Hester St, To That The Sides of the Dark release by Olivia Parker via Friend Editions
+
 ***W﻿ednesday Art Crawl Map:***
 
 <iframe src="https://www.google.com/maps/d/u/2/embed?mid=1oiSRE3JqrY5svgD66iscpXdONu5Qis0&ehbc=2E312F" width="60%" height="380"></iframe>
