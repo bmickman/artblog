@@ -2,6 +2,9 @@
 title: "Fall Season Opener, Part Two: Sept 9 Art Receptions in Tribeca"
 date: 2026-09-05T20:20:30.870Z
 description: NYC lower manhattan art shows in Tribeca, Lower East Side, Soho
+image: /images/mendes0909.jpg
+tags: nyc art openings, lower manhattan art receptions, lower east side (les)
+  art, tribeca, soho, noho, west village art shows
 ---
 This Wednesday, Tribeca becomes the center of New York’s fall art season with what may be the largest single night of gallery opening receptions the neighborhood has ever seen. Dozens of exhibitions open across Tribeca, with most receptions taking place from 6 to 8 PM, creating an unprecedented night for downtown art.
 
