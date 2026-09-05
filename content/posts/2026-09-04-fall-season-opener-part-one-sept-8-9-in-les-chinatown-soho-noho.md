@@ -62,6 +62,10 @@ For anyone attempting to see it all, consider this the first stop.
 
 [Lichtundfire](https://www.lichtundfire.com/), 175 Rivington St, Oracle with various artists
 
+[Gern en Regalia](https://gernenregalia.com/), 105 Henry St #5, U Turn by Nadair Asghari
+
+[Long Story Short](https://www.lss.gallery/cities/new-york), 52 Henry St, After-Images of a Golden Hour by Peter Chan
+
 ***W﻿ednesday Art Crawl Map:***
 
 <iframe src="https://www.google.com/maps/d/u/2/embed?mid=1oiSRE3JqrY5svgD66iscpXdONu5Qis0&ehbc=2E312F" width="60%" height="380"></iframe>
