@@ -2,6 +2,9 @@
 title: "Fall Season Opener, Part Four: Sept 10 Art Openings in Tribeca"
 date: 2026-09-06T16:31:44.711Z
 description: NYC Tribeca Post-Labor Day Art Reception Listings
+image: /images/cohan0910.jpg
+tags: nyc art openings, lower manhattan art receptions, lower east side (les)
+  art, tribeca, soho, noho, west village art shows
 ---
 Thursday, September 10 brings another major night of NYC art openings to Tribeca, as galleries across the neighborhood debut new exhibitions for the fall season. As Tribeca continues its rapid emergence as one of New York City's leading destinations for contemporary art, this week's gallery receptions offer another opportunity to explore the expanding downtown art scene. Most Tribeca art openings take place from 6 to 8 PM unless otherwise noted
 
