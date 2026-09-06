@@ -1,5 +1,5 @@
 ---
-title: "Fall Season Opener, Part Five: Sept 11-12 Weekend Art Openings in Tribeca"
+title: "Fall Season Opener, Part Five: Sept 11-12 Weekend Art Openings in Lower Manhattan"
 date: 2026-09-06T16:51:10.951Z
 description: les, chinatown, two bridges, tribeca, east village art shows
 image: /images/fuentes0911.jpg
