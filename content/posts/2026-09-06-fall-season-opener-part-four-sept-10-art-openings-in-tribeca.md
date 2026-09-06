@@ -20,7 +20,7 @@ For anyone following the fall season of NYC gallery openings, Thursday’s Tribe
 
 [George Adams Gallery](https://www.georgeadamsgallery.com/exhibitions/amer-kobaslija3), 38 Walker Street, 'Road Signs' by Amer Kobaslija
 
-[James Cohan](https://www.jamescohan.com/exhibitions/savdie-soutine), 48 Walker St, 'Savdie / Soutine' by Chaïm Soutine and Ilana Savdie
+[N﻿orr ](https://www.jamescohan.com/exhibitions/savdie-soutine)[Cohan](https://www.jamescohan.com/exhibitions/savdie-soutine), 48 Walker St, 'Savdie / Soutine' by Chaïm Soutine and Ilana Savdie
 
 [Klaus Von Nichtssagend Gallery](https://klausgallery.com/exhibition/mark-armijo-mcknight-cut-the-world-2026-09-10/), 87 Franklin Street, 'Cut the World' by Mark Armijo McKnight
 
