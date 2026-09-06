@@ -2,6 +2,9 @@
 title: "Fall Season Opener, Part Five: Sept 11-12 Weekend Art Openings in Tribeca"
 date: 2026-09-06T16:51:10.951Z
 description: les, chinatown, two bridges, tribeca, east village art shows
+image: /images/fuentes0911.jpg
+tags: nyc art openings, lower manhattan art receptions, lower east side (les)
+  art, tribeca, soho, noho, west village art shows
 ---
 After a packed week of NYC art openings, the fall art season continues into the weekend with exhibitions and events across Lower Manhattan. From September 11–13, galleries throughout Tribeca, SoHo, the Lower East Side, Chinatown, and the East Village are keeping the momentum going with new shows and weekend programming across some of New York City’s most active contemporary art neighborhoods.
 
