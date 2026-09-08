@@ -39,8 +39,6 @@ Below, explore our NYC Lower Manhattan weekend art guide, featuring gallery exhi
 
 [The Strand](https://www.instagram.com/artbook), 828 Broadway, My '90's Rock Photographs' by Melissa Auf Der Maur, 7pm
 
-
-
 **T﻿ribeca | Friday**
 
 [Artists Space](https://artistsspace.org/exhibitions), 11 Cortlandt Alley, Multiple Offerings by Theresa Hak Kyung Cha
