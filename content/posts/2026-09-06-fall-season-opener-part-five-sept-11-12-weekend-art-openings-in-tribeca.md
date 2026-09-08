@@ -1,5 +1,6 @@
 ---
-title: "Fall Season Opener, Part Five: Sept 11-12 Weekend Art Openings in Lower Manhattan"
+title: "Fall Season Opener, Part Five: Sept 11-12 Weekend Art Openings in Lower
+  Manhattan"
 date: 2026-09-06T16:51:10.951Z
 description: les, chinatown, two bridges, tribeca, east village art shows
 image: /images/fuentes0911.jpg
@@ -27,6 +28,18 @@ Below, explore our NYC Lower Manhattan weekend art guide, featuring gallery exhi
 [Auxier Kline](https://www.auxierkline.com/), 19 Monroe St, Line Out by Logan T Sibrel
 
 [Sabai and AAPIDA at Fredericks and Mae](https://www.instagram.com/fredericksandmae), 6 Allen St, Still Standing, with various crafts/designers
+
+[Cafe Forgot](https://www.instagram.com/cafe_forgot), 29 Ludlow St, NYFW Soiree with Scarlett White, 5pm-7pm
+
+[Jenny's & Tenko Present](https://jennys.us/), 123 Bowery, 5th fl, No Losers with John Waters, Donald Baechler, Paul Levack, Louis Backhouse, Chim Pom, 6pm-9pm
+
+[Raw Meat Gallery](https://www.instagram.com/rawmeatgallery), 45 Division St, 'Bucked Up' by David Mramor, 6pm-9pm
+
+[Tathata](https://www.instagram.com/tathata.io), 191 Henry St, 'Contemporary Hominin' by Wenfei Quan
+
+[The Strand](https://www.instagram.com/artbook), 828 Broadway, My '90's Rock Photographs' by Melissa Auf Der Maur, 7pm
+
+
 
 **T﻿ribeca | Friday**
 
