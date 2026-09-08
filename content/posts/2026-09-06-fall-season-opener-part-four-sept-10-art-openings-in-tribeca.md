@@ -46,6 +46,8 @@ For anyone following the fall season of NYC gallery openings, Thursday’s Tribe
 
 [81 Leonard Gallery](https://81leonardgallery.com/exhibitions/), 81 Leonard St, Asistente de Morfeo by Manuela Caicedo
 
+[T﻿he Hole](https://thehole.com/?mc_cid=26ded9fed8&mc_eid=8425eb2a15),86 Walker St, 'Imitation of Christ' with Ed Teller, Lily Teiger, and Greg Harrison of Central Saint Martins, [RSVP email](IOC@modeworld.com)
+
 ***T﻿hursday Art Crawl Map:***
 
 <iframe src="https://www.google.com/maps/d/u/2/embed?mid=1TZsLX2UnCqUHItXiQ_hIsx8ii0tfn4k&ehbc=2E312F" width="60%" height="380"></iframe>
