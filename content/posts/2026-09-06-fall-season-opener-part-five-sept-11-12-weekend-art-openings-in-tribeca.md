@@ -7,7 +7,9 @@ image: /images/fuentes0911.jpg
 tags: nyc art openings, lower manhattan art receptions, lower east side (les)
   art, tribeca, soho, noho, west village art shows
 ---
-After a packed week of NYC art openings, the fall art season continues into the weekend with exhibitions and events across Lower Manhattan. From September 11–13, galleries throughout Tribeca, SoHo, the Lower East Side, Chinatown, and the East Village are keeping the momentum going with new shows and weekend programming across some of New York City’s most active contemporary art neighborhoods.
+After a packed week of NYC art openings, the fall art season continues into the weekend with exhibitions and events across Lower Manhattan. From September 11–13, galleries throughout Tribeca, SoHo, the Lower East Side, Chinatown, and the East Village are keeping the momentum going with new shows and weekend programming across some of New York City’s most active contemporary art neighborhoods. 
+
+6pm-8pm unless otherwise specified.
 
 Below, explore our NYC Lower Manhattan weekend art guide, featuring gallery exhibitions, art openings, and events happening September 11–13 in Tribeca, SoHo, the Lower East Side, Chinatown, and the East Village.
 
@@ -29,15 +31,15 @@ Below, explore our NYC Lower Manhattan weekend art guide, featuring gallery exhi
 
 [Sabai and AAPIDA at Fredericks and Mae](https://www.instagram.com/fredericksandmae), 6 Allen St, Still Standing, with various crafts/designers
 
-[Cafe Forgot](https://www.instagram.com/cafe_forgot), 29 Ludlow St, NYFW Soiree with Scarlett White, 5pm-7pm
+[Cafe Forgot](https://www.instagram.com/cafe_forgot), 29 Ludlow St, NYFW Soiree with Scarlett White, **5pm-7pm**
 
-[Jenny's & Tenko Present](https://jennys.us/), 123 Bowery, 5th fl, No Losers with John Waters, Donald Baechler, Paul Levack, Louis Backhouse, Chim Pom, 6pm-9pm
+[Jenny's & Tenko Present](https://jennys.us/), 123 Bowery, 5th fl, No Losers with John Waters, Donald Baechler, Paul Levack, Louis Backhouse, Chim Pom, **6pm-9pm**
 
-[Raw Meat Gallery](https://www.instagram.com/rawmeatgallery), 45 Division St, 'Bucked Up' by David Mramor, 6pm-9pm
+[Raw Meat Gallery](https://www.instagram.com/rawmeatgallery), 45 Division St, 'Bucked Up' by David Mramor, **6pm-9pm**
 
 [Tathata](https://www.instagram.com/tathata.io), 191 Henry St, 'Contemporary Hominin' by Wenfei Quan
 
-[The Strand](https://www.instagram.com/artbook), 828 Broadway, My '90's Rock Photographs' by Melissa Auf Der Maur, 7pm
+[The Strand](https://www.instagram.com/artbook), 828 Broadway, My '90's Rock Photographs' by Melissa Auf Der Maur, **7pm**
 
 **T﻿ribeca | Friday**
 
@@ -45,7 +47,7 @@ Below, explore our NYC Lower Manhattan weekend art guide, featuring gallery exhi
 
 [Kate Werble Gallery](https://www.katewerblegallery.com/), 474 Broadway, 3rd Fl, work by Alison Hall
 
-[Harkawik](https://www.harkawik.com/), 88 Walker St, Katzpascale, from 8pm
+[Harkawik](https://www.harkawik.com/), 88 Walker St, Katzpascale, from **8pm**
 
 [James Fuentes](https://jamesfuentes.com/exhibitions/nightcrawling), 52 White St, 'Nightcrawling' by Oscar yi Hou
 
@@ -63,11 +65,21 @@ Below, explore our NYC Lower Manhattan weekend art guide, featuring gallery exhi
 
 **L﻿ower East Side | Saturday**
 
-[Essex Flowers](https://essexflowers.us/Patrick-Mohundro-Ilana-Harris-Babou-B), 19 Monroe St, 'B3' by Ilana Yacine Harris-Babou & Patrick Carlin Mohundro, 3pm-7pm
+[Essex Flowers](https://essexflowers.us/Patrick-Mohundro-Ilana-Harris-Babou-B), 19 Monroe St, 'B3' by Ilana Yacine Harris-Babou & Patrick Carlin Mohundro, **3pm-7pm**
 
 [Amanita](https://spazioamanita.com/), 1 Freeman Alley, To Stand Bare by Vittorio Marella
 
 [Amanita](https://spazioamanita.com/), 313 Bowery, To Stand Bare by Vittorio Marella
+
+[All St](https://allstnyc.com/), 119 Hester St, 'The Dark Bright Sky' by Jade Doskow
+
+**W﻿est Village | Saturday**
+
+[White Columns](https://whitecolumns.org/), 91 Horatio St, Works by Mieko Meguro, Words on my Mind by Eric Spencer, Bobbie Cadet in the Court of the Ladybugs by Juliette Collet, **5pm-8pm**
+
+**S﻿oho | Saturday**
+
+[Byredo X Rhythm Zero](https://www.instagram.com/officialbyredo), 62 Wooster St, Popup with Rhythm Zero coffee, **12pm-5pm**
 
 **T﻿ribeca | Saturday**
 
@@ -77,7 +89,7 @@ Below, explore our NYC Lower Manhattan weekend art guide, featuring gallery exhi
 
 **L﻿ower East Side | Sunday**
 
-[Essx](https://www.instagram.com/essxnyc), 140 Essex St, Dump X Vans Popup, 4pm-9pm
+[Essx](https://www.instagram.com/essxnyc), 140 Essex St, Dump X Vans Popup, **4pm-9pm**
 
 ***S﻿aturday Art Crawl Map;***
 
