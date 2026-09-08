@@ -89,6 +89,8 @@ Below, explore our NYC Lower Manhattan weekend art guide, featuring gallery exhi
 
 [Essx](https://www.instagram.com/essxnyc), 140 Essex St, Dump X Vans Popup, **4pm-9pm**
 
+[T﻿he Hole](https://thehole.com/?mc_cid=26ded9fed8&mc_eid=8425eb2a15), 312 Bowery, 'Fall Into The Hole' with Alectra Rothschild, Masculina, co-curated by Sorat May Andersen casting by Emma Matell and sound by dj g2g
+
 ***S﻿aturday Art Crawl Map;***
 
 <iframe src="https://www.google.com/maps/d/u/2/embed?mid=1hOvAjcXYU96bbYIgQwBMoqe3fU0RZEM&ehbc=2E312F" width="60%" height="380"></iframe>
