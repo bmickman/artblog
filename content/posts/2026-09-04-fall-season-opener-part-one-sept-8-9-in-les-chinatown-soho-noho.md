@@ -18,6 +18,8 @@ For anyone attempting to see it all, consider this the first stop.
 
 [Grey Art Gallery](https://greyartgallery.nyu.edu/), 18 Cooper Square, Making Music , work by Helen Frankenthaler
 
+[Hemispheric Institute](https://www.instagram.com/hemisphericinstitute), 20 Cooper Square, 1st fl,'In the Dark: Scnes from a Moving Archive' 
+
 **N﻿oho/S﻿oho | Wednesday**
 
 [Nino Mier Gallery](https://www.miergallery.com/exhibitions/jose-lerma4), 62 Crosby St, 'Thespesia Grandiflora' by Jose Lerma
@@ -27,6 +29,8 @@ For anyone attempting to see it all, consider this the first stop.
 [80wse](https://80wse.org/), 80 Washington Square East, Incendiaries: The People's Flag Show 1970
 
 **L﻿ower East Side/Chinatown | Wednesday**
+
+[H﻿eft](https://heftgallery.com/)**,** 300 Broome St, 'Ready to Die' by Auriea Harvey, 6pm-9pm
 
 [Hoffman Donahue ](https://www.hoffmandonahue.com/exhibitions), 99 Bowery, work by Ulrike Muller
 
@@ -39,6 +43,14 @@ For anyone attempting to see it all, consider this the first stop.
 [Derosia](https://www.derosia.nyc/exhibitions/im), 197 Grand St, 'IM' by Kern Samuel
 
 [56 Henry](https://56henry.nyc/exhibitions/waterloo), 56 Henry St, 'Waterloo!' by Christopher K. Ho
+
+[Steven Harvey Fine Art Projects](https://shfap.com/), 208 Forsyth St, work by Francie Lyshak
+
+[NYU Gallatin Galleries](https://www.instagram.com/nyugallatingalleries) at Broadway Block, 1 Washington Place, 'The Best of All Possible Worlds, 'Pigeon Fare' by McCarthy, curated by Keith Miller
+
+[Psychic Readings Gallery](https://www.psychicreadingsgallery.com/), 629 East 9th St, 'Other Skies' by Albino Mattioli
+
+
 
 [Andrew Edlin Gallery](https://www.edlingallery.com/exhibitions/conduits-of-the-unseen-women-artists-imagine-other-worlds), 212 Bowery, 'Conduits of the Unseen: Women Artists Imagine Other Worlds' with Gertrude Abercrombie, Marjorie Cameron, Leonora Carrington, Sylvia Fein, Leonor Fini, Madge Gill, Juanita M. Guccione, Helen Kendall, Emma Kunz, La Phalérinienne, Paulina Peavy, Agnes Pelton, Hilla Rebay, Irene Rice Pereira, Adele Watson, Marie Wilson, Agatha Wojciechowsky, Curated by Susan L. Aberth
 
