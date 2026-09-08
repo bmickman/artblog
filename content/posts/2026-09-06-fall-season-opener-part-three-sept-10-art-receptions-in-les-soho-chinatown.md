@@ -19,6 +19,10 @@ Shows are generally open from 6 to 8 PM unless otherwise noted. The next post wi
 
 [Kaliner](https://kalinergallery.com/), 42 Allen Street,, Acquired Taste by Barbara Ishikura
 
+[E﻿ntrance](https://www.instagram.com/entrance.nyc/), 48 Ludlow Street, 'there's no such thing as art' by Tom Friedman
+
+[New York Studio School](https://www.instagram.com/worldsstrongestpainter), 8 West 8th Street, This Heat with Brenda Goodman, Steve DiBenedetto, Bendix Harms
+
 [Dashwood Projects](https://www.instagram.com/dashwood_projects), 63 East 4th Street, Tension of Opposites by Naicha Mercier
 
 [New York Life Gallery](https://www.newyorklifegallery.com/exhibitions/21-scene/press_release_text/), 167-169 Canal Street, 5th Floor, Scene, with Daniel Arnold, Drake Carr, Alma Feldhandler, Luke Hannam, Jessika Miekeley, Samara Paiva, Linus Alexander Hübell Salic, Louis Slobodkin, Joseph Solman, Raphael Soyer, Joseph Paul Vorst, and Andre Wagner, Curated by Ethan James Green
