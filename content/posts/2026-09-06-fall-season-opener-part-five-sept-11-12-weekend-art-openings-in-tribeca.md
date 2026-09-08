@@ -63,6 +63,8 @@ Below, explore our NYC Lower Manhattan weekend art guide, featuring gallery exhi
 
 [Deitch](https://deitch.com/new-york/exhibitions/eddie-r-aparicio-rubberneckers), 18 Wooster St, 'Rubberneckers' by Eddie R. Aparicio
 
+[Byredo X Rhythm Zero](https://www.instagram.com/officialbyredo), 62 Wooster St, Popup with Rhythm Zero coffee, **12pm-5pm**
+
 **L﻿ower East Side | Saturday**
 
 [Essex Flowers](https://essexflowers.us/Patrick-Mohundro-Ilana-Harris-Babou-B), 19 Monroe St, 'B3' by Ilana Yacine Harris-Babou & Patrick Carlin Mohundro, **3pm-7pm**
@@ -76,10 +78,6 @@ Below, explore our NYC Lower Manhattan weekend art guide, featuring gallery exhi
 **W﻿est Village | Saturday**
 
 [White Columns](https://whitecolumns.org/), 91 Horatio St, Works by Mieko Meguro, Words on my Mind by Eric Spencer, Bobbie Cadet in the Court of the Ladybugs by Juliette Collet, **5pm-8pm**
-
-**S﻿oho | Saturday**
-
-[Byredo X Rhythm Zero](https://www.instagram.com/officialbyredo), 62 Wooster St, Popup with Rhythm Zero coffee, **12pm-5pm**
 
 **T﻿ribeca | Saturday**
 
