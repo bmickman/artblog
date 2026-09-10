@@ -39,8 +39,6 @@ Shows are generally open from 6 to 8 PM unless otherwise noted. The next post wi
 
 [David Peter Francis, ](https://davidpeterfrancis.com/)35 East Broadway #3F, Le souvenir du temps by Unglee
 
-[Hollis Taggart](https://www.hollistaggart.com/exhibitions/241-osamu-kobayashi-cave-painting/), 109 Norfolk St, 'Cave Painting' by Osamu Kobayashi
-
 [Francois Ghebaly](https://ghebaly.com/exhibitions/beatrice-arraes-seven-keys/), 391 Grand St, 'Seven Keys' by Beatrice Arraes
 
 [Miguel Abreu Gallery](https://miguelabreugallery.com/exhibitions/line-call/), 88 Eldridge St, 'Line Call' by Eileen Quinlan
