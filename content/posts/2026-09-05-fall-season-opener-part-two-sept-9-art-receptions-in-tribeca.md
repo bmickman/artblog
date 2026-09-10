@@ -22,7 +22,7 @@ The scale of this week’s Tribeca art openings reflects a larger shift in the g
 
 [HB381](https://www.hb381gallery.com/exhibitions/voyage), 381 Broadway, 'Voyage' by Marianne Huotari
 
-[Oolong Gallery](https://www.instagram.com/oolongallery), 4 Cortlandt Alley, Ready for the Ceremony by Sally Scope
+[Oolong Gallery](https://www.instagram.com/oolongallery), 4 Cortlandt Alley, Ready for the Ceremony by Sally Scopa
 
 [Rainrain](https://www.rainraingallery.com/about), 110 Lafayette St, work by Lorna Bauer, Peter Brock, Mira Dayal, Emma Safir
 
