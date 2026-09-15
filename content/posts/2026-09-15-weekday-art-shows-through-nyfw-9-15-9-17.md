@@ -17,3 +17,50 @@ description: NYC Downtown Manhattan weekday art reception listings through
 [Peter Freeman](https://www.peterfreemaninc.com/exhibitions/john-dilg-once-and-future), 140 Grand St, 'Once and Future' by John Dilg
 
 [Pomegranate Press ](https://www.instagram.com/pomegranate_press)at 66 Greene St, Agua E zone launch and signing by Myles Loftin, 6pm-9pm
+
+\
+**E﻿ast Village | Wednesday**
+
+[Cooper Union](https://cooper.edu/events-and-exhibitions), 41 Cooper Square, Guild & Greyshkul, with Sarah VanDerBeek, Anya Kielar, Johannes VanDerBeek, 5pm-8pm
+
+[Goethe Institute](https://www.goethe.de/ins/us/de/ver.cfm?event_id=27328673), 30 Irving Place, 'A Horizon Remains' by Tammam  Azzam
+
+**L﻿ower East Side | Wednesday**
+
+[F﻿ierman](https://fierman.nyc/), 127 Henry St, 10 Years of Fierman
+
+**T﻿ribeca | Wednesday**
+
+[Almine Rech](https://www.alminerech.com/exhibitions/12595-zio-ziegler-the-tesseract), 361 Broadway, 'The Tesseract' by Zio Ziegler
+
+[Artists Space](https://artistsspace.org/exhibitions), 11 Cortlandt Alley, Book release reception/signing from 7pm with Glenn Ligon
+
+**L﻿ower East Side | Thursday**
+
+[Entrance](https://www.instagram.com/entrance.nyc/1), 48 Ludlow Street, work by Tom Friedman
+
+[Studio 9BC](https://www.instagram.com/studio_9bc), 616 East 9th St, work by Will Warasila
+
+[Hannah Traore Gallery](https://hannahtraoregallery.com/exhibition/nonsites-revisited/), 150 Orchard Street, 'Nonsites Revisited' by James Perkins
+
+[The Hole](https://thehole.com/exhibitions/pablo-tomek-medley), 312 Bowery, 'Medley' by Pablo Tomek
+
+[14BC Gallery, ](https://www.instagram.com/14bcgallery)626 East 14th St, Sex, War, and The Devil by Alex Mitchell, 6pm-9pm
+
+**S﻿oho | Thursday**
+
+[Pietro Alexander](https://www.pietroalexander.com/), 59 Wooster St, 2nd Floor, 'Luminous Landscapes' featuring various artists, 'Eleven Day Paintings' by Ryan Oakes, Trevor Oakes
+
+[The White Loft](https://www.instagram.com/thewhiteloftnyc), 273 Grand Street, The Extraordinary Ordinary - A Memoir in Photographs 1945-1954, 5pm-9pm\
+
+**T﻿ribeca | Thursday**
+
+[James Cohan](https://www.jamescohan.com/exhibitions/vicky-colombet), 52 Walker St, 'Memory of the Surface' by Vicky Colombet
+
+[Anonymous Gallery](https://www.instagram.com/anonymousgallery), 136 Baxter St, grass roots- hinges' by Dozie Kanu
+
+[Off Paradise](https://offparadise.com/), 120 Walker Street, 'Through' with Greg Bogin, James Rosenquist, Jane Reyonds, Maximilian Schubert, Kristin Walsh, 4pm-8pm
+
+[15 Orient](https://15orient.com/), 72 Walker Street, 3rd Floor, Paintings and Drawings 2017-2022 by Deborah Kahn, 6pm-9pm
+
+F﻿eatured work above by
