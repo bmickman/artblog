@@ -3,9 +3,6 @@ title: Weekday Art Shows through NYFW 9/15-9/17
 date: 2026-09-15T19:41:43.197Z
 description: NYC Downtown Manhattan weekday art reception listings through
   Tribeca, LES, Chinatown
-image: /images/wahed0917.jpg
-tags: nyc art openings, lower manhattan art receptions, lower east side (les)
-  art, tribeca, soho, noho, west village art shows  
 ---
 As New York Fashion Week brings its September 2026 season to a close, the city’s creative energy continues beyond the runway. This week, galleries, artist-run spaces, and cultural venues across the East Village, SoHo, Tribeca, Chinatown, and Two Bridges offer a mix of openings, exhibitions, conversations, and events — making downtown a natural place to keep exploring between shows, dinners, and late nights.
 
@@ -53,6 +50,8 @@ It’s one of many exhibitions to take in this week as downtown’s galleries an
 [The Hole](https://thehole.com/exhibitions/pablo-tomek-medley), 312 Bowery, 'Medley' by Pablo Tomek
 
 [14BC Gallery, ](https://www.instagram.com/14bcgallery)626 East 14th St, Sex, War, and The Devil by Alex Mitchell, 6pm-9pm
+
+[Gordon Gallery](https://www.gordongallery.co.il/new-york-page), 139 Norfolk St, 'Groundwork' by Smadar Eliasaf
 
 **S﻿oho | Thursday**
 
