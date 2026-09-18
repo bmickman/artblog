@@ -5,7 +5,7 @@ description: NYC Downtown Manhattan weekday art reception listings through
   Tribeca, LES, Chinatown
 image: /images/pace0918.jpg
 tags: nyc art openings, lower manhattan art receptions, lower east side (les)
-  art, tribeca, soho, noho, west village art shows  
+  art, tribeca, soho, noho, west village art shows
 ---
 As summer winds down, downtown Manhattan is still buzzing with NYC art openings and events across Tribeca, the Lower East Side, Chinatown, and the West Village. This end-of-summer weekend brings together gallery openings, exhibitions, and cultural happenings, with most events taking place from 6-8 PM unless otherwise noted=making it an ideal time for an evening art crawl through downtown.
 
@@ -33,7 +33,7 @@ From Tribeca art galleries and Lower East Side openings to Chinatown and West Vi
 
 <iframe src="https://www.google.com/maps/d/u/2/embed?mid=1Vo2oYGcbGvGP5h0Fc7vYhGZCQuKAwyg&ehbc=2E312F" width="60%" height="430"></iframe>
 
-**T﻿ribeca | Saturday**
+**T﻿ribeca | Friday**
 
 [Pace University Gallery](https://www.pace.edu/dyson/life-dyson/art-gallery/current-exhibition), 41 Park Row, 'For the Love of Fragile Things' by  La Vaughn Belle, **5pm-7pm**
 
