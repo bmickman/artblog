@@ -11,28 +11,6 @@ As summer winds down, downtown Manhattan is still buzzing with NYC art openings 
 
 From Tribeca art galleries and Lower East Side openings to Chinatown and West Village events, this weekend offers a chance to explore the many facets of downtown's creative community. Whether you're planning a dedicated gallery crawl or simply looking for something new to see after work, these downtown NYC art shows and events are a fitting way to close out the summer.
 
-**L﻿ower East Side | Friday**
-
-[Massy Klein](https://www.masseyklein.com/exhibitions/91-kate-mcquillen-echo-resounds/), 124 Forsyth Street, Echo Resounds works by Marina Abramović, Frances Barth, Lynda Benglis, Squeak Carnwath, Judy Chicago, Suzan Frecon, Brenda Goodman, Sonia Gomes, Mary Heilmann, Lynn Hershman Leeson, Jenny Holzer, Shirley Kaneda, Dindga McCannon, Michele Oka Doner, Judy Pfaff, Martha Rosler, Jeanne Silverthorne, Rose Wylie, and Mia Westerlund.
-
-[Martos Gallery](http://www.martosgallery.com/), 41 Elizabeth St, In the I of the Beholder by Dan Asher
-
-[Marc Strauss](https://www.marcstraus.com/), 299 Grand St, The Prime of Your Life, featuring several artists, 5pm-8pm
-
-[Kates-Ferri Projects](https://www.katesferriprojects.com/), 561 Grand Street, 'Cosmopolitini' by Kevin Sabo
-
-[Stone/Age](https://www.instagram.com/ston3_age), 279 Broome St, 'Frankenthaler' group show, 6pm-9pm
-
-[Abri Mars](https://abrimars.com/), 53a Stanton St, 'nuns fret not' by Stephanie Lucchese
-
-**W﻿est Village | Friday**
-
-[Westbeth Gallery](https://westbeth.org/event/imprints-of-becoming-traces-temporalities-and-the-unfixed-paradise/), 55 Bethune St, 'Imprints of Becoming: Traces, Temporalities, and the Unfixed Paradise' by Featuring Svetlana Bailey, Marianne Bjørnmyr, Rachelle Bussières, Jenny Calivas, Simone Douglas, S. Emsaki, Stephanie Hanes, Maria de Victoria, and Nina Schuiki
-
-***L﻿ower Manhattan Friday Art Crawl Map:***
-
-<iframe src="https://www.google.com/maps/d/u/2/embed?mid=1Vo2oYGcbGvGP5h0Fc7vYhGZCQuKAwyg&ehbc=2E312F" width="60%" height="430"></iframe>
-
 **T﻿ribeca | Friday**
 
 [Pace University Gallery](https://www.pace.edu/dyson/life-dyson/art-gallery/current-exhibition), 41 Park Row, 'For the Love of Fragile Things' by  La Vaughn Belle, **5pm-7pm**
@@ -54,6 +32,28 @@ From Tribeca art galleries and Lower East Side openings to Chinatown and West Vi
 [Dracula's Revenge](https://draculasrevenge.net/), 218 Centre Street, 'Starring Fizz by Julia Yerger' 
 
 [Lomex Gallery](https://www.instagram.com/lomexgallery), 86 Walker St, 3rd Fl, No Show by Andrea Fourch
+
+**L﻿ower East Side | Friday**
+
+[Massy Klein](https://www.masseyklein.com/exhibitions/91-kate-mcquillen-echo-resounds/), 124 Forsyth Street, Echo Resounds works by Marina Abramović, Frances Barth, Lynda Benglis, Squeak Carnwath, Judy Chicago, Suzan Frecon, Brenda Goodman, Sonia Gomes, Mary Heilmann, Lynn Hershman Leeson, Jenny Holzer, Shirley Kaneda, Dindga McCannon, Michele Oka Doner, Judy Pfaff, Martha Rosler, Jeanne Silverthorne, Rose Wylie, and Mia Westerlund.
+
+[Martos Gallery](http://www.martosgallery.com/), 41 Elizabeth St, In the I of the Beholder by Dan Asher
+
+[Marc Strauss](https://www.marcstraus.com/), 299 Grand St, The Prime of Your Life, featuring several artists, 5pm-8pm
+
+[Kates-Ferri Projects](https://www.katesferriprojects.com/), 561 Grand Street, 'Cosmopolitini' by Kevin Sabo
+
+[Stone/Age](https://www.instagram.com/ston3_age), 279 Broome St, 'Frankenthaler' group show, 6pm-9pm
+
+[Abri Mars](https://abrimars.com/), 53a Stanton St, 'nuns fret not' by Stephanie Lucchese
+
+**W﻿est Village | Friday**
+
+[Westbeth Gallery](https://westbeth.org/event/imprints-of-becoming-traces-temporalities-and-the-unfixed-paradise/), 55 Bethune St, 'Imprints of Becoming: Traces, Temporalities, and the Unfixed Paradise' by Featuring Svetlana Bailey, Marianne Bjørnmyr, Rachelle Bussières, Jenny Calivas, Simone Douglas, S. Emsaki, Stephanie Hanes, Maria de Victoria, and Nina Schuiki
+
+***L﻿ower Manhattan Friday Art Crawl Map:***
+
+<iframe src="https://www.google.com/maps/d/u/2/embed?mid=1Vo2oYGcbGvGP5h0Fc7vYhGZCQuKAwyg&ehbc=2E312F" width="60%" height="430"></iframe>
 
 **L﻿ower East Side | Saturday**
 
