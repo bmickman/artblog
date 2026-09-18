@@ -5,7 +5,7 @@ description: NYC Downtown Manhattan weekday art reception listings through
   Tribeca, LES, Chinatown
 image: /images/wahed0917.jpg
 tags: nyc art openings, lower manhattan art receptions, lower east side (les)
-  art, tribeca, soho, noho, west village art shows    
+  art, tribeca, soho, noho, west village art shows
 ---
 As New York Fashion Week brings its September 2026 season to a close, the city’s creative energy continues beyond the runway. This week, galleries, artist-run spaces, and cultural venues across the East Village, SoHo, Tribeca, Chinatown, and Two Bridges offer a mix of openings, exhibitions, conversations, and events — making downtown a natural place to keep exploring between shows, dinners, and late nights.
 
@@ -43,8 +43,6 @@ It’s one of many exhibitions to take in this week as downtown’s galleries an
 [Artists Space](https://artistsspace.org/exhibitions), 11 Cortlandt Alley, Book release reception/signing from 7pm with Glenn Ligon
 
 **L﻿ower East Side | Thursday**
-
-[Entrance](https://www.instagram.com/entrance.nyc/1), 48 Ludlow Street, work by Tom Friedman
 
 [Studio 9BC](https://www.instagram.com/studio_9bc), 616 East 9th St, work by Will Warasila
 
