@@ -3,6 +3,9 @@ title: End-of-Summer Weekend Art Shows and Events 9/18-9/19
 date: 2026-09-18T00:54:12.236Z
 description: NYC Downtown Manhattan weekday art reception listings through
   Tribeca, LES, Chinatown
+image: /images/pace0918.jpg
+tags: nyc art openings, lower manhattan art receptions, lower east side (les)
+  art, tribeca, soho, noho, west village art shows  
 ---
 As summer winds down, downtown Manhattan is still buzzing with NYC art openings and events across Tribeca, the Lower East Side, Chinatown, and the West Village. This end-of-summer weekend brings together gallery openings, exhibitions, and cultural happenings, with most events taking place from 6-8 PM unless otherwise noted=making it an ideal time for an evening art crawl through downtown.
 
