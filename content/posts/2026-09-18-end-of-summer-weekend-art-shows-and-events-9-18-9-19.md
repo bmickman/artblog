@@ -15,6 +15,8 @@ From Tribeca art galleries and Lower East Side openings to Chinatown and West Vi
 
 [Pace University Gallery](https://www.pace.edu/dyson/life-dyson/art-gallery/current-exhibition), 41 Park Row, 'For the Love of Fragile Things' by  La Vaughn Belle, **5pm-7pm**
 
+I﻿nsider Art Fair at M5 Gallery, 6 St John's Lane, group show with 10 artists, **6pm-7pm**, [rsvp insta](https://www.instagram.com/nozomirose)
+
 [Andrew Kreps Gallery](https://www.andrewkreps.com/exhibitions/kenneth-victor-young), 394 Broadway, work by Kenneth Victor Young
 
 [Andrew Kreps Gallery](http://www.andrewkreps.com/), 72 Walker Street, 3rd Floor, work by Andrea Bowers
