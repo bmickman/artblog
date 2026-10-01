@@ -3,9 +3,6 @@ title: "October Beginning, Art Shows & Events 10/1-10/4 "
 date: 2026-10-01T20:48:57.425Z
 description: NYC Downtown Manhattan weekday art reception listings through
   Tribeca, LES, Chinatown
-image: /images/collective1001.jpg
-tags: nyc art openings, lower manhattan art receptions, lower east side (les)
-  art, tribeca, soho, noho, west village art shows  
 ---
 October is officially underway, and downtown New York is easing into fall with a busy week of art, food, culture, and neighborhood happenings. From Tribeca and SoHo to the Lower East Side and East Village, there are new reasons to wander, linger, and make a plan somewhere below Canal Street.
 
@@ -48,6 +45,8 @@ S﻿oho | Friday
 [Art Gotham](https://www.instagram.com/artgotham),  4 Saint Marks Place, 'Velvet Underground' with various artists, curated by Ross Pino, Kimberly Salib
 
 [Below Grand](https://www.belowgrandnyc.com/), 52 Allen St, 'Where Are My Keys?' with  Yan Wen Chang, Antonio Darden, Ro Miller, Stress Actual (Live), Curated by Karryl Eugene
+
+[Chinatown Soup](http://www.instagram.com/chinatownsoup), 16B Orchard St, work by Brandon Tellez
 
 [MexPino New York](https://www.averagesocialite.com/nyc-events/2026/8/7/mexpino-fest), 4th Ave at 11th & 12th St, Street Food Fair
 
