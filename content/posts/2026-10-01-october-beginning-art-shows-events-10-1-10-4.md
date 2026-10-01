@@ -3,6 +3,9 @@ title: "October Beginning, Art Shows & Events 10/1-10/4 "
 date: 2026-10-01T20:48:57.425Z
 description: NYC Downtown Manhattan weekday art reception listings through
   Tribeca, LES, Chinatown
+image: /images/collective1001.jpg
+tags: nyc art openings, lower manhattan art receptions, lower east side (les)
+  art, tribeca, soho, noho, west village art shows   
 ---
 October is officially underway, and downtown New York is easing into fall with a busy week of art, food, culture, and neighborhood happenings. From Tribeca and SoHo to the Lower East Side and East Village, there are new reasons to wander, linger, and make a plan somewhere below Canal Street.
 
