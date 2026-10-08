@@ -3,7 +3,7 @@ title: Your Week's Art Guide | Lower Manhattan Openings
 date: 2026-10-08T21:23:12.716Z
 description: NYC Downtown Manhattan weekday art reception listings through
   Tribeca, LES, Chinatown
-  image: /images/palo1008.jpg
+image: /images/palo1008.jpg
 tags: nyc art openings, lower manhattan art receptions, lower east side (les)
   art, tribeca, soho, noho, west village art shows
 ---
