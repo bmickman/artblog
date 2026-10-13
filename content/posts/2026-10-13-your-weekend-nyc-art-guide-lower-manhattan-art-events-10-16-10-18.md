@@ -2,9 +2,6 @@
 title: Your Weekend NYC Art Guide | Lower Manhattan Art & Events 10/16-10/18
 date: 2026-10-13T21:53:19.029Z
 description: LES Tribeca Chinatown NYC Listings
-image: /images/essex1016.jpg
-tags: nyc art openings, lower manhattan art receptions, lower east side (les)
-  art, tribeca, soho, noho, west village art shows
 ---
 Explore the best of the downtown art scene this weekend, from Tribeca and the Lower East Side to SoHo, the West Village, and Governors Island. With gallery openings, artist studios, and contemporary art around every corner, Lower Manhattan offers plenty of inspiration for an art-filled weekend in NYC.
 
@@ -33,6 +30,12 @@ Explore the best of the downtown art scene this weekend, from Tribeca and the Lo
 [Derek Eller Gallery](https://www.derekeller.com/exhibitions/ej-hauser4), 38 Walker Street, 'Sun Water Sky' by EJ Hauser
 
 [I﻿RL](https://www.instagram.com/irl.nyc), 86 Walker St, 2nd Fl, Synthesize Me by Olga Titus, Michael Dickey
+
+[Auxier Kline](https://www.auxierkline.com/), 19 Monroe St, I Want to Believe by Brandon Elijah Johnson
+
+***F﻿riday Art Crawl Map:***
+
+<iframe src="https://www.google.com/maps/d/u/2/embed?mid=1FByQ2ai9o1NcM3KyQUWLZe3bvKlGgm0&ehbc=2E312F" width="60%" height="380"></iframe>
 
 **W﻿est Village | Saturday**
 
