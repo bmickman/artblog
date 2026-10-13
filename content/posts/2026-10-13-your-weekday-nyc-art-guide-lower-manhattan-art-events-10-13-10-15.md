@@ -10,9 +10,11 @@ Discover this week’s best art exhibitions, gallery openings, and cultural even
 
 From immersive exhibitions and experimental installations to intimate gallery presentations and artist-driven projects, this week’s NYC art events offer plenty of reasons to explore beyond the familiar. Make time to wander through Tribeca’s gallery spaces, discover independent art venues on the Lower East Side, and experience the creative intersections of Chinatown, SoHo, and NoHo. Whether you’re a longtime art enthusiast or simply looking for inspiring things to do in downtown NYC this week, these exhibitions offer a fresh perspective on the city’s vibrant contemporary art landscape.
 
-**E﻿ast Village | Tues**
+**E﻿ast Village/Lower East Side | Tues**
 
 [Art Gotham](https://www.instagram.com/artgotham), 4 Saint Marks Place, 'Velvet Underground' with various artists, curated by Ross Pino, Kimberly Salib, closing reception
+
+[T﻿ime Again](https://www.instagram.com/bitchfork_magazine), 105 Canal St, Bitchfork (Magazine) Popup, from 6pm
 
 **N﻿oho | Weds**
 
