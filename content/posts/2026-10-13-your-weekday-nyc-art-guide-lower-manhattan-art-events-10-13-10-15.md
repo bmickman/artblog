@@ -32,6 +32,8 @@ From immersive exhibitions and experimental installations to intimate gallery pr
 
 [Sabah](https://www.instagram.com/thesabahdealer), 56 Bleeker St, work by Solem, 5pm-8pm
 
+[S﻿cavolini Soho Gallery](https://www.instagram.com/pateraperego_studio), 429 West Broadway, 'The Way Words Turn' by Federica Patera, Andrea Sbra Perego, closing reception
+
 **T﻿ribeca | Thurs**
 
 [Margot Samel](https://www.margotsamel.com/exhibition/the-divine-comedy-hell/), 295 Church Street, 'The Divine Comedy: Hell' by Annie Hémond Hotte
