@@ -46,6 +46,8 @@ From immersive exhibitions and experimental installations to intimate gallery pr
 
 [I﻿CP](https://www.icp.org/exhibitions), 79 Essex Street, 'I'm So Happy You Are Here, 5pm-8pm' curated by Pauline Vermare, Lesley A. Martin, and Takeuchi Mariko, with work by Fujioka Aya, Hara Mikiko, Hiromix, Ishikawa Mao, Ishiuchi Miyako, Katayama Mari, Kawauchi Rinko, Komatsu Hiroko, Kon Michiko, Nagashima Yurie, Narahashi Asako, Ninagawa Mika, Nishimura Tamiko, Noguchi Rika, Nomura Sakiko, Okabe Momo, Okanoue Toshiko, Onodera Yuki, Sawada Tomoko, Shiga Lieko, Sugiura Kunié, Suzuki Nozomi, Tawada Yuki, Tokiwa Toyoko, Ushioda Tokuko, Watanabe Hitomi, Yamazawa Eiko and Yanagi Miwa, 'On Rape and Institutional Failure' by Laia Abril
 
+[Gordon Gallery](https://www.gordongallery.co.il/new-york-page), 139 Norfolk St, 'In Between Form' by Sharon Etgar, Sasha Serber
+
 [Amos Eno](https://www.amoseno.org/), 191 Henry St, work by Hiroko Ohno
 
 [Van der Plas Gallery](https://www.vanderplasgallery.com/), 156 Orchard St, 'Around, Above, Below' with various artists
