@@ -18,6 +18,12 @@ Explore the best of the downtown art scene this weekend, from Tribeca and the Lo
 
 [Kates-Ferri Projects](https://www.katesferriprojects.com/), 561 Grand Street, Blow Jobs - $1, With Lipstick - $5, by Johnny Rosza, 6pm-9pm
 
+[Derosia](https://www.derosia.nyc/exhibitions), 197 Grand St, 'Heartbreak Bar' by Sam Anderson
+
+17  Essex St, Misaligned by V1ni ft Lateu, from 9pm
+
+[Auxier Kline](https://www.auxierkline.com/), 19 Monroe St, I Want to Believe by Brandon Elijah Johnson
+
 **G﻿reenwich Village | Friday**
 
 [Center for Architecture](https://www.centerforarchitecture.org/), 536 LaGuardia Place, The Municipal Sublime: A discussion By n+1 Foundation, [RSVP link](https://secure.givelively.org/event/n1-foundation-inc/the-municipal-sublime-a-discussion)
@@ -33,8 +39,6 @@ Explore the best of the downtown art scene this weekend, from Tribeca and the Lo
 [Derek Eller Gallery](https://www.derekeller.com/exhibitions/ej-hauser4), 38 Walker Street, 'Sun Water Sky' by EJ Hauser
 
 [I﻿RL](https://www.instagram.com/irl.nyc), 86 Walker St, 2nd Fl, Synthesize Me by Olga Titus, Michael Dickey
-
-[Auxier Kline](https://www.auxierkline.com/), 19 Monroe St, I Want to Believe by Brandon Elijah Johnson
 
 ***F﻿riday Art Crawl Map:***
 
