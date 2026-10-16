@@ -8,7 +8,7 @@ tags: nyc art openings, lower manhattan art receptions, lower east side (les)
 ---
 Explore the best of the downtown art scene this weekend, from Tribeca and the Lower East Side to SoHo, the West Village, and Governors Island. With gallery openings, artist studios, and contemporary art around every corner, Lower Manhattan offers plenty of inspiration for an art-filled weekend in NYC.
 
-**L﻿ower East Side | Friday**
+**L﻿ower East Side/Chinatown | Friday**
 
 [Satellite Art Show](https://www.instagram.com/satelliteartshow), 279 Broome St, Wrong Answers Only by Vance Godfrey II, 5pm-10pm
 
