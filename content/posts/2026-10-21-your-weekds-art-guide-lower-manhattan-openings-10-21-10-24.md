@@ -29,7 +29,7 @@ As you make your way through downtown, take time to explore beyond the familiar 
 
 [D﻿akota](https://www.instagram.com/d_a_k_0_t_a_), 110 Bowery, #3, Around the Sun with various artists, 6pm-10pm
 
-[Baxter St](https://www.instagram.com/baxterstccny), 154 Ludlow St, Photography's Expansion and its Discontents: A Conversation between Charlotte Keng and Danielle Ezzo, 5:30-6:30pm
+[Baxter St](https://www.instagram.com/baxterstccny), 154 Ludlow St, Photography's Expansion and its Discontents: A Conversation between Charlotte Kent and Danielle Ezzo, 5:30-6:30pm
 
 [Jackson Fischbach](https://www.instagram.com/jacksonfischbach), 29B Henry St, Shadow of a doubt by Jackson Lang Fischbach, 6pm-9pm
 
