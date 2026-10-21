@@ -1,5 +1,5 @@
 ---
-title: Your Weekd's Art Guide | Lower Manhattan Openings 10/21-10/24
+title: Your Week's Art Guide | Lower Manhattan Openings 10/21-10/24
 date: 2026-10-21T18:53:41.253Z
 description: NYC Downtown Manhattan weekday art reception listings through
   Tribeca, LES, Chinatown
