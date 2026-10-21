@@ -3,6 +3,9 @@ title: Your Weekd's Art Guide | Lower Manhattan Openings 10/21-10/24
 date: 2026-10-21T18:53:41.253Z
 description: NYC Downtown Manhattan weekday art reception listings through
   Tribeca, LES, Chinatown
+image: /images/tibor1024.jpg
+tags: nyc art openings, lower manhattan art receptions, lower east side (les)
+  art, tribeca, soho, noho, west village art shows  
 ---
 From Tribeca and SoHo to the Lower East Side, Two Bridges, Chinatown, and the West Village, this week’s listings invite you to explore downtown Manhattan’s ever-evolving gallery scene. Discover contemporary painting, ambitious installations, thoughtful group exhibitions, and independent art spaces that offer new perspectives on the city’s creative landscape. Whether you’re planning a full afternoon of gallery hopping or looking for a single exhibition to inspire your week, there’s plenty to discover across these six neighborhoods.
 
