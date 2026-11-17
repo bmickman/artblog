@@ -3,6 +3,9 @@ title: Your Weekday Art & Event Guide | Lower Manhattan Happenings 11/18-11/19
 date: 2026-11-17T22:41:09.432Z
 description: NYC Downtown Manhattan weekday art reception listings through
   Tribeca, LES, Chinatown
+image: /images/leonard1119.jpg
+tags: nyc art openings, lower manhattan art receptions, lower east side (les)
+  art, tribeca, soho, noho, west village art shows    
 ---
 With Thanksgiving just around the corner, it's one of the last opportunities to enjoy the city's downtown art scene before the holiday slowdown. From the Lower East Side and East Village to SoHo and Tribeca, this week's cultural calendar offers plenty of reasons to explore, discover new perspectives, and spend an evening moving between galleries, exhibitions, and creative happenings. A moment to take in what's new, reconnect with the city's artistic energy, and enjoy downtown before the holiday season takes over.
 
