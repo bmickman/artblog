@@ -2,6 +2,9 @@
 title: Your Weekend NYC Art Guide | Lower Manhattan Art & Events 11/20-11/21
 date: 2026-11-18T00:23:17.177Z
 description: NYC Tribeca Chinatown Soho West Village East Village art events
+image: /images/nowhere1120.jpg
+tags: nyc art openings, lower manhattan art receptions, lower east side (les)
+  art, tribeca, soho, noho, west village art shows
 ---
 Looking for things to do in downtown NYC this weekend? From the Lower East Side and West Village to SoHo and Tribeca, this weekend’s lineup offers plenty of reasons to explore Manhattan’s downtown neighborhoods. Discover new art exhibitions, gallery openings, artist talks, film screenings, live music, performances, and other cultural happenings, with something of interest for art lovers, curious locals, and anyone looking to make the most of a weekend in the city.
 
