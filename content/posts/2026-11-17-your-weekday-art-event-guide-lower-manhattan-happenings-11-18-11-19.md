@@ -5,7 +5,7 @@ description: NYC Downtown Manhattan weekday art reception listings through
   Tribeca, LES, Chinatown
 image: /images/leonard1119.jpg
 tags: nyc art openings, lower manhattan art receptions, lower east side (les)
-  art, tribeca, soho, noho, west village art shows    
+  art, tribeca, soho, noho, west village art shows
 ---
 With Thanksgiving just around the corner, it's one of the last opportunities to enjoy the city's downtown art scene before the holiday slowdown. From the Lower East Side and East Village to SoHo and Tribeca, this week's cultural calendar offers plenty of reasons to explore, discover new perspectives, and spend an evening moving between galleries, exhibitions, and creative happenings. A moment to take in what's new, reconnect with the city's artistic energy, and enjoy downtown before the holiday season takes over.
 
@@ -84,6 +84,8 @@ With Thanksgiving just around the corner, it's one of the last opportunities to 
 [March](https://www.marchgallery.org/exhibitions/its-a-secret/), 62–64 Avenue A, It’s A Secret by John Kayser, Josef Hofer, Bady Dalloul, Claudia Keep, Jose Bonell
 
 [Westwood Gallery](https://westwoodgallery.com/exhibitions/170-ron-morosan-circular-causality/), 262 Bowery, Circular Causality, by Ron Morosan, curated by James Cavello, [RSVP](https://docs.google.com/forms/d/e/1FAIpQLSc7QP_sH0T-lu6qD2_xoZVIX0uORlpoP0BZrZabGd4fG38Ghg/viewform)
+
+[H﻿eller Museum](https://www.instagram.com/jewishartsalon), 1 West 4th St, 'work by Hineni
 
 ***T﻿hursday Art Crawl Map:***
 
