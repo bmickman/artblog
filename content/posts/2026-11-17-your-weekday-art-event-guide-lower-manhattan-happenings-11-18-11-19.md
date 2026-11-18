@@ -77,8 +77,6 @@ With Thanksgiving just around the corner, it's one of the last opportunities to 
 
 [A﻿wake](https://www.instagram.com/awakenewyorkclothing), 62 Orchard St, Scent Control x A$AP ILLZ popup, 4pm-7pm
 
-[Gordon Gallery](https://www.gordongallery.co.il/new-york-page), 139 Norfolk St, Atlit by Michael Kovner
-
 [Lichtundfire](https://www.lichtundfire.com/), 175 Rivington St, Beyond Magic with various artists, curated by Priska Juschka
 
 [March](https://www.marchgallery.org/exhibitions/its-a-secret/), 62–64 Avenue A, It’s A Secret by John Kayser, Josef Hofer, Bady Dalloul, Claudia Keep, Jose Bonell
